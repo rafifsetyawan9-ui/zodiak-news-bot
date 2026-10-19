@@ -530,6 +530,37 @@ def send_telegram(text: str) -> None:
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
+def render_preview_requests() -> None:
+    """Pratinjau kartu: kalau ada previews/REQUEST.json, buat kartunya lalu commit ke repo.
+    Dipakai untuk mencoba desain dari luar GitHub. Tidak berjalan kalau file itu tidak ada."""
+    req = Path("previews/REQUEST.json")
+    if not req.exists():
+        return
+    import subprocess
+    import ai_image
+    import news_card
+    items = json.loads(req.read_text(encoding="utf-8"))
+    for it in items:
+        bg = ai_image.generate(it["prompt"], seed=it.get("seed")) if it.get("prompt") else None
+        pub = datetime.fromisoformat(it["published"]) if it.get("published") else None
+        news_card.make_card(it["judul"], high_impact=it.get("high_impact", False), aset=it.get("aset", []),
+                            move=it.get("move"), published=pub, source=it.get("source", ""),
+                            out_path=f"previews/{it['name']}.png", background=bg)
+        log(f"[PREVIEW] {it['name']}: {'dengan ilustrasi AI' if bg else 'TANPA ilustrasi (AI gagal)'}")
+    req.unlink()
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        cmds = [["git", "config", "user.name", "zodiak-news-bot"],
+                ["git", "config", "user.email", "zodiak-news-bot@users.noreply.github.com"],
+                ["git", "add", "-A", "previews"],
+                ["git", "commit", "-m", "chore: pratinjau kartu berita [skip ci]"],
+                ["git", "push"]]
+        for c in cmds:
+            r = subprocess.run(c, capture_output=True, text=True)
+            if r.returncode:
+                log(f"[WARN] {' '.join(c[:2])}: {r.stderr[:200]}")
+                break
+
+
 def check_feeds() -> int:
     now = datetime.now(timezone.utc)
     ok = 0
@@ -633,6 +664,10 @@ def main() -> int:
     parser.add_argument("--check-feeds", action="store_true", help="tes semua feed RSS lalu keluar")
     args = parser.parse_args()
     if args.check_feeds:
+        try:
+            render_preview_requests()
+        except Exception as exc:
+            log(f"[WARN] pratinjau gagal: {str(exc)[:200]}")
         return check_feeds()
     if not args.dry_run:
         missing = [k for k in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID") if not os.environ.get(k)]
