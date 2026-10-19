@@ -50,6 +50,7 @@ Kata kunci filter dan sumber berita ada di bagian atas `news_bot.py`.
   Pilih: repo public (gratis tanpa batas), atau ganti cron jadi `*/30 * * * *` kalau mau private.
 - **Cron GitHub bisa telat** beberapa menit, kadang lebih saat jam sibuk. Jadi ini "hampir real-time", bukan detik.
 - **Workflow terjadwal bisa dimatikan otomatis** GitHub kalau repo tidak ada aktivitas ±60 hari. Kalau bot tiba-tiba diam, cek tab Actions dan klik Enable.
+- **Harga emas** diambil dari Yahoo Finance (emas berjangka COMEX `GC=F`, gratis). Persentase geraknya hampir sama dengan XAUUSD spot di TradingView, tapi angka harganya bisa beda beberapa dolar. Kalau sumber harga gagal, berita tetap terkirim tanpa baris harga. Mode `check` ikut mengetes sumber harga.
 - **Gemini gratis:** batas pemakaian gratis ditentukan Google dan bisa berubah. Kalau log menunjukkan `429`, berarti batas tercapai; turunkan `MAX_PER_DAY` atau tunggu besok. Model dipilih otomatis; kalau Google ganti nama model, isi `GEMINI_MODEL` di `news.yml`.
 - **Kalau bot gagal** (token salah, bot bukan admin, API key ditolak), workflow ditandai merah dan GitHub mengirim email notifikasi.
 - **Hak cipta:** bot hanya memakai judul + cuplikan RSS, meringkas dengan kata sendiri, dan selalu menautkan sumber. Jangan ubah jadi menyalin artikel penuh.
