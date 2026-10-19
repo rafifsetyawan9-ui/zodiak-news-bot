@@ -571,6 +571,43 @@ def render_preview_requests() -> None:
     import ai_image
     out = Path("previews")
     for it in json.loads(req.read_text(encoding="utf-8")):
+        if it.get("type") == "gemini_probe":
+            import base64
+            key = os.environ.get("GEMINI_API_KEY", "")
+            base = "https://generativelanguage.googleapis.com/v1beta"
+            h = {"x-goog-api-key": key, "Content-Type": "application/json"}
+            r = requests.get(f"{base}/models?pageSize=1000", headers=h, timeout=30)
+            names = [m["name"] for m in r.json().get("models", [])
+                     if "image" in m["name"] or "imagen" in m["name"]]
+            log(f"[GIMG] model gambar tersedia: {names}")
+            prompt = it["prompt"]
+            for name in names[:6]:
+                try:
+                    if "imagen" in name:
+                        rr = requests.post(f"{base}/{name}:predict", headers=h, timeout=120,
+                                           json={"instances": [{"prompt": prompt}],
+                                                 "parameters": {"sampleCount": 1, "aspectRatio": "16:9"}})
+                        data = rr.json()
+                        b64 = (data.get("predictions") or [{}])[0].get("bytesBase64Encoded")
+                    else:
+                        rr = requests.post(f"{base}/{name}:generateContent", headers=h, timeout=120,
+                                           json={"contents": [{"parts": [{"text": prompt}]}],
+                                                 "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]}})
+                        data = rr.json()
+                        b64 = None
+                        for part in (data.get("candidates") or [{}])[0].get("content", {}).get("parts", []):
+                            if part.get("inlineData", {}).get("data"):
+                                b64 = part["inlineData"]["data"]
+                    if b64:
+                        fn = out / f"gemini_{name.split('/')[-1]}.png"
+                        fn.write_bytes(base64.b64decode(b64))
+                        log(f"[GIMG] {name}: BERHASIL")
+                    else:
+                        log(f"[GIMG] {name}: HTTP {rr.status_code} {redact(json.dumps(data))[:300]}")
+                except Exception as exc:
+                    log(f"[GIMG] {name}: error {str(exc)[:150]}")
+                time.sleep(3)
+            continue
         if it.get("type") == "probe":
             entries, _, _ = fetch_all()
             entries = sorted([e for e in entries if e["published"]], key=lambda e: e["published"], reverse=True)
