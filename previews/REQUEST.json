@@ -1,6 +1,0 @@
-[{"type": "url_probe", "urls": [
- "https://fastxaunews.com/feed", "https://fastxaunews.com/rss", "https://fastxaunews.com/rss.xml",
- "https://fastxaunews.com/id/rss", "https://fastxaunews.com/id/feed", "https://fastxaunews.com/id/rss.xml",
- "https://fastxaunews.com/sitemap.xml", "https://fastxaunews.com/robots.txt", "https://fastxaunews.com/id/news",
- "https://fastxaunews.com/api/news?lang=id"
-]}, {"type": "html_peek", "urls": ["https://fastxaunews.com/robots.txt", "https://fastxaunews.com/id/news", "https://fastxaunews.com/id"]}]
