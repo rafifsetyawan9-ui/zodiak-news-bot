@@ -41,6 +41,10 @@ FEEDS = [
     {"name": "Investing.com Forex", "url": "https://www.investing.com/rss/news_1.rss"},
     {"name": "Investing.com Commodities", "url": "https://www.investing.com/rss/news_11.rss"},
     {"name": "investingLive", "url": "https://investinglive.com/feed"},
+    {"name": "FXEmpire", "url": "https://www.fxempire.com/api/v1/en/articles/rss/forecasts"},
+    # Kitco tidak punya RSS sendiri -> lewat Google News (tanpa foto)
+    {"name": "Kitco", "url": "https://news.google.com/rss/search?q=site:kitco.com+when:1d&hl=en-US&gl=US&ceid=US:en",
+     "strip_suffix": " - Kitco NEWS"},
 ]
 
 # ---------------------------------------------------------------------------
@@ -186,6 +190,8 @@ def entry_image(e) -> str | None:
 
 def page_image(url: str) -> str | None:
     """Cadangan: gambar utama (og:image) dari halaman berita."""
+    if "news.google.com" in url:
+        return None  # halaman redirect Google News tidak punya foto berita
     try:
         r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
         r.raise_for_status()
@@ -205,6 +211,8 @@ def fetch_feed(feed: dict) -> list[dict]:
     items = []
     for e in parsed.entries:
         title = clean_text(e.get("title", ""))
+        for suf in [feed.get("strip_suffix")] if feed.get("strip_suffix") else []:
+            title = re.sub(re.escape(suf) + r"\s*$", "", title, flags=re.I)
         link = e.get("link", "")
         if not title or not link:
             continue
@@ -297,6 +305,7 @@ def load_state() -> dict:
     state.setdefault("links", {})
     state.setdefault("titles", [])
     state.setdefault("daily", {})
+    state.setdefault("reminders", {})
     return state
 
 
@@ -317,6 +326,7 @@ def prune_state(state: dict, now: datetime) -> None:
     state["titles"] = [t for t in state["titles"] if (_parse_ts(t.get("ts")) or now) >= cutoff]
     keep_days = {(now.astimezone(WIB) - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(7)}
     state["daily"] = {k: v for k, v in state["daily"].items() if k in keep_days}
+    state["reminders"] = {k: v for k, v in state.get("reminders", {}).items() if (_parse_ts(v) or now) >= cutoff}
 
 
 def mark_seen(state: dict, cand: dict, now: datetime) -> None:
@@ -558,6 +568,83 @@ def send_telegram(text: str) -> None:
         raise RuntimeError(f"Telegram menolak ({resp.status_code}): {redact(resp.text)[:300]}")
 
 
+# ---------------------------------------------------------------------------
+# Pengingat kalender ekonomi (ForexFactory). Kirim ±10-45 menit sebelum rilis data
+# berdampak tinggi untuk USD (paling berpengaruh ke XAUUSD).
+# ---------------------------------------------------------------------------
+CALENDAR_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+REMIND_MIN, REMIND_MAX = 10, 45
+FLAG = {"USD": "🇺🇸", "EUR": "🇪🇺", "GBP": "🇬🇧", "JPY": "🇯🇵", "CNY": "🇨🇳", "AUD": "🇦🇺", "CAD": "🇨🇦",
+        "CHF": "🇨🇭", "NZD": "🇳🇿", "All": "🌐"}
+
+
+def fetch_calendar() -> list[dict]:
+    r = requests.get(CALENDAR_URL, headers={"User-Agent": USER_AGENT}, timeout=20)
+    r.raise_for_status()
+    return r.json()
+
+
+def due_reminders(events: list[dict], state: dict, now: datetime, countries=("USD",)) -> list[dict]:
+    """Event high impact yang rilis dalam REMIND_MIN-REMIND_MAX menit lagi dan belum diingatkan."""
+    due = []
+    for ev in events:
+        if ev.get("impact") != "High" or ev.get("country") not in countries:
+            continue
+        try:
+            t = datetime.fromisoformat(ev["date"]).astimezone(timezone.utc)
+        except (KeyError, ValueError):
+            continue
+        mins = (t - now).total_seconds() / 60
+        key = f"{ev.get('country')}|{ev.get('title')}|{t.isoformat()}"
+        if REMIND_MIN <= mins <= REMIND_MAX and key not in state["reminders"]:
+            due.append({**ev, "time": t, "minutes": int(round(mins)), "key": key})
+    return due
+
+
+def format_reminder(group: list[dict]) -> str:
+    esc = html.escape
+    t = group[0]["time"].astimezone(WIB)
+    lines = ["⏰ <b>PENGINGAT RILIS DATA (HIGH IMPACT)</b>", ""]
+    for ev in group:
+        lines.append(f"{FLAG.get(ev.get('country'), '')} <b>{esc(ev.get('country', ''))} – {esc(ev.get('title', ''))}</b>")
+        extra = []
+        if ev.get("forecast"):
+            extra.append(f"Perkiraan: {esc(ev['forecast'])}")
+        if ev.get("previous"):
+            extra.append(f"Sebelumnya: {esc(ev['previous'])}")
+        if extra:
+            lines.append("    " + " · ".join(extra))
+    lines += [
+        "",
+        f"🕗 Rilis pukul <b>{t:%H:%M} WIB</b> (±{group[0]['minutes']} menit lagi)",
+        "📌 Data seperti ini biasanya membuat XAUUSD dan pair USD bergerak cepat. Spread bisa melebar saat rilis.",
+        "",
+        "⚠️ <i>Info jadwal, bukan ajakan jual/beli.</i>",
+    ]
+    return "\n".join(lines)
+
+
+def run_reminders(state: dict, now: datetime, dry_run: bool) -> None:
+    try:
+        events = fetch_calendar()
+    except Exception as exc:
+        log(f"[WARN] kalender ekonomi tidak bisa diambil: {str(exc)[:120]}")
+        return
+    due = due_reminders(events, state, now)
+    groups: dict[str, list[dict]] = {}
+    for ev in due:
+        groups.setdefault(ev["time"].isoformat(), []).append(ev)
+    for _, group in sorted(groups.items()):
+        msg = format_reminder(group)
+        if dry_run:
+            log("-" * 40 + f"\n{msg}")
+        else:
+            send_telegram(msg)
+            for ev in group:
+                state["reminders"][ev["key"]] = now.isoformat()
+        log(f"[PENGINGAT] {', '.join(ev['title'] for ev in group)}")
+
+
 def download_image(url: str) -> bytes | None:
     """Unduh foto berita (maks 10 MB). Gagal -> None, berita tetap terkirim tanpa foto."""
     try:
@@ -736,6 +823,11 @@ def run(dry_run: bool = False) -> int:
     if ok == 0:
         log("[ERROR] semua feed gagal diakses")
         return 1
+
+    try:
+        run_reminders(state, now, dry_run)
+    except RuntimeError as exc:  # error Telegram
+        log(f"[ERROR] pengingat: {exc}")
 
     candidates = select_candidates(entries, state, now, cfg)
     today = now.astimezone(WIB).strftime("%Y-%m-%d")
