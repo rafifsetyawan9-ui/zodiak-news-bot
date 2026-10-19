@@ -689,6 +689,16 @@ def render_preview_requests() -> None:
     import ai_image
     out = Path("previews")
     for it in json.loads(req.read_text(encoding="utf-8")):
+        if it.get("type") == "html_peek":
+            for u in it["urls"]:
+                try:
+                    r = requests.get(u, headers={"User-Agent": USER_AGENT}, timeout=20)
+                    body = r.text
+                    links = sorted(set(re.findall(r'(?:href|src)=["\']([^"\']*(?:rss|feed|atom|xml|api|t\.me|telegram)[^"\']*)', body, re.I)))[:30]
+                    log(f"[PEEK] {r.status_code} {r.headers.get('content-type','')} {len(body)}B | {u}\n  links: {links}\n  head: {re.sub(chr(92)+'s+',' ',body[:600])}")
+                except Exception as exc:
+                    log(f"[PEEK] ERROR {str(exc)[:100]} | {u}")
+            continue
         if it.get("type") == "url_probe":
             now = datetime.now(timezone.utc)
             for u in it["urls"]:
