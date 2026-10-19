@@ -614,7 +614,7 @@ def run(dry_run: bool = False) -> int:
                 time.sleep(2)
             mark_sent(state, cand, now)
             sent += 1
-            log(f"[SENT] {item['judul'][:70]}")
+            log(f"[{'DRY' if dry_run else 'SENT'}] {item['judul'][:70]}")
         if api_calls and api_errors == api_calls and sent == 0 and exit_code == 0:
             exit_code = 1  # semua panggilan Gemini gagal
     except RuntimeError as exc:  # error Telegram
@@ -623,7 +623,7 @@ def run(dry_run: bool = False) -> int:
     finally:
         if not dry_run:
             save_state(state)
-    log(f"Selesai: {sent} berita terkirim.")
+    log(f"Selesai: {sent} berita {'disiapkan (dry-run, tidak dikirim)' if dry_run else 'terkirim'}.")
     return exit_code
 
 
