@@ -558,6 +558,37 @@ def send_telegram(text: str) -> None:
         raise RuntimeError(f"Telegram menolak ({resp.status_code}): {redact(resp.text)[:300]}")
 
 
+def download_image(url: str) -> bytes | None:
+    """Unduh foto berita (maks 10 MB). Gagal -> None, berita tetap terkirim tanpa foto."""
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
+        r.raise_for_status()
+        if not r.headers.get("content-type", "").startswith("image/") or len(r.content) > 10_000_000:
+            return None
+        return r.content
+    except Exception:
+        return None
+
+
+def send_photo(image: bytes, caption: str) -> None:
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    try:
+        resp = requests.post(
+            f"https://api.telegram.org/bot{token}/sendPhoto",
+            data={"chat_id": os.environ["TELEGRAM_CHAT_ID"], "caption": caption, "parse_mode": "HTML"},
+            files={"photo": ("berita.jpg", image)},
+            timeout=40,
+        )
+    except requests.RequestException as exc:
+        raise RuntimeError(f"gagal kirim foto: {redact(str(exc))[:150]}") from None
+    if not resp.ok:
+        raise RuntimeError(f"Telegram menolak foto ({resp.status_code}): {redact(resp.text)[:200]}")
+
+
+def find_image(cand: dict) -> str | None:
+    return cand.get("image") or page_image(cand["link"])
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -724,10 +755,20 @@ def run(dry_run: bool = False) -> int:
                 continue
             move = price_move(get_gold_series(), cand.get("published"))
             message = format_message(item, cand, move)
+            img_url = find_image(cand)
             if dry_run:
-                log("-" * 40 + f"\n{message}\n(skor {cand['score']}, {cand['source']})")
+                log("-" * 40 + f"\n{message}\n[FOTO] {img_url or 'tidak ada'}\n(skor {cand['score']}, {cand['source']})")
             else:
                 send_telegram(message)
+                if img_url:
+                    data = download_image(img_url)
+                    try:
+                        if not data:
+                            raise RuntimeError("foto tidak bisa diunduh")
+                        send_photo(data, f"<i>Sumber gambar: {html.escape(cand['source'])}</i>")
+                        log("[FOTO] terkirim")
+                    except RuntimeError as exc:
+                        log(f"[WARN] foto dilewati: {exc}")  # teks sudah terkirim, jangan gagalkan run
                 time.sleep(2)
             mark_sent(state, cand, now)
             sent += 1
