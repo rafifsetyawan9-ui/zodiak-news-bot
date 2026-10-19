@@ -689,6 +689,14 @@ def render_preview_requests() -> None:
     import ai_image
     out = Path("previews")
     for it in json.loads(req.read_text(encoding="utf-8")):
+        if it.get("type") == "raw":
+            for u in it["urls"]:
+                try:
+                    r = requests.get(u, headers={"User-Agent": USER_AGENT}, timeout=20)
+                    log(f"[RAW] {u}\n{r.text[: it.get('n', 2500)]}")
+                except Exception as exc:
+                    log(f"[RAW] ERROR {exc} | {u}")
+            continue
         if it.get("type") == "html_peek":
             for u in it["urls"]:
                 try:
