@@ -95,8 +95,22 @@ Balas HANYA dengan JSON, tanpa teks lain:
 {"relevan": true, "judul": "judul Indonesia maks 90 karakter", "ringkasan": ["paragraf 1", "paragraf 2 (opsional)", "paragraf 3 (opsional)"], "dampak_emas": "1-2 kalimat", "aset": ["XAUUSD", "USD"]}"""
 
 
+_LOG_BUFFER: list[str] = []
+
+
 def log(msg: str) -> None:
-    print(redact(msg), flush=True)
+    msg = redact(msg)
+    _LOG_BUFFER.append(msg)
+    print(msg, flush=True)
+
+
+def emit_annotation() -> None:
+    """Tampilkan ringkasan log sebagai annotation GitHub (terlihat di halaman Summary run)."""
+    if os.environ.get("GITHUB_ACTIONS") != "true" or not _LOG_BUFFER:
+        return
+    text = "\n".join(_LOG_BUFFER)[-60000:]
+    text = text.replace("%", "%25").replace("\r", "").replace("\n", "%0A")
+    print(f"::notice title=Hasil ZODIAK News Bot::{text}", flush=True)
 
 
 def redact(text: str) -> str:
@@ -629,4 +643,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        code = main()
+    finally:
+        emit_annotation()
+    sys.exit(code)
