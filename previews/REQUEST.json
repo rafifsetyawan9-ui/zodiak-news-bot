@@ -1,0 +1,17 @@
+[{"type": "url_probe", "urls": [
+ "https://www.kitco.com/rss/news.xml",
+ "https://www.kitco.com/news/rss",
+ "https://www.kitco.com/feed",
+ "https://news.google.com/rss/search?q=site:kitco.com+gold&hl=en-US&gl=US&ceid=US:en",
+ "https://www.fxempire.com/api/v1/en/articles/rss/news",
+ "https://www.fxempire.com/api/v1/en/articles/rss/forecasts",
+ "https://www.fxempire.com/news/feed",
+ "https://www.dailyfx.com/feeds/market-news",
+ "https://www.dailyfx.com/feeds/all",
+ "https://www.fxstreet.com/rss/news",
+ "https://www.fxstreet.com/rss/analysis",
+ "https://news.google.com/rss/search?q=gold+price+XAU+when:1d&hl=en-US&gl=US&ceid=US:en",
+ "https://nfs.faireconomy.media/ff_calendar_thisweek.json",
+ "https://fastxau.com/feed",
+ "https://www.fastxau.com/rss"
+]}]

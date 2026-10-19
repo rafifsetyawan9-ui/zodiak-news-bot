@@ -602,6 +602,25 @@ def render_preview_requests() -> None:
     import ai_image
     out = Path("previews")
     for it in json.loads(req.read_text(encoding="utf-8")):
+        if it.get("type") == "url_probe":
+            now = datetime.now(timezone.utc)
+            for u in it["urls"]:
+                try:
+                    r = requests.get(u, headers={"User-Agent": USER_AGENT}, timeout=20)
+                    ct = r.headers.get("content-type", "")
+                    if "json" in ct:
+                        data = r.json()
+                        log(f"[URL] {r.status_code} JSON {len(data) if isinstance(data, list) else '?'} item | {u} | {str(data)[:160]}")
+                        continue
+                    f = feedparser.parse(r.content)
+                    dated = [entry_time(e) for e in f.entries if entry_time(e)]
+                    age = int((now - max(dated)).total_seconds() // 60) if dated else None
+                    imgs = sum(1 for e in f.entries if entry_image(e))
+                    t = clean_text(f.entries[0].get("title", ""))[:70] if f.entries else ""
+                    log(f"[URL] {r.status_code} {len(f.entries)} item, terbaru {age} mnt, {imgs} bergambar | {u} | {t}")
+                except Exception as exc:
+                    log(f"[URL] ERROR {str(exc)[:100]} | {u}")
+            continue
         if it.get("type") == "gemini_probe":
             import base64
             key = os.environ.get("GEMINI_API_KEY", "")
