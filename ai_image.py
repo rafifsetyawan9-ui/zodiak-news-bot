@@ -5,6 +5,7 @@ from __future__ import annotations
 import io
 import os
 import random
+import time
 from urllib.parse import quote
 
 import requests
@@ -22,12 +23,20 @@ def generate(prompt: str, seed: int | None = None, timeout: int = 60) -> Image.I
     token = os.environ.get("POLLINATIONS_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    try:
-        resp = requests.get(url, headers=headers, timeout=timeout)
-        resp.raise_for_status()
-        if not resp.headers.get("content-type", "").startswith("image/"):
-            raise ValueError(f"bukan gambar: {resp.headers.get('content-type')}")
-        return Image.open(io.BytesIO(resp.content)).convert("RGB")
-    except Exception as exc:
-        print(f"[WARN] ilustrasi AI gagal: {str(exc)[:150]}", flush=True)
-        return None
+    last = None
+    for attempt in range(3):  # layanan gratis membatasi permintaan beruntun: tunggu lalu coba lagi
+        try:
+            resp = requests.get(url, headers=headers, timeout=timeout)
+            if resp.status_code == 429:
+                raise ValueError("429 terlalu cepat")
+            resp.raise_for_status()
+            if not resp.headers.get("content-type", "").startswith("image/"):
+                raise ValueError(f"bukan gambar: {resp.headers.get('content-type')} {resp.text[:120]}")
+            img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+            print(f"[INFO] ilustrasi AI {img.width}x{img.height}", flush=True)
+            return img
+        except Exception as exc:
+            last = exc
+            time.sleep(15 * (attempt + 1))
+    print(f"[WARN] ilustrasi AI gagal: {str(last)[:200]}", flush=True)
+    return None

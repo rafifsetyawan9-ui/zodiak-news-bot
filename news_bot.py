@@ -546,7 +546,8 @@ def render_preview_requests() -> None:
         news_card.make_card(it["judul"], high_impact=it.get("high_impact", False), aset=it.get("aset", []),
                             move=it.get("move"), published=pub, source=it.get("source", ""),
                             out_path=f"previews/{it['name']}.png", background=bg)
-        log(f"[PREVIEW] {it['name']}: {'dengan ilustrasi AI' if bg else 'TANPA ilustrasi (AI gagal)'}")
+        log(f"[PREVIEW] {it['name']}: {f'ilustrasi AI {bg.width}x{bg.height}' if bg else 'TANPA ilustrasi (AI gagal)'}")
+        time.sleep(16)
     req.unlink()
     if os.environ.get("GITHUB_ACTIONS") == "true":
         cmds = [["git", "config", "user.name", "zodiak-news-bot"],

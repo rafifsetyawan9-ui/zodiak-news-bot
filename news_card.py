@@ -78,7 +78,7 @@ def _apply_background(img: Image.Image, bg: Image.Image) -> None:
     bg = bg.resize((int(bg.width * scale) + 1, int(bg.height * scale) + 1), Image.LANCZOS)
     left, top = (bg.width - W) // 2, (bg.height - TOP_H) // 2
     bg = bg.crop((left, top, left + W, top + TOP_H))
-    bg = Image.blend(bg, Image.new("RGB", bg.size, (25, 25, 25)), 0.42)  # gelapkan biar judul terbaca
+    bg = Image.blend(bg, Image.new("RGB", bg.size, (25, 25, 25)), 0.30)  # gelapkan biar judul terbaca
     mask = Image.new("L", (W, TOP_H), 255)
     md = ImageDraw.Draw(mask)
     for i in range(FADE):
