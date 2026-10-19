@@ -1,11 +1,14 @@
 {
  "daily": {
   "2026-10-19": 1,
-  "2026-10-20": 1
+  "2026-10-20": 4
  },
  "links": {
+  "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/": "2026-10-19T19:24:58.051883+00:00",
   "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-19T18:07:17.135851+00:00",
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
+  "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00"
  },
  "reminders": {},
@@ -38,6 +41,51 @@
     "xauusd"
    ],
    "ts": "2026-10-19T18:07:17.135851+00:00"
+  },
+  {
+   "tok": [
+    "2028",
+    "500",
+    "but",
+    "cibc",
+    "cuts",
+    "forecasts",
+    "gold",
+    "sees",
+    "still"
+   ],
+   "ts": "2026-10-19T19:24:58.051883+00:00"
+  },
+  {
+   "tok": [
+    "bond",
+    "forecast",
+    "french",
+    "global",
+    "markets",
+    "oil",
+    "retreats",
+    "surge",
+    "yields"
+   ],
+   "ts": "2026-10-19T19:24:58.051883+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "boc",
+    "canadian",
+    "dollar",
+    "four",
+    "high",
+    "hike",
+    "kitco",
+    "nearly",
+    "notches",
+    "rate",
+    "week"
+   ],
+   "ts": "2026-10-19T19:24:58.051883+00:00"
   }
  ]
 }
