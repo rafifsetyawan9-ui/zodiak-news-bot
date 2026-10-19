@@ -166,6 +166,36 @@ def entry_time(entry) -> datetime | None:
     return None
 
 
+IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)', re.I)
+OG_RE = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)', re.I)
+OG_RE2 = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']', re.I)
+
+
+def entry_image(e) -> str | None:
+    """Gambar bawaan berita dari RSS (media:content, thumbnail, enclosure, atau <img> di ringkasan)."""
+    for key in ("media_content", "media_thumbnail"):
+        for m in e.get(key) or []:
+            if m.get("url"):
+                return m["url"]
+    for enc in e.get("enclosures") or []:
+        if str(enc.get("type", "")).startswith("image") and enc.get("href"):
+            return enc["href"]
+    m = IMG_RE.search(e.get("summary", "") or "")
+    return m.group(1) if m else None
+
+
+def page_image(url: str) -> str | None:
+    """Cadangan: gambar utama (og:image) dari halaman berita."""
+    try:
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
+        r.raise_for_status()
+        head = r.text[:200000]
+        m = OG_RE.search(head) or OG_RE2.search(head)
+        return html.unescape(m.group(1)) if m else None
+    except Exception:
+        return None
+
+
 def fetch_feed(feed: dict) -> list[dict]:
     resp = requests.get(feed["url"], headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
@@ -184,6 +214,7 @@ def fetch_feed(feed: dict) -> list[dict]:
             "source": feed["name"],
             "published": entry_time(e),
             "snippet": clean_text(e.get("summary", ""))[:800],
+            "image": entry_image(e),
         })
     return items
 
@@ -531,29 +562,46 @@ def send_telegram(text: str) -> None:
 # Main
 # ---------------------------------------------------------------------------
 def render_preview_requests() -> None:
-    """Pratinjau kartu: kalau ada previews/REQUEST.json, buat kartunya lalu commit ke repo.
-    Dipakai untuk mencoba desain dari luar GitHub. Tidak berjalan kalau file itu tidak ada."""
+    """Pratinjau: kalau ada previews/REQUEST.json, jalankan isinya lalu commit hasil ke repo.
+    Dipakai untuk mencoba fitur dari luar GitHub. Tidak berjalan kalau file itu tidak ada."""
     req = Path("previews/REQUEST.json")
     if not req.exists():
         return
     import subprocess
     import ai_image
-    import news_card
-    items = json.loads(req.read_text(encoding="utf-8"))
-    for it in items:
-        bg = ai_image.generate(it["prompt"], seed=it.get("seed")) if it.get("prompt") else None
-        pub = datetime.fromisoformat(it["published"]) if it.get("published") else None
-        news_card.make_card(it["judul"], high_impact=it.get("high_impact", False), aset=it.get("aset", []),
-                            move=it.get("move"), published=pub, source=it.get("source", ""),
-                            out_path=f"previews/{it['name']}.png", background=bg)
-        log(f"[PREVIEW] {it['name']}: {f'ilustrasi AI {bg.width}x{bg.height}' if bg else 'TANPA ilustrasi (AI gagal)'}")
-        time.sleep(16)
+    out = Path("previews")
+    for it in json.loads(req.read_text(encoding="utf-8")):
+        if it.get("type") == "probe":
+            entries, _, _ = fetch_all()
+            entries = sorted([e for e in entries if e["published"]], key=lambda e: e["published"], reverse=True)
+            report = []
+            for e in entries[: it.get("n", 12)]:
+                img = e.get("image") or page_image(e["link"])
+                report.append({"source": e["source"], "title": e["title"], "link": e["link"],
+                               "rss_image": e.get("image"), "image": img,
+                               "published": e["published"].isoformat()})
+                log(f"[PROBE] {e['source']}: {'ADA' if img else 'tanpa'} gambar ({'RSS' if e.get('image') else 'halaman' if img else '-'}) | {e['title'][:60]}")
+            (out / "probe.json").write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+            for i, r in enumerate(report):
+                if r["image"] and i < 4:
+                    try:
+                        b = requests.get(r["image"], headers={"User-Agent": USER_AGENT}, timeout=20)
+                        b.raise_for_status()
+                        (out / f"probe_img_{i}.jpg").write_bytes(b.content)
+                    except Exception as exc:
+                        log(f"[PROBE] gagal unduh gambar {i}: {str(exc)[:100]}")
+        else:
+            img = ai_image.generate(it["prompt"], seed=it.get("seed"))
+            if img:
+                img.save(out / f"{it['name']}.jpg", quality=90)
+            log(f"[PREVIEW] {it['name']}: {f'ilustrasi AI {img.width}x{img.height}' if img else 'GAGAL'}")
+            time.sleep(16)
     req.unlink()
     if os.environ.get("GITHUB_ACTIONS") == "true":
         cmds = [["git", "config", "user.name", "zodiak-news-bot"],
                 ["git", "config", "user.email", "zodiak-news-bot@users.noreply.github.com"],
                 ["git", "add", "-A", "previews"],
-                ["git", "commit", "-m", "chore: pratinjau kartu berita [skip ci]"],
+                ["git", "commit", "-m", "chore: pratinjau [skip ci]"],
                 ["git", "push"]]
         for c in cmds:
             r = subprocess.run(c, capture_output=True, text=True)

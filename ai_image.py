@@ -11,14 +11,15 @@ from urllib.parse import quote
 import requests
 from PIL import Image
 
-STYLE = ("cinematic editorial photo illustration, financial news, dramatic lighting, "
-         "high detail, no text, no letters, no logos, no watermark, no real people, no faces")
+STYLE = ("hyper-realistic 3D render, cinematic product shot, dark moody background, dramatic rim lighting, "
+         "glowing light particles and sparks, shallow depth of field, octane render, 8k, sharp focus, "
+         "no text, no letters, no watermark, no real people, no faces")
 
 
 def generate(prompt: str, seed: int | None = None, timeout: int = 60) -> Image.Image | None:
     full = f"{prompt}. {STYLE}"
     url = (f"https://image.pollinations.ai/prompt/{quote(full)}"
-           f"?width=1080&height=720&nologo=true&model=flux&seed={seed or random.randint(1, 10**6)}")
+           f"?width=1280&height=720&enhance=true&nologo=true&model=flux&seed={seed or random.randint(1, 10**6)}")
     headers = {"User-Agent": "Mozilla/5.0 (compatible; ZodiakNewsBot/1.0)"}
     token = os.environ.get("POLLINATIONS_TOKEN")
     if token:
