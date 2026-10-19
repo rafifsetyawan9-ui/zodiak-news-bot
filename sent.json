@@ -1,10 +1,14 @@
 {
  "daily": {
-  "2026-10-19": 1
+  "2026-10-19": 1,
+  "2026-10-20": 1
  },
  "links": {
-  "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00"
+  "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00",
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-19T18:07:17.135851+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00"
  },
+ "reminders": {},
  "titles": [
   {
    "tok": [
@@ -20,6 +24,20 @@
     "vs"
    ],
    "ts": "2026-10-19T16:58:49.145326+00:00"
+  },
+  {
+   "tok": [
+    "back",
+    "dollar",
+    "forecasts",
+    "gold",
+    "platinum",
+    "pulls",
+    "rebounds",
+    "silver",
+    "xauusd"
+   ],
+   "ts": "2026-10-19T18:07:17.135851+00:00"
   }
  ]
 }
