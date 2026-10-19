@@ -1,14 +1,16 @@
 {
  "daily": {
   "2026-10-19": 1,
-  "2026-10-20": 11
+  "2026-10-20": 13
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/": "2026-10-19T19:24:58.051883+00:00",
   "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/": "2026-10-19T22:18:39.274394+00:00",
+  "https://investinglive.com/commodities/goldman-sachs-sees-25-war-risk-premium-in-brent-forecasts-90-in-december-and-80-in-2027/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/commodities/us-strategic-oil-reserve-falls-to-lowest-since-1982-as-iran-war-release-drains-stocks/": "2026-10-19T22:18:39.274394+00:00",
+  "https://investinglive.com/forex/ubs-sees-euro-recovering-to-1-16-by-year-end-says-slide-to-1-11-overshoots-fundamentals/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/": "2026-10-19T21:55:00.445918+00:00",
@@ -210,6 +212,40 @@
     "tonnes"
    ],
    "ts": "2026-10-19T22:18:39.274394+00:00"
+  },
+  {
+   "tok": [
+    "2027",
+    "25",
+    "80",
+    "90",
+    "brent",
+    "december",
+    "forecasts",
+    "goldman",
+    "premium",
+    "risk",
+    "sachs",
+    "sees",
+    "war"
+   ],
+   "ts": "2026-10-19T23:18:16.139944+00:00"
+  },
+  {
+   "tok": [
+    "11",
+    "16",
+    "end",
+    "euro",
+    "fundamentals",
+    "overshoots",
+    "recovering",
+    "sees",
+    "slide",
+    "ubs",
+    "year"
+   ],
+   "ts": "2026-10-19T23:18:16.139944+00:00"
   }
  ]
 }
