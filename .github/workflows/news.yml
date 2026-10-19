@@ -1,0 +1,65 @@
+name: ZODIAK News Bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # tiap 15 menit (GitHub kadang telat beberapa menit, itu normal)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = tes feed | dry = uji tanpa kirim | run = kirim sungguhan"
+        type: choice
+        default: check
+        options: [check, dry, run]
+
+permissions:
+  contents: write   # perlu untuk menyimpan sent.json
+
+concurrency:
+  group: zodiak-news-bot
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Jalankan bot
+        env:
+          MODE: ${{ github.event.inputs.mode || 'run' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # --- Pengaturan (hapus tanda # untuk mengubah) ---
+          # MIN_SCORE: "4"        # makin tinggi = makin selektif
+          # MAX_PER_RUN: "3"      # maks berita per eksekusi
+          # MAX_PER_DAY: "15"     # maks berita per hari (WIB)
+          # MAX_AGE_HOURS: "3"    # abaikan berita lebih tua dari ini
+          # GEMINI_MODEL: "gemini-2.5-flash"   # kosong = otomatis
+        run: |
+          case "$MODE" in
+            check) python news_bot.py --check-feeds ;;
+            dry)   python news_bot.py --dry-run ;;
+            *)     python news_bot.py ;;
+          esac
+
+      - name: Simpan state (berita yang sudah terkirim)
+        if: always() && (github.event_name == 'schedule' || github.event.inputs.mode == 'run')
+        run: |
+          git config user.name "zodiak-news-bot"
+          git config user.email "zodiak-news-bot@users.noreply.github.com"
+          git add sent.json
+          if git diff --cached --quiet; then
+            echo "state tidak berubah"
+          else
+            git commit -m "chore: update state [skip ci]"
+            git push
+          fi
