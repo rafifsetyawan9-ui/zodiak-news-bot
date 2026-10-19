@@ -1,9 +1,0 @@
-[
- {"type": "probe", "n": 12},
- {"name": "ai_bank_of_canada", "seed": 7,
-  "prompt": "a glowing gold maple leaf coin standing upright on dark wet asphalt next to a small stack of gold bars, faint red bar chart hologram behind"},
- {"name": "ai_fed_emas", "seed": 8,
-  "prompt": "shiny gold bars and a gold coin with a dollar sign exploding upward from a dark surface, green upward arrow light trails"},
- {"name": "ai_minyak", "seed": 9,
-  "prompt": "a black glossy oil barrel tipping over on dark asphalt with oil splash and orange sparks, red downward arrow light trail"}
-]
