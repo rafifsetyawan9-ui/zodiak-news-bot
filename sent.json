@@ -2,18 +2,20 @@
  "daily": {
   "2026-10-19": 1,
   "2026-10-20": 15,
-  "2026-10-21": 5
+  "2026-10-21": 8
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/central-banks/boe-s-greene-keeps-banging-the-hawkish-drum-and-she-s-not-alone-anymore/": "2026-10-20T19:06:37.451945+00:00",
   "https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/": "2026-10-19T21:21:34.753486+00:00",
+  "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-21-2026-ecb-lane-speaking/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/": "2026-10-19T19:24:58.051883+00:00",
   "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/commodities/goldman-sachs-sees-25-war-risk-premium-in-brent-forecasts-90-in-december-and-80-in-2027/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/commodities/us-strategic-oil-reserve-falls-to-lowest-since-1982-as-iran-war-release-drains-stocks/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/forex/ubs-sees-euro-recovering-to-1-16-by-year-end-says-slide-to-1-11-overshoots-fundamentals/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/stock-market-update/are-us-treasuries-still-a-hedge-citi-australia-ceo-says-the-bonds-are-losing-their-edge/": "2026-10-20T02:08:30.652520+00:00",
   "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/": "2026-10-19T21:55:00.445918+00:00",
@@ -23,6 +25,7 @@
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-major-demand-zone-can-prices-clear-4260-after-defending-4000-1639277": "2026-10-20T17:23:33.822119+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-towards-the-4100-level-1639331": "2026-10-20T17:23:33.822119+00:00",
   "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694": "2026-10-20T03:10:09.375125+00:00",
@@ -359,6 +362,60 @@
     "weigh"
    ],
    "ts": "2026-10-20T20:07:06.728090+00:00"
+  },
+  {
+   "tok": [
+    "20",
+    "americas",
+    "caps",
+    "deal",
+    "dow",
+    "falls",
+    "fx",
+    "headlines",
+    "investinglive",
+    "news",
+    "oct",
+    "oil",
+    "outperform",
+    "small",
+    "swing",
+    "usd",
+    "wrap"
+   ],
+   "ts": "2026-10-20T21:09:59.333950+00:00"
+  },
+  {
+   "tok": [
+    "217",
+    "back",
+    "breakout",
+    "bulls",
+    "control",
+    "forecast",
+    "gold",
+    "price",
+    "puts",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-10-20T21:09:59.333950+00:00"
+  },
+  {
+   "tok": [
+    "2026",
+    "21",
+    "asia",
+    "calendar",
+    "ecb",
+    "economic",
+    "event",
+    "lane",
+    "october",
+    "speaking",
+    "wednesday"
+   ],
+   "ts": "2026-10-20T21:09:59.333950+00:00"
   }
  ]
 }
