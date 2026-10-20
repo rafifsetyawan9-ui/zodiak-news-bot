@@ -1,7 +1,7 @@
 {
  "daily": {
   "2026-10-19": 1,
-  "2026-10-20": 14
+  "2026-10-20": 15
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -19,6 +19,7 @@
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00",
+  "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694": "2026-10-20T03:10:09.375125+00:00",
   "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185": "2026-10-19T21:55:00.445918+00:00"
  },
  "reminders": {},
@@ -263,6 +264,21 @@
     "us"
    ],
    "ts": "2026-10-20T02:08:30.652520+00:00"
+  },
+  {
+   "tok": [
+    "dips",
+    "fears",
+    "fed",
+    "focus",
+    "fuel",
+    "gold",
+    "inflation",
+    "oil",
+    "outlook",
+    "prices"
+   ],
+   "ts": "2026-10-20T03:10:09.375125+00:00"
   }
  ]
 }
