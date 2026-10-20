@@ -2,13 +2,14 @@
  "daily": {
   "2026-10-19": 1,
   "2026-10-20": 15,
-  "2026-10-21": 8
+  "2026-10-21": 9
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/central-banks/boe-s-greene-keeps-banging-the-hawkish-drum-and-she-s-not-alone-anymore/": "2026-10-20T19:06:37.451945+00:00",
   "https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-21-2026-ecb-lane-speaking/": "2026-10-20T21:09:59.333950+00:00",
+  "https://investinglive.com/central-banks/rba-s-hauser-says-inflation-outlook-worse-than-forecast-ahead-of-3-november-decision/": "2026-10-20T22:09:14.580971+00:00",
   "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/": "2026-10-19T19:24:58.051883+00:00",
   "https://investinglive.com/commodities/goldman-sachs-estimates-central-banks-bought-79-tonnes-of-gold-in-august-led-by-china/": "2026-10-19T22:18:39.274394+00:00",
   "https://investinglive.com/commodities/goldman-sachs-sees-25-war-risk-premium-in-brent-forecasts-90-in-december-and-80-in-2027/": "2026-10-19T23:18:16.139944+00:00",
@@ -20,6 +21,7 @@
   "https://investinglive.com/stock-market-update/are-us-treasuries-still-a-hedge-citi-australia-ceo-says-the-bonds-are-losing-their-edge/": "2026-10-20T02:08:30.652520+00:00",
   "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/": "2026-10-19T21:55:00.445918+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-19T18:07:17.135851+00:00",
+  "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5": "2026-10-20T22:09:14.580971+00:00",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzEwRm9qY0V4emwwc1htR0xQalBPSW1tRzhoa2FGcVZUMXpzMC1kSV9FcVgzdkdUaU4wTGZWbk9ZbjdhVVV2c3JjX3Nfb0NKd0s1UDVTQ2NlVHNrWFVEM2M4WVdHRHVvYjVtZmFlakxDM3NuY2Iwa0wwMHdfQTZ0ZjNDXzBQOFhseXBhdkN0Ym5SUWxVVFdYSXZTZGdCRHhDblE?oc=5": "2026-10-20T20:07:06.728090+00:00",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
@@ -416,6 +418,20 @@
     "wednesday"
    ],
    "ts": "2026-10-20T21:09:59.333950+00:00"
+  },
+  {
+   "tok": [
+    "decision",
+    "forecast",
+    "hauser",
+    "inflation",
+    "november",
+    "outlook",
+    "rba",
+    "than",
+    "worse"
+   ],
+   "ts": "2026-10-20T22:09:14.580971+00:00"
   }
  ]
 }
