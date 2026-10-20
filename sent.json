@@ -2,7 +2,7 @@
  "daily": {
   "2026-10-19": 1,
   "2026-10-20": 15,
-  "2026-10-21": 4
+  "2026-10-21": 5
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -18,6 +18,7 @@
   "https://investinglive.com/stock-market-update/are-us-treasuries-still-a-hedge-citi-australia-ceo-says-the-bonds-are-losing-their-edge/": "2026-10-20T02:08:30.652520+00:00",
   "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/": "2026-10-19T21:55:00.445918+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-19T18:07:17.135851+00:00",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzEwRm9qY0V4emwwc1htR0xQalBPSW1tRzhoa2FGcVZUMXpzMC1kSV9FcVgzdkdUaU4wTGZWbk9ZbjdhVVV2c3JjX3Nfb0NKd0s1UDVTQ2NlVHNrWFVEM2M4WVdHRHVvYjVtZmFlakxDM3NuY2Iwa0wwMHdfQTZ0ZjNDXzBQOFhseXBhdkN0Ym5SUWxVVFdYSXZTZGdCRHhDblE?oc=5": "2026-10-20T20:07:06.728090+00:00",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
@@ -344,6 +345,20 @@
     "she"
    ],
    "ts": "2026-10-20T19:06:37.451945+00:00"
+  },
+  {
+   "tok": [
+    "edges",
+    "fed",
+    "gold",
+    "investors",
+    "kitco",
+    "lower",
+    "rate",
+    "signals",
+    "weigh"
+   ],
+   "ts": "2026-10-20T20:07:06.728090+00:00"
   }
  ]
 }
