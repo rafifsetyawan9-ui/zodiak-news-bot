@@ -3,7 +3,7 @@
   "2026-10-19": 1,
   "2026-10-20": 15,
   "2026-10-21": 15,
-  "2026-10-22": 2
+  "2026-10-22": 3
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -31,6 +31,7 @@
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUpxTUpMdFBxd2dEd2FOQ2MyQXJXeXl6R1VWOTV3b3NHdUpodkVUdzdsaVU1UzlrNmhQUXRPdTBMT2RlM1Q1R3pGUExCREpzWnppYXlCTnB3NFZjUXZBcDlGZ2F1cTBQY0ZYYzdvUU8yYkNYd2wtMmR4dWQwOHBvaTBKVFJKNU9FcDc3bl9nNHZtVGZ4U3FjX2hrRXZfMlFoZXBjOFFkdVRJM0dIRGJGR2h4bjZOZGo4?oc=5": "2026-10-21T17:00:02.366334+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5": "2026-10-21T00:49:10.706478+00:00",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSllpVHUwLWtjSkhial9sbGNHVTZQaC1qTkNWRWlXMlJvVkVPTzZnNW9hdnByU004djRMNU92MjdKY0VpTGJlUGN0dnJOU0RIaHFhYV8wWlByNWduZEFQc2U3MDNWblNid0hNeWNEVUJ2ZE1Md2FhYS1NVDBFcDRDa2VuMDNlMkhySGlSd3lNc01ldTJqVHFMMFVfSlh4d3pnaVMybllGVVJjWGlEUzIyLXZnWWNHMm9XeHc?oc=5": "2026-10-21T19:39:46.702869+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
@@ -571,6 +572,24 @@
     "yields"
    ],
    "ts": "2026-10-21T17:00:02.366334+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "canadian",
+    "dollar",
+    "four",
+    "high",
+    "hike",
+    "holds",
+    "investors",
+    "kitco",
+    "near",
+    "rate",
+    "stick",
+    "week"
+   ],
+   "ts": "2026-10-21T19:39:46.702869+00:00"
   }
  ]
 }
