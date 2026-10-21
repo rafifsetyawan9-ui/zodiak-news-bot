@@ -2,7 +2,7 @@
  "daily": {
   "2026-10-19": 1,
   "2026-10-20": 15,
-  "2026-10-21": 14
+  "2026-10-21": 15
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -36,6 +36,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-towards-the-4100-level-1639331": "2026-10-20T17:23:33.822119+00:00",
   "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694": "2026-10-20T03:10:09.375125+00:00",
+  "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463": "2026-10-21T02:02:27.847932+00:00",
   "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185": "2026-10-19T21:55:00.445918+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775": "2026-10-20T19:06:37.451945+00:00"
  },
@@ -517,6 +518,24 @@
     "trade"
    ],
    "ts": "2026-10-21T01:27:47.452579+00:00"
+  },
+  {
+   "tok": [
+    "110",
+    "clouds",
+    "demand",
+    "fade",
+    "falls",
+    "fed",
+    "gold",
+    "hopes",
+    "iran",
+    "near",
+    "outlook",
+    "peace",
+    "rate"
+   ],
+   "ts": "2026-10-21T02:02:27.847932+00:00"
   }
  ]
 }
