@@ -2,7 +2,7 @@
  "daily": {
   "2026-10-19": 1,
   "2026-10-20": 15,
-  "2026-10-21": 11
+  "2026-10-21": 12
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -26,6 +26,7 @@
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5": "2026-10-20T22:09:14.580971+00:00",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzEwRm9qY0V4emwwc1htR0xQalBPSW1tRzhoa2FGcVZUMXpzMC1kSV9FcVgzdkdUaU4wTGZWbk9ZbjdhVVV2c3JjX3Nfb0NKd0s1UDVTQ2NlVHNrWFVEM2M4WVdHRHVvYjVtZmFlakxDM3NuY2Iwa0wwMHdfQTZ0ZjNDXzBQOFhseXBhdkN0Ym5SUWxVVFdYSXZTZGdCRHhDblE?oc=5": "2026-10-20T20:07:06.728090+00:00",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1ZaVhPMlB5N3BvRVNadzJEdnhuWVJkR1M5VnlZQTF3X0NNdTBpLVc1SmNIMWU4dnFpWWctYzhORTFVa0tOMllEUmxUS0VFWVVJVnV1VTRTVm1RX0VJOS1pZnUwaFFVaFQzNTRXeEgycUxmSUxyVC1fa0VKcFJkUVN2R1ZMZVo2bVFCbVRTTERvSkwyX3ZJa0JuQk1kNTh1RzVTLU5ISE5VcDFWamZWdnNLdXZMZw?oc=5": "2026-10-19T19:24:58.051883+00:00",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5": "2026-10-21T00:49:10.706478+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-forecast-french-bond-yields-surge-as-oil-retreats-1639122": "2026-10-19T19:24:58.051883+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-major-demand-zone-can-prices-clear-4260-after-defending-4000-1639277": "2026-10-20T17:23:33.822119+00:00",
@@ -465,6 +466,22 @@
     "seen"
    ],
    "ts": "2026-10-20T23:06:01.202677+00:00"
+  },
+  {
+   "tok": [
+    "extends",
+    "falls",
+    "gains",
+    "gold",
+    "kitco",
+    "ratio",
+    "session",
+    "silver",
+    "slips",
+    "straight",
+    "third"
+   ],
+   "ts": "2026-10-21T00:49:10.706478+00:00"
   }
  ]
 }
