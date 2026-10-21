@@ -3,7 +3,7 @@
   "2026-10-19": 1,
   "2026-10-20": 15,
   "2026-10-21": 15,
-  "2026-10-22": 6
+  "2026-10-22": 7
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -21,6 +21,7 @@
   "https://investinglive.com/forex/ubs-sees-euro-recovering-to-1-16-by-year-end-says-slide-to-1-11-overshoots-fundamentals/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/news/bank-of-canada-q3-business-outlook-survey-0-33-vs-0-38-prior/": "2026-10-19T16:58:49.145326+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/": "2026-10-20T21:09:59.333950+00:00",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/": "2026-10-21T21:09:33.343081+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/": "2026-10-21T01:27:47.452579+00:00",
   "https://investinglive.com/stock-market-update/are-us-treasuries-still-a-hedge-citi-australia-ceo-says-the-bonds-are-losing-their-edge/": "2026-10-20T02:08:30.652520+00:00",
@@ -39,6 +40,7 @@
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-major-demand-zone-can-prices-clear-4260-after-defending-4000-1639277": "2026-10-20T17:23:33.822119+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-consolidation-sets-stage-for-decisive-breakout-1639706": "2026-10-21T21:09:33.343081+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-dollar-rebounds-3-1639099": "2026-10-19T18:07:17.135851+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-towards-the-4100-level-1639331": "2026-10-20T17:23:33.822119+00:00",
   "https://www.fxempire.com/forecasts/article/xauusd-holds-near-one-week-low-as-oil-keeps-december-fed-risk-alive-1639663": "2026-10-21T20:39:00.519076+00:00",
@@ -639,6 +641,26 @@
     "yields"
    ],
    "ts": "2026-10-21T20:39:00.519076+00:00"
+  },
+  {
+   "tok": [
+    "21",
+    "ai",
+    "americas",
+    "fx",
+    "gulf",
+    "investinglive",
+    "leads",
+    "nasdaq",
+    "news",
+    "oct",
+    "offsets",
+    "oil",
+    "optimism",
+    "risks",
+    "wrap"
+   ],
+   "ts": "2026-10-21T21:09:33.343081+00:00"
   }
  ]
 }
