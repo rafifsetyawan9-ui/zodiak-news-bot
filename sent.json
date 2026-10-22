@@ -3,10 +3,11 @@
   "2026-10-19": 1,
   "2026-10-20": 15,
   "2026-10-21": 15,
-  "2026-10-22": 9
+  "2026-10-22": 10
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
+  "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
   "https://investinglive.com/central-banks/boe-s-greene-keeps-banging-the-hawkish-drum-and-she-s-not-alone-anymore/": "2026-10-20T19:06:37.451945+00:00",
   "https://investinglive.com/central-banks/boj-seen-lifting-rates-to-1-50-in-december-as-69-of-economists-expect-a-q4-hike/": "2026-10-20T23:06:01.202677+00:00",
   "https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/": "2026-10-19T21:21:34.753486+00:00",
@@ -692,6 +693,24 @@
     "zealand"
    ],
    "ts": "2026-10-21T22:09:43.724794+00:00"
+  },
+  {
+   "tok": [
+    "above",
+    "boe",
+    "energy",
+    "expects",
+    "hike",
+    "inflation",
+    "mufg",
+    "november",
+    "preview",
+    "pushes",
+    "rate",
+    "shock",
+    "uk"
+   ],
+   "ts": "2026-10-22T00:49:34.386512+00:00"
   }
  ]
 }
