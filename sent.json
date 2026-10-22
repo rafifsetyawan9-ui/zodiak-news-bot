@@ -4,12 +4,13 @@
   "2026-10-20": 15,
   "2026-10-21": 15,
   "2026-10-22": 15,
-  "2026-10-23": 13
+  "2026-10-23": 15
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
   "https://investinglive.com/central-banks/boe-s-greene-keeps-banging-the-hawkish-drum-and-she-s-not-alone-anymore/": "2026-10-20T19:06:37.451945+00:00",
   "https://investinglive.com/central-banks/boj-seen-lifting-rates-to-1-50-in-december-as-69-of-economists-expect-a-q4-hike/": "2026-10-20T23:06:01.202677+00:00",
+  "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/": "2026-10-22T22:09:20.492228+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-21-2026-ecb-lane-speaking/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/central-banks/japan-s-katayama-sees-no-gap-with-boj-says-wage-driven-inflation-is-near/": "2026-10-21T01:27:47.452579+00:00",
@@ -20,6 +21,7 @@
   "https://investinglive.com/commodities/goldman-sachs-sees-25-war-risk-premium-in-brent-forecasts-90-in-december-and-80-in-2027/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/forex/ubs-sees-euro-recovering-to-1-16-by-year-end-says-slide-to-1-11-overshoots-fundamentals/": "2026-10-19T23:18:16.139944+00:00",
   "https://investinglive.com/forex/us-10-year-yields-fall-near-5-level/": "2026-10-22T18:18:18.955515+00:00",
+  "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/": "2026-10-22T21:11:10.426934+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/": "2026-10-21T21:09:33.343081+00:00",
@@ -846,6 +848,42 @@
     "yields"
    ],
    "ts": "2026-10-22T22:09:20.492228+00:00"
+  },
+  {
+   "tok": [
+    "12",
+    "ecb",
+    "end",
+    "eur",
+    "hikes",
+    "hold",
+    "mufg",
+    "october",
+    "preview",
+    "see",
+    "sees",
+    "two",
+    "usd",
+    "year"
+   ],
+   "ts": "2026-10-22T23:07:17.570761+00:00"
+  },
+  {
+   "tok": [
+    "australia",
+    "first",
+    "five",
+    "flash",
+    "months",
+    "pmi",
+    "prices",
+    "private",
+    "rise",
+    "sector",
+    "shrinks",
+    "time"
+   ],
+   "ts": "2026-10-22T23:07:17.570761+00:00"
   }
  ]
 }
