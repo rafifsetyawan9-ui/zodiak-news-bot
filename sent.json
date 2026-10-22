@@ -3,7 +3,7 @@
   "2026-10-19": 1,
   "2026-10-20": 15,
   "2026-10-21": 15,
-  "2026-10-22": 13
+  "2026-10-22": 14
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -13,6 +13,7 @@
   "https://investinglive.com/central-banks/china-lpr-preview-rates-seen-on-hold-for-a-17th-month-after-q3-gdp-beat/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-21-2026-ecb-lane-speaking/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/central-banks/japan-s-katayama-sees-no-gap-with-boj-says-wage-driven-inflation-is-near/": "2026-10-21T01:27:47.452579+00:00",
+  "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/": "2026-10-22T03:10:44.753749+00:00",
   "https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/": "2026-10-21T20:07:09.797652+00:00",
   "https://investinglive.com/central-banks/rba-s-hauser-says-inflation-outlook-worse-than-forecast-ahead-of-3-november-decision/": "2026-10-20T22:09:14.580971+00:00",
   "https://investinglive.com/commodities/cibc-cuts-gold-forecasts-but-still-sees-5-500-in-2028/": "2026-10-19T19:24:58.051883+00:00",
@@ -765,6 +766,25 @@
     "zealand"
    ],
    "ts": "2026-10-22T01:26:21.217980+00:00"
+  },
+  {
+   "tok": [
+    "analysts",
+    "bloomberg",
+    "boj",
+    "december",
+    "expect",
+    "hike",
+    "most",
+    "move",
+    "next",
+    "none",
+    "now",
+    "october",
+    "rate",
+    "see"
+   ],
+   "ts": "2026-10-22T03:10:44.753749+00:00"
   }
  ]
 }
