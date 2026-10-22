@@ -3,7 +3,7 @@
   "2026-10-19": 1,
   "2026-10-20": 15,
   "2026-10-21": 15,
-  "2026-10-22": 10
+  "2026-10-22": 13
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-scotiabank-expects-a-25-bp-hike-next-week-despite-softer-core-cpi/": "2026-10-19T22:18:39.274394+00:00",
@@ -25,10 +25,12 @@
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/": "2026-10-21T21:09:33.343081+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ai-trades-rebound-but-so-does-oil/": "2026-10-19T21:21:34.753486+00:00",
   "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/": "2026-10-21T01:27:47.452579+00:00",
+  "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/": "2026-10-22T01:26:21.217980+00:00",
   "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/": "2026-10-21T22:09:43.724794+00:00",
   "https://investinglive.com/stock-market-update/are-us-treasuries-still-a-hedge-citi-australia-ceo-says-the-bonds-are-losing-their-edge/": "2026-10-20T02:08:30.652520+00:00",
   "https://investinglive.com/stock-market-update/goldman-sachs-says-6-nominal-growth-not-5-yields-is-what-matters-for-small-caps/": "2026-10-20T23:06:01.202677+00:00",
   "https://investinglive.com/stocks/goldman-sachs-says-rising-global-bond-yields-reflect-a-growing-competition-for-capital/": "2026-10-19T21:55:00.445918+00:00",
+  "https://investinglive.com/stocks/ray-dalio-warns-us-bond-bear-market-has-a-long-way-to-go-as-debt-supply-swamps-demand/": "2026-10-22T01:26:21.217980+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-19T18:07:17.135851+00:00",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5": "2026-10-20T22:09:14.580971+00:00",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzEwRm9qY0V4emwwc1htR0xQalBPSW1tRzhoa2FGcVZUMXpzMC1kSV9FcVgzdkdUaU4wTGZWbk9ZbjdhVVV2c3JjX3Nfb0NKd0s1UDVTQ2NlVHNrWFVEM2M4WVdHRHVvYjVtZmFlakxDM3NuY2Iwa0wwMHdfQTZ0ZjNDXzBQOFhseXBhdkN0Ym5SUWxVVFdYSXZTZGdCRHhDblE?oc=5": "2026-10-20T20:07:06.728090+00:00",
@@ -49,6 +51,7 @@
   "https://www.fxempire.com/forecasts/article/xauusd-holds-near-one-week-low-as-oil-keeps-december-fed-risk-alive-1639663": "2026-10-21T20:39:00.519076+00:00",
   "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694": "2026-10-20T03:10:09.375125+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463": "2026-10-21T02:02:27.847932+00:00",
+  "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496": "2026-10-22T01:26:21.217980+00:00",
   "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185": "2026-10-19T21:55:00.445918+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775": "2026-10-20T19:06:37.451945+00:00"
  },
@@ -711,6 +714,57 @@
     "uk"
    ],
    "ts": "2026-10-22T00:49:34.386512+00:00"
+  },
+  {
+   "tok": [
+    "115",
+    "attacks",
+    "falls",
+    "fed",
+    "focus",
+    "fuel",
+    "gold",
+    "inflation",
+    "near",
+    "outlook",
+    "saudi"
+   ],
+   "ts": "2026-10-22T01:26:21.217980+00:00"
+  },
+  {
+   "tok": [
+    "bear",
+    "bond",
+    "dalio",
+    "debt",
+    "demand",
+    "go",
+    "has",
+    "long",
+    "market",
+    "ray",
+    "supply",
+    "swamps",
+    "us",
+    "warns",
+    "way"
+   ],
+   "ts": "2026-10-22T01:26:21.217980+00:00"
+  },
+  {
+   "tok": [
+    "below",
+    "forecasts",
+    "hike",
+    "inflation",
+    "keeping",
+    "q3",
+    "rbnz",
+    "slows",
+    "track",
+    "zealand"
+   ],
+   "ts": "2026-10-22T01:26:21.217980+00:00"
   }
  ]
 }
