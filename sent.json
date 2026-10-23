@@ -5,7 +5,7 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 12
+  "2026-10-24": 13
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
@@ -49,6 +49,7 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSllpVHUwLWtjSkhial9sbGNHVTZQaC1qTkNWRWlXMlJvVkVPTzZnNW9hdnByU004djRMNU92MjdKY0VpTGJlUGN0dnJOU0RIaHFhYV8wWlByNWduZEFQc2U3MDNWblNid0hNeWNEVUJ2ZE1Md2FhYS1NVDBFcDRDa2VuMDNlMkhySGlSd3lNc01ldTJqVHFMMFVfSlh4d3pnaVMybllGVVJjWGlEUzIyLXZnWWNHMm9XeHc?oc=5": "2026-10-21T19:39:46.702869+00:00",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5": "2026-10-22T17:19:16.898008+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5": "2026-10-21T22:09:43.724794+00:00",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5": "2026-10-23T22:09:11.680559+00:00",
   "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
@@ -882,6 +883,25 @@
     "week"
    ],
    "ts": "2026-10-23T21:38:14.625358+00:00"
+  },
+  {
+   "tok": [
+    "116",
+    "above",
+    "crude",
+    "extend",
+    "gold",
+    "hormuz",
+    "kitco",
+    "losses",
+    "pm",
+    "push",
+    "report",
+    "silver",
+    "tensions",
+    "weekly"
+   ],
+   "ts": "2026-10-23T22:09:11.680559+00:00"
   }
  ]
 }
