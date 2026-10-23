@@ -4,7 +4,8 @@
   "2026-10-20": 15,
   "2026-10-21": 15,
   "2026-10-22": 15,
-  "2026-10-23": 15
+  "2026-10-23": 15,
+  "2026-10-24": 2
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
@@ -18,6 +19,7 @@
   "https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/": "2026-10-21T20:07:09.797652+00:00",
   "https://investinglive.com/central-banks/rba-s-hauser-says-inflation-outlook-worse-than-forecast-ahead-of-3-november-decision/": "2026-10-20T22:09:14.580971+00:00",
   "https://investinglive.com/central-banks/the-market-now-sees-a-22-chance-the-fed-doesn-t-hike-again-this-year/": "2026-10-22T19:07:01.680142+00:00",
+  "https://investinglive.com/commodities/trump-the-question-is-do-we-want-to-finish-iran-war-or-let-it-wither/": "2026-10-23T17:27:11.218494+00:00",
   "https://investinglive.com/forex/us-10-year-yields-fall-near-5-level/": "2026-10-22T18:18:18.955515+00:00",
   "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/": "2026-10-22T21:11:10.426934+00:00",
@@ -47,11 +49,10 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5": "2026-10-21T22:09:43.724794+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-tests-major-demand-zone-can-prices-clear-4260-after-defending-4000-1639277": "2026-10-20T17:23:33.822119+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-consolidation-sets-stage-for-decisive-breakout-1639706": "2026-10-21T21:09:33.343081+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-2-5-as-meta-boosts-ai-spending-1639860": "2026-10-22T18:18:18.955515+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-towards-the-4100-level-1639331": "2026-10-20T17:23:33.822119+00:00",
+  "https://www.fxempire.com/forecasts/article/silver-breaks-below-55-as-fed-decision-looms-for-next-market-test-1640072": "2026-10-23T17:27:11.218494+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-away-from-session-highs-as-treasury-yields-drop-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1639849": "2026-10-22T17:19:16.898008+00:00",
   "https://www.fxempire.com/forecasts/article/xauusd-holds-near-one-week-low-as-oil-keeps-december-fed-risk-alive-1639663": "2026-10-21T20:39:00.519076+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463": "2026-10-21T02:02:27.847932+00:00",
@@ -64,37 +65,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "000",
-    "260",
-    "can",
-    "clear",
-    "defending",
-    "demand",
-    "gold",
-    "major",
-    "prices",
-    "tests",
-    "zone"
-   ],
-   "ts": "2026-10-20T17:23:33.822119+00:00"
-  },
-  {
-   "tok": [
-    "4100",
-    "back",
-    "forecasts",
-    "gold",
-    "level",
-    "platinum",
-    "pulls",
-    "silver",
-    "towards",
-    "xauusd"
-   ],
-   "ts": "2026-10-20T17:23:33.822119+00:00"
-  },
   {
    "tok": [
     "ether",
@@ -815,6 +785,38 @@
     "time"
    ],
    "ts": "2026-10-22T23:07:17.570761+00:00"
+  },
+  {
+   "tok": [
+    "55",
+    "below",
+    "breaks",
+    "decision",
+    "fed",
+    "looms",
+    "market",
+    "next",
+    "silver",
+    "test"
+   ],
+   "ts": "2026-10-23T17:27:11.218494+00:00"
+  },
+  {
+   "tok": [
+    "do",
+    "finish",
+    "iran",
+    "it",
+    "let",
+    "or",
+    "question",
+    "trump",
+    "want",
+    "war",
+    "we",
+    "wither"
+   ],
+   "ts": "2026-10-23T17:27:11.218494+00:00"
   }
  ]
 }
