@@ -54,7 +54,6 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-towards-the-4100-level-1639331": "2026-10-20T17:23:33.822119+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-away-from-session-highs-as-treasury-yields-drop-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1639849": "2026-10-22T17:19:16.898008+00:00",
   "https://www.fxempire.com/forecasts/article/xauusd-holds-near-one-week-low-as-oil-keeps-december-fed-risk-alive-1639663": "2026-10-21T20:39:00.519076+00:00",
-  "https://www.investing.com/news/commodities-news/gold-dips-as-oil-prices-fuel-inflation-fears-fed-outlook-in-focus-4958694": "2026-10-20T03:10:09.375125+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463": "2026-10-21T02:02:27.847932+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496": "2026-10-22T01:26:21.217980+00:00",
   "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490": "2026-10-22T19:39:44.324889+00:00",
@@ -65,21 +64,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "dips",
-    "fears",
-    "fed",
-    "focus",
-    "fuel",
-    "gold",
-    "inflation",
-    "oil",
-    "outlook",
-    "prices"
-   ],
-   "ts": "2026-10-20T03:10:09.375125+00:00"
-  },
   {
    "tok": [
     "000",
