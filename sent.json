@@ -5,11 +5,10 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 4
+  "2026-10-24": 5
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
-  "https://investinglive.com/central-banks/boe-s-greene-keeps-banging-the-hawkish-drum-and-she-s-not-alone-anymore/": "2026-10-20T19:06:37.451945+00:00",
   "https://investinglive.com/central-banks/boj-seen-lifting-rates-to-1-50-in-december-as-69-of-economists-expect-a-q4-hike/": "2026-10-20T23:06:01.202677+00:00",
   "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/": "2026-10-22T22:09:20.492228+00:00",
@@ -33,6 +32,7 @@
   "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/": "2026-10-21T22:09:43.724794+00:00",
   "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/": "2026-10-22T18:18:18.955515+00:00",
   "https://investinglive.com/stock-market-update/goldman-sachs-says-6-nominal-growth-not-5-yields-is-what-matters-for-small-caps/": "2026-10-20T23:06:01.202677+00:00",
+  "https://investinglive.com/stocks/earnings-macro-week-ahead-the-fed-and-big-tech-report-on-the-same-day/": "2026-10-23T19:38:54.977380+00:00",
   "https://investinglive.com/stocks/ray-dalio-warns-us-bond-bear-market-has-a-long-way-to-go-as-debt-supply-swamps-demand/": "2026-10-22T01:26:21.217980+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-22T19:07:01.680142+00:00",
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5": "2026-10-20T22:09:14.580971+00:00",
@@ -60,27 +60,11 @@
   "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496": "2026-10-22T01:26:21.217980+00:00",
   "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490": "2026-10-22T19:39:44.324889+00:00",
   "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625": "2026-10-22T22:09:20.492228+00:00",
-  "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775": "2026-10-20T19:06:37.451945+00:00",
   "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-oil-prices-boc-rate-hike-bets-support-loonie-4967236": "2026-10-22T19:39:44.324889+00:00",
   "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673": "2026-10-22T22:09:20.492228+00:00"
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "alone",
-    "anymore",
-    "banging",
-    "boe",
-    "drum",
-    "greene",
-    "hawkish",
-    "keeps",
-    "not",
-    "she"
-   ],
-   "ts": "2026-10-20T19:06:37.451945+00:00"
-  },
   {
    "tok": [
     "edges",
@@ -833,6 +817,20 @@
     "xauusd"
    ],
    "ts": "2026-10-23T18:19:53.058533+00:00"
+  },
+  {
+   "tok": [
+    "big",
+    "day",
+    "earnings",
+    "fed",
+    "macro",
+    "report",
+    "same",
+    "tech",
+    "week"
+   ],
+   "ts": "2026-10-23T19:38:54.977380+00:00"
   }
  ]
 }
