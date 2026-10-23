@@ -5,7 +5,7 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 2
+  "2026-10-24": 3
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
@@ -48,6 +48,7 @@
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW8xSTBQZHZKLUxPa2JDcG5oVkw2c3lUa0RiLXJXemhqdHZIRXYtLWFWQVVsUjRmTkFucl9DbS14T1F5dnk3VFZPcFdjZk54UGhkVi14dTRhUkFtYkUzUkpubzQ4VjlEVGlzNnJBcENDeVBDWklXWVFnZHBpTUZZeXJqaUFBQThiR2I5QXJyZ1RqOFZTMDZiRTJfQXVSV0N3dGZTeFRybVFHS1hPMGsySFY0NGRKc1JJeUE?oc=5": "2026-10-22T17:19:16.898008+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5": "2026-10-21T22:09:43.724794+00:00",
   "https://www.fxempire.com/forecasts/article/ether-struggles-as-inflation-fears-grow-and-investors-withdraw-money-1639315": "2026-10-20T18:20:50.218610+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-consolidation-sets-stage-for-decisive-breakout-1639706": "2026-10-21T21:09:33.343081+00:00",
@@ -817,6 +818,20 @@
     "wither"
    ],
    "ts": "2026-10-23T17:27:11.218494+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "bounce",
+    "center",
+    "defends",
+    "fed",
+    "gold",
+    "signals",
+    "stage",
+    "take"
+   ],
+   "ts": "2026-10-23T17:56:01.785850+00:00"
   }
  ]
 }
