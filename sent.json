@@ -5,7 +5,7 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 3
+  "2026-10-24": 4
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
@@ -53,6 +53,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-consolidation-sets-stage-for-decisive-breakout-1639706": "2026-10-21T21:09:33.343081+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-2-5-as-meta-boosts-ai-spending-1639860": "2026-10-22T18:18:18.955515+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-4000-as-pullback-continues-1640093": "2026-10-23T18:19:53.058533+00:00",
   "https://www.fxempire.com/forecasts/article/silver-breaks-below-55-as-fed-decision-looms-for-next-market-test-1640072": "2026-10-23T17:27:11.218494+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-away-from-session-highs-as-treasury-yields-drop-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1639849": "2026-10-22T17:19:16.898008+00:00",
   "https://www.fxempire.com/forecasts/article/xauusd-holds-near-one-week-low-as-oil-keeps-december-fed-risk-alive-1639663": "2026-10-21T20:39:00.519076+00:00",
@@ -832,6 +833,20 @@
     "take"
    ],
    "ts": "2026-10-23T17:56:01.785850+00:00"
+  },
+  {
+   "tok": [
+    "4000",
+    "continues",
+    "forecasts",
+    "gold",
+    "platinum",
+    "pullback",
+    "silver",
+    "tests",
+    "xauusd"
+   ],
+   "ts": "2026-10-23T18:19:53.058533+00:00"
   }
  ]
 }
