@@ -5,14 +5,13 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 9
+  "2026-10-24": 12
  },
  "links": {
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
   "https://investinglive.com/central-banks/boj-seen-lifting-rates-to-1-50-in-december-as-69-of-economists-expect-a-q4-hike/": "2026-10-20T23:06:01.202677+00:00",
   "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/": "2026-10-22T22:09:20.492228+00:00",
-  "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-21-2026-ecb-lane-speaking/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/central-banks/japan-s-katayama-sees-no-gap-with-boj-says-wage-driven-inflation-is-near/": "2026-10-21T01:27:47.452579+00:00",
   "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/": "2026-10-22T03:10:44.753749+00:00",
   "https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/": "2026-10-21T20:07:09.797652+00:00",
@@ -22,9 +21,9 @@
   "https://investinglive.com/forex/us-10-year-yields-fall-near-5-level/": "2026-10-22T18:18:18.955515+00:00",
   "https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-october-23-2026-japan-inflation-data/": "2026-10-22T21:11:10.426934+00:00",
-  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-oct-usd-falls-as-deal-headlines-swing-oil-dow-and-small-caps-outperform/": "2026-10-20T21:09:59.333950+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/": "2026-10-21T21:09:33.343081+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/": "2026-10-22T22:09:20.492228+00:00",
+  "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/": "2026-10-22T04:14:35.488972+00:00",
   "https://investinglive.com/news/japan-cpi-preview-core-seen-at-2-1-topping-boj-target-for-first-time-since-december/": "2026-10-22T21:11:10.426934+00:00",
   "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/": "2026-10-21T01:27:47.452579+00:00",
@@ -38,7 +37,9 @@
   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzc4MEVydWNpVENYNGVkeVU4VzBEcVc4dGloOVJPcl91NTRYb0hRb1l3YTkzYkFYb0lKVWtUV3pIaGRxdVV6ZFY3d3c2MkxFSFFlZkhQV3NJTnFRS1ZMMkM5VHVrckRpQUFjcVI0ZnJ3OFYydHNTa3kxR2I5eHNBUkduRG1mVzI4SFpGTjVGUWF5WU1qNkVPWEZhVXA?oc=5": "2026-10-20T22:09:14.580971+00:00",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUS1WTktxSVY0Zl9rMnFjQ0JVTzdHUFloRVh1Y1Z4cFpBMEFNNklUc1NVZndEeGsxQm1ORk91YUZjRHJCVmlIWXBVU2dhWEk5QTlSYTJOVE1jcHN6V0tFRWY5VHVFcEVTNE12TzQxcldHbW1zNkhONTdvWmh1QUtlMGdMM0V2czBXbEJUbFdOUk9nS1M1eWp5VktJV2EycWs?oc=5": "2026-10-23T21:09:33.047860+00:00",
   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2JoR2RWb1Q5VDIxZVAwUkFvRTI3Q0ptU3lnbFBCeXJTUWttZ0x2NU16MnZZUEN5WUR5UzdzOTN2c05WaXJGeEFwT0Riejc0QnZZOUtFRkFsa3BxUVo4cjQ5NmNKMnFlcmpadVIxREE5WHNhNkhaOGdZSWFaUWFqTGhwSUQwbmUzYjFLdzZHS2M2V082dFRYM2hIWTUtTEZtbURvaA?oc=5": "2026-10-21T20:39:00.519076+00:00",
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjRvOE0xNHRaSHBfWjh3ZGJyc0RGeEcxOUl2MlpTUHNMRUJWQVVzU3dOSFo4bGxzTklIVVJMTVJVZEdWcTZBUEQ2THpQWEZ5b3NUMlZZV1YzUXhKb3p6RWVPNEZubkVqYmZJXy1Ua21YOFRmeXA2Z3Z6SThWQzA2Y3FMZlVEMHVoaUd2YmxSRkdlQm5wQ0M4aFlrSzRMZ2RpZEZsaUN3?oc=5": "2026-10-23T21:38:14.625358+00:00",
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWNod2hTSlpYME52dC1jbWpuR2R0ZVZqQUNaTWNZWGZ6NUphQVlidlAwaEhhRnBGeWp1Wm0yRXR4bHZfc2x5MHNqbS14Zzk0cl95LUIwNjlhaU05YWVJR0g2NWZKQjFxalFMU0tKRmN5SHMyZjdMcVNhNXI1a3BWWURWUGUxOGUzVG1Jb09zZ0Y5WUdxc3dKU3NjeFdNQUowbEQ5UThPU0VueWcxZ0ExQUg3MXk?oc=5": "2026-10-22T19:07:01.680142+00:00",
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXFTa1llZHhWUzBWY3U0dmpnRVJvUUoxZlprTkd0U0VDTklUTmQ3Q2lzMkdRU0s5N2d2ZlBwZDRucm9tckdIRFBQUE1USGtURkd2YmV0VjNLMjR4QS1QbF9ia1Z1VzlUTWlwdDR4cEZiaGhoR3RGM0piNlRfSWNFSzF2YnVTNHppd21RZlgtMFVqWDB0MWU2WXAxbWVxeFI4akJaWGxhTERweHF0YmpYZ1VhY1Ffdw?oc=5": "2026-10-23T21:38:14.625358+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUpxTUpMdFBxd2dEd2FOQ2MyQXJXeXl6R1VWOTV3b3NHdUpodkVUdzdsaVU1UzlrNmhQUXRPdTBMT2RlM1Q1R3pGUExCREpzWnppYXlCTnB3NFZjUXZBcDlGZ2F1cTBQY0ZYYzdvUU8yYkNYd2wtMmR4dWQwOHBvaTBKVFJKNU9FcDc3bl9nNHZtVGZ4U3FjX2hrRXZfMlFoZXBjOFFkdVRJM0dIRGJGR2h4bjZOZGo4?oc=5": "2026-10-21T17:00:02.366334+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2x6YjVmcHlCTnJSN01qOHZMUnJHTmtnRU1zRjFwWlRwVms1NV9MOTcyalpSaEotZDFrN3ZzQXA2Q0lJaERxWTFnZnpYa1ZEeVdrUHVCd3VYV0VGTG1lbGJyXzNKeEZ2UmJuV0FYZ0xMY2xPUVhKZWZJbFlOWWdEMEVQblJ2dnROLUw0a01QdktsWFRGM0Q0UGxUTmd0eXpzZTNSaVQyWGYxb3ozNGkzWXJyNGhSWGdY?oc=5": "2026-10-23T20:39:19.545049+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5": "2026-10-22T21:11:10.426934+00:00",
@@ -50,7 +51,7 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGxuTFo5VGp0TGhZcEozV0RBZ2JmQ0lGX2czWkhhdjViVEc1eENPWmR2RlpFVzdFRGUycWxBSklHZkxXRHN6bnZocDZuMDdTNGRnN2lQLWY3MEtVbktuNllWODNyMzNkWHlMV18xcjIyQ0RadHpaRzZNcldTbjU1T29FbURsSV9FVmc1VEZ5TzhlZXo1VjNRODMtVkdLR3E2UWhESEpRTVB6N0pGZHdLZGJNWUZzemlDUEM0?oc=5": "2026-10-21T22:09:43.724794+00:00",
   "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-a-bottom-as-10-year-real-yields-ease-to-2-77-1639622": "2026-10-21T17:00:02.366334+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-4217-breakout-puts-bulls-back-in-control-1639370": "2026-10-20T21:09:59.333950+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-consolidation-sets-stage-for-decisive-breakout-1639706": "2026-10-21T21:09:33.343081+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-2-5-as-meta-boosts-ai-spending-1639860": "2026-10-22T18:18:18.955515+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-4000-as-pullback-continues-1640093": "2026-10-23T18:19:53.058533+00:00",
@@ -68,60 +69,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "20",
-    "americas",
-    "caps",
-    "deal",
-    "dow",
-    "falls",
-    "fx",
-    "headlines",
-    "investinglive",
-    "news",
-    "oct",
-    "oil",
-    "outperform",
-    "small",
-    "swing",
-    "usd",
-    "wrap"
-   ],
-   "ts": "2026-10-20T21:09:59.333950+00:00"
-  },
-  {
-   "tok": [
-    "217",
-    "back",
-    "breakout",
-    "bulls",
-    "control",
-    "forecast",
-    "gold",
-    "price",
-    "puts",
-    "usd",
-    "xau"
-   ],
-   "ts": "2026-10-20T21:09:59.333950+00:00"
-  },
-  {
-   "tok": [
-    "2026",
-    "21",
-    "asia",
-    "calendar",
-    "ecb",
-    "economic",
-    "event",
-    "lane",
-    "october",
-    "speaking",
-    "wednesday"
-   ],
-   "ts": "2026-10-20T21:09:59.333950+00:00"
-  },
   {
    "tok": [
     "decision",
@@ -885,6 +832,56 @@
     "what"
    ],
    "ts": "2026-10-23T21:09:33.047860+00:00"
+  },
+  {
+   "tok": [
+    "americas",
+    "boost",
+    "highest",
+    "investinglive",
+    "market",
+    "may",
+    "news",
+    "oil",
+    "since",
+    "war",
+    "worries",
+    "wrap"
+   ],
+   "ts": "2026-10-23T21:38:14.625358+00:00"
+  },
+  {
+   "tok": [
+    "bearish",
+    "forecast",
+    "gold",
+    "major",
+    "momentum",
+    "price",
+    "puts",
+    "risk",
+    "support",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-10-23T21:38:14.625358+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "canadian",
+    "data",
+    "dollar",
+    "five",
+    "high",
+    "hike",
+    "hits",
+    "kitco",
+    "rate",
+    "supports",
+    "week"
+   ],
+   "ts": "2026-10-23T21:38:14.625358+00:00"
   }
  ]
 }
