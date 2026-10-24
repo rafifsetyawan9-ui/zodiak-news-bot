@@ -306,6 +306,7 @@ def load_state() -> dict:
     state.setdefault("titles", [])
     state.setdefault("daily", {})
     state.setdefault("reminders", {})
+    state.setdefault("fails", {})
     return state
 
 
@@ -326,6 +327,7 @@ def prune_state(state: dict, now: datetime) -> None:
     state["titles"] = [t for t in state["titles"] if (_parse_ts(t.get("ts")) or now) >= cutoff]
     keep_days = {(now.astimezone(WIB) - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(7)}
     state["daily"] = {k: v for k, v in state["daily"].items() if k in keep_days}
+    state["fails"] = {k: v for k, v in state.get("fails", {}).items() if k in state["links"] or len(state["fails"]) < 200}
     state["reminders"] = {k: v for k, v in state.get("reminders", {}).items() if (_parse_ts(v) or now) >= cutoff}
 
 
@@ -398,10 +400,10 @@ def gemini_generate(model: str, user: str) -> str:
                     "responseMimeType": "application/json",
                 },
             },
-            timeout=60,
+            timeout=45,
         )
     except requests.RequestException as exc:
-        raise RuntimeError(f"gagal konek ke Gemini: {redact(str(exc))[:150]}") from None
+        raise Overloaded(f"Gemini tidak merespons ({type(exc).__name__})") from None
     body = redact(resp.text)[:300]
     if resp.status_code in (401, 403) or (resp.status_code == 400 and "API_KEY" in resp.text):
         raise AuthError(body)
@@ -872,8 +874,14 @@ def run(dry_run: bool = False) -> int:
                 exit_code = 1
                 break
             except Overloaded as exc:
-                log(f"[WARN] {exc}. Berita belum dikirim, dicoba lagi di run berikutnya.")
-                break  # sementara: bukan error, jangan tandai merah
+                n = state["fails"].get(cand["link"], 0) + 1
+                state["fails"][cand["link"]] = n
+                if n >= 3:
+                    mark_seen(state, cand, now)
+                    log(f"[SKIP] gagal diringkas {n}x, dilewati: {cand['title'][:60]}")
+                else:
+                    log(f"[WARN] {exc}. Berita belum dikirim, dicoba lagi di run berikutnya ({n}/3).")
+                break  # gangguan sementara: bukan error, jangan tandai merah
             except Exception as exc:
                 api_errors += 1
                 log(f"[WARN] gagal meringkas '{cand['title'][:60]}': {str(exc)[:150]}")
