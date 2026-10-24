@@ -11,7 +11,6 @@
   "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
   "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/": "2026-10-22T22:09:20.492228+00:00",
-  "https://investinglive.com/central-banks/japan-s-katayama-sees-no-gap-with-boj-says-wage-driven-inflation-is-near/": "2026-10-21T01:27:47.452579+00:00",
   "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/": "2026-10-22T03:10:44.753749+00:00",
   "https://investinglive.com/central-banks/new-zealand-cpi-preview-q3-inflation-seen-easing-to-3-8-ahead-of-likely-rbnz-hike/": "2026-10-21T20:07:09.797652+00:00",
   "https://investinglive.com/central-banks/the-market-now-sees-a-22-chance-the-fed-doesn-t-hike-again-this-year/": "2026-10-22T19:07:01.680142+00:00",
@@ -24,7 +23,6 @@
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-asian-stocks-slide-dollar-slips/": "2026-10-22T04:14:35.488972+00:00",
   "https://investinglive.com/news/japan-cpi-preview-core-seen-at-2-1-topping-boj-target-for-first-time-since-december/": "2026-10-22T21:11:10.426934+00:00",
-  "https://investinglive.com/news/japan-exports-rise-16-7-for-13th-straight-month-on-ai-chip-demand-trade-gap-narrows/": "2026-10-21T01:27:47.452579+00:00",
   "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/": "2026-10-22T01:26:21.217980+00:00",
   "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/": "2026-10-21T22:09:43.724794+00:00",
   "https://investinglive.com/news/us-treasury-excels-26-billion-of-five-year-tips-at-a-high-yield-of-2-367/": "2026-10-22T18:18:18.955515+00:00",
@@ -65,39 +63,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "boj",
-    "driven",
-    "gap",
-    "inflation",
-    "japan",
-    "katayama",
-    "near",
-    "no",
-    "sees",
-    "wage"
-   ],
-   "ts": "2026-10-21T01:27:47.452579+00:00"
-  },
-  {
-   "tok": [
-    "13th",
-    "16",
-    "ai",
-    "chip",
-    "demand",
-    "exports",
-    "gap",
-    "japan",
-    "month",
-    "narrows",
-    "rise",
-    "straight",
-    "trade"
-   ],
-   "ts": "2026-10-21T01:27:47.452579+00:00"
-  },
   {
    "tok": [
     "110",
