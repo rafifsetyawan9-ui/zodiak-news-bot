@@ -6,7 +6,7 @@
   "2026-10-22": 15,
   "2026-10-23": 15,
   "2026-10-24": 14,
-  "2026-10-25": 3
+  "2026-10-25": 4
  },
  "fails": {},
  "links": {
@@ -41,6 +41,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-4000-as-pullback-continues-1640093": "2026-10-23T18:19:53.058533+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-soars-4-as-u-s-ambassador-to-turkey-says-u-s-could-strike-iran-1640109": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/silver-breaks-below-55-as-fed-decision-looms-for-next-market-test-1640072": "2026-10-23T17:27:11.218494+00:00",
+  "https://www.fxempire.com/forecasts/article/silver-price-forecast-50-in-view-as-oil-fuels-fed-rate-hike-fears-1640211": "2026-10-25T16:37:29.635122+00:00",
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-crude-and-rate-risk-keep-xagusd-under-pressure-1639986": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-ai-spending-big-tech-earnings-and-fed-risk-test-us-stock-market-1640187": "2026-10-25T13:17:35.218683+00:00",
   "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174": "2026-10-25T05:38:28.205677+00:00",
@@ -588,6 +589,22 @@
     "us"
    ],
    "ts": "2026-10-25T13:17:35.218683+00:00"
+  },
+  {
+   "tok": [
+    "50",
+    "fears",
+    "fed",
+    "forecast",
+    "fuels",
+    "hike",
+    "oil",
+    "price",
+    "rate",
+    "silver",
+    "view"
+   ],
+   "ts": "2026-10-25T16:37:29.635122+00:00"
   }
  ]
 }
