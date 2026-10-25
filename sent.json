@@ -9,7 +9,6 @@
  },
  "fails": {},
  "links": {
-  "https://investinglive.com/central-banks/boe-preview-mufg-expects-november-rate-hike-as-energy-shock-pushes-uk-inflation-above-4/": "2026-10-22T00:49:34.386512+00:00",
   "https://investinglive.com/central-banks/ecb-preview-mufg-sees-october-hold-two-hikes-ahead-see-eur-usd-year-end-at-1-12/": "2026-10-22T23:07:17.570761+00:00",
   "https://investinglive.com/central-banks/ecb-s-panetta-says-rising-yields-a-drag-on-growth-not-a-crisis-ahead-of-rate-meeting/": "2026-10-22T22:09:20.492228+00:00",
   "https://investinglive.com/central-banks/most-analysts-now-expect-the-next-boj-rate-hike-in-december-none-see-october-move-bloomberg/": "2026-10-22T03:10:44.753749+00:00",
@@ -55,24 +54,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "above",
-    "boe",
-    "energy",
-    "expects",
-    "hike",
-    "inflation",
-    "mufg",
-    "november",
-    "preview",
-    "pushes",
-    "rate",
-    "shock",
-    "uk"
-   ],
-   "ts": "2026-10-22T00:49:34.386512+00:00"
-  },
   {
    "tok": [
     "115",
