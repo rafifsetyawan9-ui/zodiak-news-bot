@@ -5,7 +5,8 @@
   "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
-  "2026-10-24": 14
+  "2026-10-24": 14,
+  "2026-10-25": 1
  },
  "fails": {},
  "links": {
@@ -41,6 +42,7 @@
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-soars-4-as-u-s-ambassador-to-turkey-says-u-s-could-strike-iran-1640109": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/silver-breaks-below-55-as-fed-decision-looms-for-next-market-test-1640072": "2026-10-23T17:27:11.218494+00:00",
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-crude-and-rate-risk-keep-xagusd-under-pressure-1639986": "2026-10-23T20:39:19.545049+00:00",
+  "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174": "2026-10-25T05:38:28.205677+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-away-from-session-highs-as-treasury-yields-drop-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1639849": "2026-10-22T17:19:16.898008+00:00",
   "https://www.investing.com/news/commodities-news/silver-tests-bear-flag-at-5860-resistance-live-levels-93CH-4956490": "2026-10-22T19:39:44.324889+00:00",
   "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625": "2026-10-22T22:09:20.492228+00:00",
@@ -536,6 +538,21 @@
     "test"
    ],
    "ts": "2026-10-24T09:58:18.743130+00:00"
+  },
+  {
+   "tok": [
+    "ai",
+    "data",
+    "earnings",
+    "fed",
+    "market",
+    "pce",
+    "stock",
+    "strength",
+    "test",
+    "week"
+   ],
+   "ts": "2026-10-25T05:38:28.205677+00:00"
   }
  ]
 }
