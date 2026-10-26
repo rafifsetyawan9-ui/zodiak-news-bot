@@ -6,7 +6,7 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 4
+  "2026-10-26": 5
  },
  "fails": {},
  "links": {
@@ -14,6 +14,7 @@
   "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
+  "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/trump-the-question-is-do-we-want-to-finish-iran-war-or-let-it-wither/": "2026-10-23T17:27:11.218494+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
   "https://investinglive.com/stocks/earnings-macro-week-ahead-the-fed-and-big-tech-report-on-the-same-day/": "2026-10-23T19:38:54.977380+00:00",
@@ -389,6 +390,24 @@
     "year"
    ],
    "ts": "2026-10-25T23:31:55.491636+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "below",
+    "dips",
+    "fears",
+    "fed",
+    "four",
+    "fuels",
+    "gold",
+    "hike",
+    "months",
+    "oil",
+    "week",
+    "worst"
+   ],
+   "ts": "2026-10-26T00:32:57.228636+00:00"
   }
  ]
 }
