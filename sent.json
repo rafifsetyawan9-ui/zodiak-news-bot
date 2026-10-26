@@ -6,7 +6,7 @@
   "2026-10-24": 14,
   "2026-10-25": 4,
   "2026-10-26": 15,
-  "2026-10-27": 11
+  "2026-10-27": 14
  },
  "fails": {},
  "links": {
@@ -20,8 +20,8 @@
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/": "2026-10-26T03:14:47.889249+00:00",
+  "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/": "2026-10-26T22:01:46.598712+00:00",
   "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/": "2026-10-26T21:29:11.226376+00:00",
-  "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/": "2026-10-26T04:24:20.027933+00:00",
   "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
@@ -29,14 +29,12 @@
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5": "2026-10-24T13:36:19.190348+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5": "2026-10-26T19:50:23.576773+00:00",
-  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjRvOE0xNHRaSHBfWjh3ZGJyc0RGeEcxOUl2MlpTUHNMRUJWQVVzU3dOSFo4bGxzTklIVVJMTVJVZEdWcTZBUEQ2THpQWEZ5b3NUMlZZV1YzUXhKb3p6RWVPNEZubkVqYmZJXy1Ua21YOFRmeXA2Z3Z6SThWQzA2Y3FMZlVEMHVoaUd2YmxSRkdlQm5wQ0M4aFlrSzRMZ2RpZEZsaUN3?oc=5": "2026-10-23T21:38:14.625358+00:00",
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXFTa1llZHhWUzBWY3U0dmpnRVJvUUoxZlprTkd0U0VDTklUTmQ3Q2lzMkdRU0s5N2d2ZlBwZDRucm9tckdIRFBQUE1USGtURkd2YmV0VjNLMjR4QS1QbF9ia1Z1VzlUTWlwdDR4cEZiaGhoR3RGM0piNlRfSWNFSzF2YnVTNHppd21RZlgtMFVqWDB0MWU2WXAxbWVxeFI4akJaWGxhTERweHF0YmpYZ1VhY1Ffdw?oc=5": "2026-10-23T21:38:14.625358+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlBDaXlGdEVjYXlSSS1ZRTNJTngxWFlJNklqMGJ3RlgxeEtkMGJKajlHaHZxa3hJX1BaZnIyU0FnVGJMV1dVOXV4bVlUaGJ6WWRCazZvQW95US1rOGQzMndUT1NtUjdIMjgxSGkzQXIwaTZ2MFVVZUd1WVVXUzZzd2hjSmU2TU9UWUZYSmlnNHRHS3RERXB4MjRFbUhLSTZPQUFzQ1hjR01UMjNZTGd1S3EyRFlqdndjMmRGWHFB?oc=5": "2026-10-26T22:01:46.598712+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5": "2026-10-23T22:09:11.680559+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153": "2026-10-24T09:58:18.743130+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-ahead-of-federal-reserve-decision-1640414": "2026-10-26T17:09:03.821978+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-climbed-back-above-4000-1640483": "2026-10-26T17:43:42.524309+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
   "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550": "2026-10-26T21:29:11.226376+00:00",
@@ -51,60 +49,11 @@
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-wednesdays-interest-rate-decision-could-push-xrp-below-1-26-1640501": "2026-10-26T19:50:23.576773+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362": "2026-10-26T03:50:16.873298+00:00",
   "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306": "2026-10-26T05:03:23.333912+00:00",
-  "https://www.investing.com/news/commodities-news/us-consumers-paying-the-most-for-fuel-price-spikes-from-iran-war-study-says-4973618": "2026-10-26T20:59:45.837169+00:00"
+  "https://www.investing.com/news/commodities-news/us-consumers-paying-the-most-for-fuel-price-spikes-from-iran-war-study-says-4973618": "2026-10-26T20:59:45.837169+00:00",
+  "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829": "2026-10-26T22:01:46.598712+00:00"
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "americas",
-    "boost",
-    "highest",
-    "investinglive",
-    "market",
-    "may",
-    "news",
-    "oil",
-    "since",
-    "war",
-    "worries",
-    "wrap"
-   ],
-   "ts": "2026-10-23T21:38:14.625358+00:00"
-  },
-  {
-   "tok": [
-    "bearish",
-    "forecast",
-    "gold",
-    "major",
-    "momentum",
-    "price",
-    "puts",
-    "risk",
-    "support",
-    "usd",
-    "xau"
-   ],
-   "ts": "2026-10-23T21:38:14.625358+00:00"
-  },
-  {
-   "tok": [
-    "bets",
-    "canadian",
-    "data",
-    "dollar",
-    "five",
-    "high",
-    "hike",
-    "hits",
-    "kitco",
-    "rate",
-    "supports",
-    "week"
-   ],
-   "ts": "2026-10-23T21:38:14.625358+00:00"
-  },
   {
    "tok": [
     "116",
@@ -622,6 +571,54 @@
     "services"
    ],
    "ts": "2026-10-26T21:29:11.226376+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "above",
+    "cools",
+    "crude",
+    "decision",
+    "diplomacy",
+    "fed",
+    "gold",
+    "holds",
+    "hormuz",
+    "kitco",
+    "pm",
+    "report"
+   ],
+   "ts": "2026-10-26T22:01:46.598712+00:00"
+  },
+  {
+   "tok": [
+    "canadian",
+    "day",
+    "decisions",
+    "dollar",
+    "rally",
+    "rate",
+    "seven",
+    "steadies"
+   ],
+   "ts": "2026-10-26T22:01:46.598712+00:00"
+  },
+  {
+   "tok": [
+    "2026",
+    "27",
+    "asia",
+    "calendar",
+    "economic",
+    "event",
+    "japan",
+    "light",
+    "october",
+    "ppi",
+    "services",
+    "tuesday"
+   ],
+   "ts": "2026-10-26T22:01:46.598712+00:00"
   }
  ]
 }
