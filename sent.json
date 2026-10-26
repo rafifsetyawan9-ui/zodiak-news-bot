@@ -6,7 +6,7 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 10
+  "2026-10-26": 12
  },
  "fails": {},
  "links": {
@@ -18,6 +18,8 @@
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
+  "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
+  "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/trump-the-question-is-do-we-want-to-finish-iran-war-or-let-it-wither/": "2026-10-23T17:27:11.218494+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
   "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
@@ -494,6 +496,39 @@
     "ueda"
    ],
    "ts": "2026-10-26T02:40:47.604022+00:00"
+  },
+  {
+   "tok": [
+    "2027",
+    "arabia",
+    "bites",
+    "caverns",
+    "crude",
+    "disruption",
+    "from",
+    "hormuz",
+    "saudi",
+    "singapore",
+    "store"
+   ],
+   "ts": "2026-10-26T03:14:47.889249+00:00"
+  },
+  {
+   "tok": [
+    "79",
+    "bank",
+    "central",
+    "estimate",
+    "goes",
+    "gold",
+    "goldman",
+    "london",
+    "mainstream",
+    "reserves",
+    "shift",
+    "tonne"
+   ],
+   "ts": "2026-10-26T03:14:47.889249+00:00"
   }
  ]
 }
