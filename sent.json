@@ -6,7 +6,7 @@
   "2026-10-24": 14,
   "2026-10-25": 4,
   "2026-10-26": 15,
-  "2026-10-27": 7
+  "2026-10-27": 8
  },
  "fails": {},
  "links": {
@@ -30,6 +30,7 @@
   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjRvOE0xNHRaSHBfWjh3ZGJyc0RGeEcxOUl2MlpTUHNMRUJWQVVzU3dOSFo4bGxzTklIVVJMTVJVZEdWcTZBUEQ2THpQWEZ5b3NUMlZZV1YzUXhKb3p6RWVPNEZubkVqYmZJXy1Ua21YOFRmeXA2Z3Z6SThWQzA2Y3FMZlVEMHVoaUd2YmxSRkdlQm5wQ0M4aFlrSzRMZ2RpZEZsaUN3?oc=5": "2026-10-23T21:38:14.625358+00:00",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUXFTa1llZHhWUzBWY3U0dmpnRVJvUUoxZlprTkd0U0VDTklUTmQ3Q2lzMkdRU0s5N2d2ZlBwZDRucm9tckdIRFBQUE1USGtURkd2YmV0VjNLMjR4QS1QbF9ia1Z1VzlUTWlwdDR4cEZiaGhoR3RGM0piNlRfSWNFSzF2YnVTNHppd21RZlgtMFVqWDB0MWU2WXAxbWVxeFI4akJaWGxhTERweHF0YmpYZ1VhY1Ffdw?oc=5": "2026-10-23T21:38:14.625358+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2x6YjVmcHlCTnJSN01qOHZMUnJHTmtnRU1zRjFwWlRwVms1NV9MOTcyalpSaEotZDFrN3ZzQXA2Q0lJaERxWTFnZnpYa1ZEeVdrUHVCd3VYV0VGTG1lbGJyXzNKeEZ2UmJuV0FYZ0xMY2xPUVhKZWZJbFlOWWdEMEVQblJ2dnROLUw0a01QdktsWFRGM0Q0UGxUTmd0eXpzZTNSaVQyWGYxb3ozNGkzWXJyNGhSWGdY?oc=5": "2026-10-23T20:39:19.545049+00:00",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5": "2026-10-23T22:09:11.680559+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153": "2026-10-24T09:58:18.743130+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
@@ -617,6 +618,27 @@
     "war"
    ],
    "ts": "2026-10-26T19:50:23.576773+00:00"
+  },
+  {
+   "tok": [
+    "big",
+    "day",
+    "decision",
+    "earnings",
+    "fed",
+    "here",
+    "how",
+    "it",
+    "kitco",
+    "land",
+    "rate",
+    "same",
+    "tech",
+    "this",
+    "trading",
+    "week"
+   ],
+   "ts": "2026-10-26T20:20:00.093602+00:00"
   }
  ]
 }
