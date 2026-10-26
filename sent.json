@@ -6,7 +6,7 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 7
+  "2026-10-26": 8
  },
  "fails": {},
  "links": {
@@ -27,6 +27,7 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2x6YjVmcHlCTnJSN01qOHZMUnJHTmtnRU1zRjFwWlRwVms1NV9MOTcyalpSaEotZDFrN3ZzQXA2Q0lJaERxWTFnZnpYa1ZEeVdrUHVCd3VYV0VGTG1lbGJyXzNKeEZ2UmJuV0FYZ0xMY2xPUVhKZWZJbFlOWWdEMEVQblJ2dnROLUw0a01QdktsWFRGM0Q0UGxUTmd0eXpzZTNSaVQyWGYxb3ozNGkzWXJyNGhSWGdY?oc=5": "2026-10-23T20:39:19.545049+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5": "2026-10-23T22:09:11.680559+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153": "2026-10-24T09:58:18.743130+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
   "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-4000-as-pullback-continues-1640093": "2026-10-23T18:19:53.058533+00:00",
@@ -447,6 +448,19 @@
     "weigh"
    ],
    "ts": "2026-10-26T01:27:03.793107+00:00"
+  },
+  {
+   "tok": [
+    "face",
+    "fed",
+    "forecast",
+    "gold",
+    "metals",
+    "pressure",
+    "price",
+    "silver"
+   ],
+   "ts": "2026-10-26T02:06:47.432704+00:00"
   }
  ]
 }
