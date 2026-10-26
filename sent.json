@@ -6,7 +6,7 @@
   "2026-10-24": 14,
   "2026-10-25": 4,
   "2026-10-26": 15,
-  "2026-10-27": 5
+  "2026-10-27": 6
  },
  "fails": {},
  "links": {
@@ -33,7 +33,6 @@
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHV5TDc4V3N5eUVHY3hqcGhHMjZwN1JuM2lXTHl5NGZrckpLQ3UzQnFaYld2bE4yaVJ3c0p4a0dIU09xZmtlaWlkSlk0NzlPYXpXUHZ1VmhTdlM4NlVSNHhEbV9BaDUxbi0ybEQtbTdiQ2RFTmtVcEZ6LU96dDFLa2pEWE95UlpHZ1pGVFRlYnhDZlgzOW9oYVdSb1REbDVjbnhNc3FJOE1JNUh3Vnk3OUpQOWpFS3pKeE1iZ3N3?oc=5": "2026-10-23T22:09:11.680559+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-oil-and-earnings-risks-test-the-path-to-55000-1640153": "2026-10-24T09:58:18.743130+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-ahead-of-federal-reserve-decision-1640414": "2026-10-26T17:09:03.821978+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-climbed-back-above-4000-1640483": "2026-10-26T17:43:42.524309+00:00",
@@ -41,6 +40,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-soars-4-as-u-s-ambassador-to-turkey-says-u-s-could-strike-iran-1640109": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/oil-prices-face-fed-gdp-and-spending-data-as-demand-outlook-takes-focus-1640459": "2026-10-26T17:09:03.821978+00:00",
+  "https://www.fxempire.com/forecasts/article/oil-prices-retreat-as-fed-and-ecb-decisions-loom-1640491": "2026-10-26T18:18:42.318700+00:00",
   "https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404": "2026-10-26T17:43:42.524309+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-50-in-view-as-oil-fuels-fed-rate-hike-fears-1640211": "2026-10-25T16:37:29.635122+00:00",
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-crude-and-rate-risk-keep-xagusd-under-pressure-1639986": "2026-10-23T20:39:19.545049+00:00",
@@ -53,20 +53,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "000",
-    "bounce",
-    "center",
-    "defends",
-    "fed",
-    "gold",
-    "signals",
-    "stage",
-    "take"
-   ],
-   "ts": "2026-10-23T17:56:01.785850+00:00"
-  },
   {
    "tok": [
     "4000",
@@ -631,6 +617,18 @@
     "silver"
    ],
    "ts": "2026-10-26T17:43:42.524309+00:00"
+  },
+  {
+   "tok": [
+    "decisions",
+    "ecb",
+    "fed",
+    "loom",
+    "oil",
+    "prices",
+    "retreat"
+   ],
+   "ts": "2026-10-26T18:18:42.318700+00:00"
   }
  ]
 }
