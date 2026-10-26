@@ -6,7 +6,7 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 12
+  "2026-10-26": 13
  },
  "fails": {},
  "links": {
@@ -41,7 +41,8 @@
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-crude-and-rate-risk-keep-xagusd-under-pressure-1639986": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-ai-spending-big-tech-earnings-and-fed-risk-test-us-stock-market-1640187": "2026-10-25T13:17:35.218683+00:00",
   "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174": "2026-10-25T05:38:28.205677+00:00",
-  "https://www.fxempire.com/forecasts/article/us-interest-rate-forecast-oil-rally-fuels-december-fed-hike-risks-1640192": "2026-10-25T13:17:35.218683+00:00"
+  "https://www.fxempire.com/forecasts/article/us-interest-rate-forecast-oil-rally-fuels-december-fed-hike-risks-1640192": "2026-10-25T13:17:35.218683+00:00",
+  "https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362": "2026-10-26T03:50:16.873298+00:00"
  },
  "reminders": {},
  "titles": [
@@ -529,6 +530,23 @@
     "tonne"
    ],
    "ts": "2026-10-26T03:14:47.889249+00:00"
+  },
+  {
+   "tok": [
+    "elevated",
+    "eyed",
+    "fed",
+    "gold",
+    "low",
+    "meet",
+    "mth",
+    "near",
+    "oil",
+    "prices",
+    "steadies",
+    "weigh"
+   ],
+   "ts": "2026-10-26T03:50:16.873298+00:00"
   }
  ]
 }
