@@ -6,7 +6,7 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 14
+  "2026-10-26": 15
  },
  "fails": {},
  "links": {
@@ -36,6 +36,7 @@
   "https://www.fxempire.com/forecasts/article/gold-defends-4000-after-bounce-as-fed-signals-take-center-stage-1640086": "2026-10-23T17:56:01.785850+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-momentum-puts-major-support-at-risk-1640137": "2026-10-23T21:38:14.625358+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-tests-4000-as-pullback-continues-1640093": "2026-10-23T18:19:53.058533+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-soars-4-as-u-s-ambassador-to-turkey-says-u-s-could-strike-iran-1640109": "2026-10-23T20:39:19.545049+00:00",
   "https://www.fxempire.com/forecasts/article/silver-breaks-below-55-as-fed-decision-looms-for-next-market-test-1640072": "2026-10-23T17:27:11.218494+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-50-in-view-as-oil-fuels-fed-rate-hike-fears-1640211": "2026-10-25T16:37:29.635122+00:00",
@@ -564,6 +565,27 @@
     "win"
    ],
    "ts": "2026-10-26T04:24:20.027933+00:00"
+  },
+  {
+   "tok": [
+    "75",
+    "946",
+    "can",
+    "fed",
+    "forecast",
+    "gold",
+    "hike",
+    "hit",
+    "hold",
+    "into",
+    "odds",
+    "price",
+    "silver",
+    "steadies",
+    "week",
+    "xauusd"
+   ],
+   "ts": "2026-10-26T07:04:32.333489+00:00"
   }
  ]
 }
