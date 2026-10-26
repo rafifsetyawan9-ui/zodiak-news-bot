@@ -6,15 +6,17 @@
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
-  "2026-10-26": 8
+  "2026-10-26": 10
  },
  "fails": {},
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/": "2026-10-25T23:31:55.491636+00:00",
+  "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
+  "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/trump-the-question-is-do-we-want-to-finish-iran-war-or-let-it-wither/": "2026-10-23T17:27:11.218494+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-since-may/": "2026-10-23T21:38:14.625358+00:00",
@@ -461,6 +463,37 @@
     "silver"
    ],
    "ts": "2026-10-26T02:06:47.432704+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "bank",
+    "below",
+    "buying",
+    "dips",
+    "etf",
+    "gold",
+    "liquidation",
+    "long",
+    "saxo",
+    "swamps"
+   ],
+   "ts": "2026-10-26T02:40:47.604022+00:00"
+  },
+  {
+   "tok": [
+    "25",
+    "boj",
+    "but",
+    "further",
+    "hikes",
+    "hold",
+    "neutral",
+    "signals",
+    "toward",
+    "ueda"
+   ],
+   "ts": "2026-10-26T02:40:47.604022+00:00"
   }
  ]
 }
