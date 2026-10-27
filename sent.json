@@ -6,7 +6,7 @@
   "2026-10-25": 4,
   "2026-10-26": 15,
   "2026-10-27": 15,
-  "2026-10-28": 9
+  "2026-10-28": 12
  },
  "fails": {},
  "links": {
@@ -14,6 +14,8 @@
   "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
+  "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
+  "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
@@ -38,6 +40,7 @@
   "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728": "2026-10-27T18:28:41.082099+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-ahead-of-federal-reserve-decision-1640414": "2026-10-26T17:09:03.821978+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-as-fed-decision-looms-and-real-yields-ease-1640666": "2026-10-27T17:10:04.111155+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-short-term-strength-faces-major-resistance-1640783": "2026-10-27T21:14:14.828221+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-climbed-back-above-4000-1640483": "2026-10-26T17:43:42.524309+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-prices-move-away-from-multi-month-highs-1640712": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
@@ -748,6 +751,56 @@
     "second"
    ],
    "ts": "2026-10-27T19:59:12.898136+00:00"
+  },
+  {
+   "tok": [
+    "25",
+    "benign",
+    "credit",
+    "december",
+    "fed",
+    "fitch",
+    "hiking",
+    "icymi",
+    "outlook",
+    "sees",
+    "still",
+    "us"
+   ],
+   "ts": "2026-10-27T21:14:14.828221+00:00"
+  },
+  {
+   "tok": [
+    "2026",
+    "28",
+    "asia",
+    "aud",
+    "calendar",
+    "cpi",
+    "economic",
+    "event",
+    "october",
+    "rba",
+    "rbnz",
+    "wednesday"
+   ],
+   "ts": "2026-10-27T21:14:14.828221+00:00"
+  },
+  {
+   "tok": [
+    "faces",
+    "forecast",
+    "gold",
+    "major",
+    "price",
+    "resistance",
+    "short",
+    "strength",
+    "term",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-10-27T21:14:14.828221+00:00"
   }
  ]
 }
