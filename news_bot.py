@@ -522,6 +522,29 @@ def _durasi(menit: int) -> str:
     return f"{j} jam {m} menit" if m else f"{j} jam"
 
 
+# ---------------------------------------------------------------------------
+# CTA ZODIAK VIP (dipasang di setiap pesan teks, 3 versi bergantian)
+# ---------------------------------------------------------------------------
+CTA_CONTACT = "@rafifsetyawan"
+CTA_WEBSITE = "zodiakfx-vip.netlify.app"
+CTA_VARIANTS = [
+    ("💎 <b>Mau tahu cara eksekusi XAUUSD saat news kayak gini?</b>",
+     "Coba <b>ZODIAK VIP GRATIS 2 minggu</b> → chat {contact}"),
+    ("💎 <b>Berita doang nggak cukup, yang penting tahu kapan entry.</b>",
+     "Belajar di <b>ZODIAK VIP, gratis 2 minggu</b> → chat {contact}"),
+    ("💎 <b>Analisa &amp; setup XAUUSD harian ada di ZODIAK VIP.</b>",
+     "<b>Free trial 2 minggu</b> → chat {contact}"),
+]
+
+
+def cta_block(key: str) -> str:
+    """Pilih versi CTA berdasarkan isi pesan (bergantian, tanpa perlu simpan state)."""
+    import zlib
+    head, body = CTA_VARIANTS[zlib.crc32(key.encode("utf-8")) % len(CTA_VARIANTS)]
+    return "\n".join(["━━━━━━━━━━━━", head, body.format(contact=CTA_CONTACT),
+                      f"🌐 Website: {CTA_WEBSITE}"])
+
+
 DISCLAIMER = ("⚠️ <i>Disclaimer: informasi ini hanya untuk edukasi, bukan ajakan jual/beli. "
               "Pergerakan harga bisa dipengaruhi banyak faktor selain berita ini. "
               "Keputusan trading sepenuhnya tanggung jawab masing-masing.</i>")
@@ -546,7 +569,7 @@ def format_message(item: dict, cand: dict, move: dict | None = None) -> str:
     if item["aset"]:
         parts += ["", "🏷 " + " ".join(f"#{a}" for a in item["aset"])]
     parts.append(f'🔗 <a href="{esc(cand["link"], quote=True)}">{esc(cand["source"])}</a>')
-    parts += ["", DISCLAIMER]
+    parts += ["", DISCLAIMER, "", cta_block(cand["link"])]
     return "\n".join(parts)
 
 
@@ -622,6 +645,8 @@ def format_reminder(group: list[dict]) -> str:
         "📌 Data seperti ini biasanya membuat XAUUSD dan pair USD bergerak cepat. Spread bisa melebar saat rilis.",
         "",
         "⚠️ <i>Info jadwal, bukan ajakan jual/beli.</i>",
+        "",
+        cta_block(group[0].get("key", "") or group[0].get("title", "")),
     ]
     return "\n".join(lines)
 
