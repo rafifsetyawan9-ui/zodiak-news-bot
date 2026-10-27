@@ -1,12 +1,12 @@
 {
  "daily": {
-  "2026-10-21": 15,
   "2026-10-22": 15,
   "2026-10-23": 15,
   "2026-10-24": 14,
   "2026-10-25": 4,
   "2026-10-26": 15,
-  "2026-10-27": 15
+  "2026-10-27": 15,
+  "2026-10-28": 3
  },
  "fails": {},
  "links": {
@@ -28,12 +28,15 @@
   "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5": "2026-10-26T19:50:23.576773+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlBDaXlGdEVjYXlSSS1ZRTNJTngxWFlJNklqMGJ3RlgxeEtkMGJKajlHaHZxa3hJX1BaZnIyU0FnVGJMV1dVOXV4bVlUaGJ6WWRCazZvQW95US1rOGQzMndUT1NtUjdIMjgxSGkzQXIwaTZ2MFVVZUd1WVVXUzZzd2hjSmU2TU9UWUZYSmlnNHRHS3RERXB4MjRFbUhLSTZPQUFzQ1hjR01UMjNZTGd1S3EyRFlqdndjMmRGWHFB?oc=5": "2026-10-26T22:01:46.598712+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-ahead-of-federal-reserve-decision-1640414": "2026-10-26T17:09:03.821978+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-as-fed-decision-looms-and-real-yields-ease-1640666": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-climbed-back-above-4000-1640483": "2026-10-26T17:43:42.524309+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-prices-move-away-from-multi-month-highs-1640712": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
   "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550": "2026-10-26T21:29:11.226376+00:00",
   "https://www.fxempire.com/forecasts/article/oil-prices-face-fed-gdp-and-spending-data-as-demand-outlook-takes-focus-1640459": "2026-10-26T17:09:03.821978+00:00",
@@ -601,6 +604,55 @@
     "us"
    ],
    "ts": "2026-10-26T22:39:53.864710+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "decision",
+    "ease",
+    "fed",
+    "gold",
+    "looms",
+    "real",
+    "support",
+    "tests",
+    "yields"
+   ],
+   "ts": "2026-10-27T17:10:04.111155+00:00"
+  },
+  {
+   "tok": [
+    "away",
+    "forecasts",
+    "from",
+    "gold",
+    "highs",
+    "month",
+    "move",
+    "multi",
+    "oil",
+    "platinum",
+    "prices",
+    "rebounds",
+    "silver",
+    "xauusd"
+   ],
+   "ts": "2026-10-27T17:10:04.111155+00:00"
+  },
+  {
+   "tok": [
+    "but",
+    "fed",
+    "hikes",
+    "hit",
+    "kitco",
+    "long",
+    "maybe",
+    "not",
+    "pause",
+    "rate"
+   ],
+   "ts": "2026-10-27T17:10:04.111155+00:00"
   }
  ]
 }
