@@ -6,7 +6,7 @@
   "2026-10-25": 4,
   "2026-10-26": 15,
   "2026-10-27": 15,
-  "2026-10-28": 13
+  "2026-10-28": 15
  },
  "fails": {},
  "links": {
@@ -22,12 +22,14 @@
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/": "2026-10-26T03:14:47.889249+00:00",
+  "https://investinglive.com/commodities/standard-chartered-gold-must-hold-3-886-or-risk-deeper-correction-as-oil-fuels-hike-bets/": "2026-10-27T22:24:41.420539+00:00",
   "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/": "2026-10-26T22:01:46.598712+00:00",
   "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/": "2026-10-26T22:39:53.864710+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/": "2026-10-26T04:24:20.027933+00:00",
   "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
+  "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
@@ -821,6 +823,43 @@
     "wall"
    ],
    "ts": "2026-10-27T21:46:58.135651+00:00"
+  },
+  {
+   "tok": [
+    "886",
+    "bets",
+    "chartered",
+    "correction",
+    "deeper",
+    "fuels",
+    "gold",
+    "hike",
+    "hold",
+    "must",
+    "oil",
+    "or",
+    "risk",
+    "standard"
+   ],
+   "ts": "2026-10-27T22:24:41.420539+00:00"
+  },
+  {
+   "tok": [
+    "2027",
+    "banks",
+    "but",
+    "goldman",
+    "guidance",
+    "higher",
+    "income",
+    "into",
+    "markets",
+    "rates",
+    "rises",
+    "selling",
+    "us"
+   ],
+   "ts": "2026-10-27T22:24:41.420539+00:00"
   }
  ]
 }
