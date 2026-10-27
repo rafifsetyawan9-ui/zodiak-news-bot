@@ -6,7 +6,7 @@
   "2026-10-25": 4,
   "2026-10-26": 15,
   "2026-10-27": 15,
-  "2026-10-28": 3
+  "2026-10-28": 6
  },
  "fails": {},
  "links": {
@@ -29,6 +29,7 @@
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
+  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0trOVV5U3N3OGNYRjQ1SE93MUJIYm9JOXlRS3hYWGhwR3hGei1mOGxXbVdsUHo1VU5VdlRScHdsOUw1U2VtRno1cnYtUHZMNTVmYkdFQjVDcWZwS1Q2LVhtb3NaZTZ4aWQ2azBiQ21yVm42b1VDVDRFQ0V1U2RHcjZSZ09EblplWUtBRXZTaTZURC1YU2hMSGpBVXdhVTRSLTZZ?oc=5": "2026-10-27T17:50:11.388092+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5": "2026-10-26T19:50:23.576773+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlBDaXlGdEVjYXlSSS1ZRTNJTngxWFlJNklqMGJ3RlgxeEtkMGJKajlHaHZxa3hJX1BaZnIyU0FnVGJMV1dVOXV4bVlUaGJ6WWRCazZvQW95US1rOGQzMndUT1NtUjdIMjgxSGkzQXIwaTZ2MFVVZUd1WVVXUzZzd2hjSmU2TU9UWUZYSmlnNHRHS3RERXB4MjRFbUhLSTZPQUFzQ1hjR01UMjNZTGd1S3EyRFlqdndjMmRGWHFB?oc=5": "2026-10-26T22:01:46.598712+00:00",
@@ -46,8 +47,10 @@
   "https://www.fxempire.com/forecasts/article/sp500-ai-spending-big-tech-earnings-and-fed-risk-test-us-stock-market-1640187": "2026-10-25T13:17:35.218683+00:00",
   "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174": "2026-10-25T05:38:28.205677+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-as-traders-focus-on-middle-east-tensions-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640470": "2026-10-26T17:09:03.821978+00:00",
+  "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-higher-as-durable-goods-orders-exceed-expectations-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640698": "2026-10-27T17:50:11.388092+00:00",
   "https://www.fxempire.com/forecasts/article/us-interest-rate-forecast-oil-rally-fuels-december-fed-hike-risks-1640192": "2026-10-25T13:17:35.218683+00:00",
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-wednesdays-interest-rate-decision-could-push-xrp-below-1-26-1640501": "2026-10-26T19:50:23.576773+00:00",
+  "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362": "2026-10-26T03:50:16.873298+00:00",
   "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306": "2026-10-26T05:03:23.333912+00:00",
   "https://www.investing.com/news/commodities-news/us-consumers-paying-the-most-for-fuel-price-spikes-from-iran-war-study-says-4973618": "2026-10-26T20:59:45.837169+00:00",
@@ -653,6 +656,51 @@
     "rate"
    ],
    "ts": "2026-10-27T17:10:04.111155+00:00"
+  },
+  {
+   "tok": [
+    "analysis",
+    "cad",
+    "dollar",
+    "durable",
+    "eur",
+    "exceed",
+    "expectations",
+    "gbp",
+    "goods",
+    "higher",
+    "jpy",
+    "moves",
+    "orders",
+    "usd"
+   ],
+   "ts": "2026-10-27T17:50:11.388092+00:00"
+  },
+  {
+   "tok": [
+    "climbs",
+    "decision",
+    "diplomacy",
+    "fed",
+    "focus",
+    "gold",
+    "hopes",
+    "iran"
+   ],
+   "ts": "2026-10-27T17:50:11.388092+00:00"
+  },
+  {
+   "tok": [
+    "500",
+    "advance",
+    "decision",
+    "eases",
+    "fed",
+    "kitco",
+    "nasdaq",
+    "oil"
+   ],
+   "ts": "2026-10-27T17:50:11.388092+00:00"
   }
  ]
 }
