@@ -529,11 +529,11 @@ CTA_CONTACT = "@rafifsetyawan"
 CTA_WEBSITE = "zodiakfx-vip.netlify.app"
 CTA_VARIANTS = [
     ("💎 <b>Mau tahu cara eksekusi XAUUSD saat news kayak gini?</b>",
-     "Coba <b>ZODIAK VIP GRATIS 2 minggu</b> → chat {contact}"),
+     "Coba <b>ZODIAK VIP GRATIS 7 hari</b> → chat {contact}"),
     ("💎 <b>Berita doang nggak cukup, yang penting tahu kapan entry.</b>",
-     "Belajar di <b>ZODIAK VIP, gratis 2 minggu</b> → chat {contact}"),
+     "Belajar di <b>ZODIAK VIP, gratis 7 hari</b> → chat {contact}"),
     ("💎 <b>Analisa &amp; setup XAUUSD harian ada di ZODIAK VIP.</b>",
-     "<b>Free trial 2 minggu</b> → chat {contact}"),
+     "<b>Free trial 7 hari</b> → chat {contact}"),
 ]
 
 
