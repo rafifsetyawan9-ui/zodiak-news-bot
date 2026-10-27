@@ -142,7 +142,7 @@ def get_config() -> dict:
         "max_age_hours": _int_env("MAX_AGE_HOURS", 3),    # abaikan berita lebih tua dari ini
         "min_score": _int_env("MIN_SCORE", 4),            # makin tinggi = makin selektif
         "max_per_run": _int_env("MAX_PER_RUN", 3),        # maks berita terkirim per eksekusi
-        "max_per_day": _int_env("MAX_PER_DAY", 15),       # maks berita per hari (WIB)
+        "max_per_day": _int_env("MAX_PER_DAY", 25),       # maks berita per hari (WIB)
         "max_api_calls": _int_env("MAX_API_CALLS", 6),    # batas panggilan Gemini per eksekusi
         "model": (os.environ.get("GEMINI_MODEL") or "").strip(),  # kosong = coba DEFAULT_MODELS
     }

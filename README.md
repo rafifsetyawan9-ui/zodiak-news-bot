@@ -40,7 +40,7 @@ Setelah itu jalan otomatis tiap 15 menit.
 ## Pengaturan
 Di `news.yml` (bagian `env`, hapus `#` untuk mengaktifkan):
 - `MIN_SCORE` (default 4): naikkan ke 5-6 kalau terlalu banyak berita, turunkan ke 3 kalau terlalu sepi.
-- `MAX_PER_RUN` (3) dan `MAX_PER_DAY` (15): batas biar channel tidak spam.
+- `MAX_PER_RUN` (3) dan `MAX_PER_DAY` (25): batas biar channel tidak spam.
 - `MAX_AGE_HOURS` (3): berita lebih tua dari ini diabaikan.
 
 Kata kunci filter dan sumber berita ada di bagian atas `news_bot.py`.
