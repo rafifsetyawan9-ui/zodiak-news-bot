@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 16
+  "2026-10-29": 17
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -25,7 +25,6 @@
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-oil-shock-means-inflation-above-august-forecasts-board-meets-next-week/": "2026-10-28T02:15:40.403173+00:00",
-  "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
   "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/": "2026-10-28T20:19:43.040424+00:00",
@@ -41,6 +40,7 @@
   "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/": "2026-10-26T22:39:53.864710+00:00",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/": "2026-10-26T04:24:20.027933+00:00",
   "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
@@ -102,22 +102,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "done",
-    "four",
-    "hikes",
-    "hunter",
-    "inflation",
-    "job",
-    "not",
-    "november",
-    "rba",
-    "rise",
-    "view"
-   ],
-   "ts": "2026-10-25T21:13:38.173150+00:00"
-  },
   {
    "tok": [
     "election",
@@ -1217,6 +1201,28 @@
     "xau"
    ],
    "ts": "2026-10-28T21:06:54.798654+00:00"
+  },
+  {
+   "tok": [
+    "28",
+    "americas",
+    "big",
+    "curve",
+    "diverge",
+    "earnings",
+    "fed",
+    "fx",
+    "holds",
+    "investinglive",
+    "news",
+    "oct",
+    "rates",
+    "steepens",
+    "tech",
+    "wrap",
+    "yield"
+   ],
+   "ts": "2026-10-28T21:45:53.886146+00:00"
   }
  ]
 }
