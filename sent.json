@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 11
+  "2026-10-29": 13
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -28,6 +28,7 @@
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
+  "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/": "2026-10-28T20:19:43.040424+00:00",
   "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
@@ -46,6 +47,7 @@
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxqZUxkSUgwVngwRkl4cnRTVGd2SUp4bnJxeUt1aElMRlo0d3o4aFpNVk9MSENWWFVTNUxfRTVhRkFkSVRFQWNrQ0lDeEk2am11OWxOV1NyTUwwblBVUmZSem9CdFRFcElqWVRLVjRKaDJuOElYaEwyQ05TN050dEtIaC15clVMbmlVd00zMGN6WXM?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5": "2026-10-28T18:53:04.845485+00:00",
@@ -53,6 +55,7 @@
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5": "2026-10-26T19:50:23.576773+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWs5cUJyTGJ3dXNSNUplQWpuMDdsRks0M1dIa2NpbWJLTGtLdF83R054dEplUWhtQVFwT0FOTEZNdUU2ZlA0RFVJVmQ3dGRaRmVESk1IR1Qxd2cteXluT2pRNHFNb0FnX196cHRFRTJmdEJzRTNJclMyek1Balh4UEFZMnF3Y0dSMWFrejJfYjRSeVRyRFVPT1lJbFRPYktwUDVyWXgtRFNSUEE?oc=5": "2026-10-28T03:07:56.732362+00:00",
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRJWXZQR1IzRWpCSzFSS2NleXVtemhkbFhNVEhmTklUdTA1Z1ZaWG1UcWRDSFlDNmVUX05yR0VlMFBDU1BKeUFHaldoOGlxeFBuanl3eU1hSzIteUo0RlgxU2JNdU9uQkFmYS1xdEVxbzZ2czdqcGJzeWpWbElfMlNtSDJ3NkNNSEFiclhRT3A3RHUwZDgtRHNaRmtkTE9scDJuRXQ1cHlyV2ZjajBJ?oc=5": "2026-10-27T21:46:58.135651+00:00",
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVNPX1gxQ1lXb1Bfd0RwcldkQmI1V01vRzBrRkF6Vk4xaHlGc1R1U2FjSl95SXdQNlh0Y2NySTJzSVdmZGpoWVEyaXN0dXpnbFgzcTdZWExFVkFzX3RZeEVJSk9TcDlQLXhJYmNOMThNVl9ZMDRpYmxWZHlaaEd5RDRRMktCY1RxVExrLW9aOEZNZFFESzk0b29LQkwzby11S24ta3YxRlBwb1JRSmFMSTlxd2ZPNVE?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjRRaHpiVklRZWs2dGN4Mlk1SGxlVjR0aW81SGZvR3V4dUpRMW9wTi15cFhZcmVtYUszWTAyY3ZFd1pZQU5vRnNIcm1YOVBxbjlIRWdiNDJkQ202OEJWcGtoQm9SY0w3OW5BeU9iejR2UElrVjB1Yk9VQUVaMzVyd2V6c3FEMHRqN1dyMWpiNldUaW5iWGRMSGgtMjl2aXpuOV9GNzVxNU5zYnFLbnNkSlFCSmdNamM?oc=5": "2026-10-27T21:46:58.135651+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnF0bG92emZOM0VGZEhBbjRnLXkwTGpvbm9mU3ZHcXBqeVpkUmMxb2cxcVd6UWc1dENEMUtXaGphakxjTmtQY3lBVUFsZDdRY3E0UHBna1BYdl9QajFQLXJndzl5ZUttaWtISTZIbGhORE1kMGJ4UVZfQ19Ya1FHZVkxTU1rRXZiVEdvMUtBdGl5Q0ZMWFZRcEQwTGRkT09VbmQ5MjI0TEs1V0NXZUZ5eldURXBpenpr?oc=5": "2026-10-28T17:19:48.856017+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEJINW1FampXM3ZWOTRoeDBnbFEwVWVhME9CVm1PanlJVExGOWNINHhKUWxBWjdhUkx3c0ZwMDVJYTVqUHk5V1ZhSWplWnhxWU5BNTBqNFBmODNGWmt6czVLWVh5TDdFLUYwR0JVcEx0OUh1QjZSRkduZHQ1T21pdWxka3F2ZHBvbUxHSzNqSHB6SXlBNlZDNFBySFRUQURqdWpIV3prYjdraDdlYXRocFdoa21aRUpmUmYw?oc=5": "2026-10-27T19:59:12.898136+00:00",
@@ -1131,6 +1134,38 @@
     "usd"
    ],
    "ts": "2026-10-28T19:35:15.112175+00:00"
+  },
+  {
+   "tok": [
+    "before",
+    "changes",
+    "conference",
+    "decision",
+    "fomc",
+    "forex",
+    "look",
+    "press",
+    "rates",
+    "stocks",
+    "through"
+   ],
+   "ts": "2026-10-28T20:19:43.040424+00:00"
+  },
+  {
+   "tok": [
+    "boc",
+    "canadian",
+    "high",
+    "hikes",
+    "hits",
+    "interest",
+    "kitco",
+    "rates",
+    "two",
+    "year",
+    "yield"
+   ],
+   "ts": "2026-10-28T20:19:43.040424+00:00"
   }
  ]
 }
