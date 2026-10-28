@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 5
+  "2026-10-29": 8
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -43,7 +43,9 @@
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
+  "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxqZUxkSUgwVngwRkl4cnRTVGd2SUp4bnJxeUt1aElMRlo0d3o4aFpNVk9MSENWWFVTNUxfRTVhRkFkSVRFQWNrQ0lDeEk2am11OWxOV1NyTUwwblBVUmZSem9CdFRFcElqWVRLVjRKaDJuOElYaEwyQ05TN050dEtIaC15clVMbmlVd00zMGN6WXM?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0trOVV5U3N3OGNYRjQ1SE93MUJIYm9JOXlRS3hYWGhwR3hGei1mOGxXbVdsUHo1VU5VdlRScHdsOUw1U2VtRno1cnYtUHZMNTVmYkdFQjVDcWZwS1Q2LVhtb3NaZTZ4aWQ2azBiQ21yVm42b1VDVDRFQ0V1U2RHcjZSZ09EblplWUtBRXZTaTZURC1YU2hMSGpBVXdhVTRSLTZZ?oc=5": "2026-10-27T17:50:11.388092+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcG9fenlud3ZpX29GNjZ0dkNmeGwyRnBmSVRlTE1IV2R5LU9oLXhLZHRBVjdxUVdBTElJSU9HcFFwaWdTbC1mZmhBYVNWZkx2TmVISzgydnlQYkNhQzRtWUtBYTkwMXJuNkNLNTJLUlRFeGhaamhNWFdqSjFheTR5YmQzNXVKZ256d3F0T01XM2hPTnBKR0xDeEI2enN6NUZGdmtV?oc=5": "2026-10-26T19:50:23.576773+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWs5cUJyTGJ3dXNSNUplQWpuMDdsRks0M1dIa2NpbWJLTGtLdF83R054dEplUWhtQVFwT0FOTEZNdUU2ZlA0RFVJVmQ3dGRaRmVESk1IR1Qxd2cteXluT2pRNHFNb0FnX196cHRFRTJmdEJzRTNJclMyek1Balh4UEFZMnF3Y0dSMWFrejJfYjRSeVRyRFVPT1lJbFRPYktwUDVyWXgtRFNSUEE?oc=5": "2026-10-28T03:07:56.732362+00:00",
@@ -70,9 +72,11 @@
   "https://www.fxempire.com/forecasts/article/oil-prices-retreat-as-fed-and-ecb-decisions-loom-1640491": "2026-10-26T18:18:42.318700+00:00",
   "https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404": "2026-10-26T17:43:42.524309+00:00",
   "https://www.fxempire.com/forecasts/article/silver-waits-for-fomc-meeting-results-1641050": "2026-10-28T17:19:48.856017+00:00",
+  "https://www.fxempire.com/forecasts/article/sp500-and-dow-jones-fed-policy-statement-sets-up-next-move-for-indices-1641078": "2026-10-28T18:53:04.845485+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-as-traders-focus-on-middle-east-tensions-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640470": "2026-10-26T17:09:03.821978+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-higher-as-durable-goods-orders-exceed-expectations-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640698": "2026-10-27T17:50:11.388092+00:00",
   "https://www.fxempire.com/forecasts/article/usd-cad-can-the-bank-of-canada-and-fed-trigger-a-breakout-1640757": "2026-10-27T19:59:12.898136+00:00",
+  "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": "2026-10-28T18:53:04.845485+00:00",
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-wednesdays-interest-rate-decision-could-push-xrp-below-1-26-1640501": "2026-10-26T19:50:23.576773+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
@@ -1032,6 +1036,51 @@
     "unchanged"
    ],
    "ts": "2026-10-28T18:07:13.487356+00:00"
+  },
+  {
+   "tok": [
+    "035",
+    "10",
+    "drops",
+    "favor",
+    "fed",
+    "gold",
+    "hold",
+    "kitco",
+    "oz",
+    "price",
+    "rate",
+    "votes"
+   ],
+   "ts": "2026-10-28T18:53:04.845485+00:00"
+  },
+  {
+   "tok": [
+    "cycle",
+    "ecb",
+    "hike",
+    "not",
+    "over",
+    "rate",
+    "why"
+   ],
+   "ts": "2026-10-28T18:53:04.845485+00:00"
+  },
+  {
+   "tok": [
+    "dow",
+    "fed",
+    "indices",
+    "jones",
+    "move",
+    "next",
+    "p500",
+    "policy",
+    "sets",
+    "statement",
+    "up"
+   ],
+   "ts": "2026-10-28T18:53:04.845485+00:00"
   }
  ]
 }
