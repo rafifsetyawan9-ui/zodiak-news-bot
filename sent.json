@@ -65,7 +65,6 @@
   "https://www.fxempire.com/forecasts/article/silver-below-55-as-comex-shorts-outpace-new-longs-1640404": "2026-10-26T17:43:42.524309+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-50-in-view-as-oil-fuels-fed-rate-hike-fears-1640211": "2026-10-25T16:37:29.635122+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-ai-spending-big-tech-earnings-and-fed-risk-test-us-stock-market-1640187": "2026-10-25T13:17:35.218683+00:00",
-  "https://www.fxempire.com/forecasts/article/the-week-ahead-fed-ai-earnings-and-pce-data-test-stock-market-strength-1640174": "2026-10-25T05:38:28.205677+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-as-traders-focus-on-middle-east-tensions-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640470": "2026-10-26T17:09:03.821978+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-higher-as-durable-goods-orders-exceed-expectations-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640698": "2026-10-27T17:50:11.388092+00:00",
   "https://www.fxempire.com/forecasts/article/us-interest-rate-forecast-oil-rally-fuels-december-fed-hike-risks-1640192": "2026-10-25T13:17:35.218683+00:00",
@@ -81,21 +80,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "ai",
-    "data",
-    "earnings",
-    "fed",
-    "market",
-    "pce",
-    "stock",
-    "strength",
-    "test",
-    "week"
-   ],
-   "ts": "2026-10-25T05:38:28.205677+00:00"
-  },
   {
    "tok": [
     "december",
