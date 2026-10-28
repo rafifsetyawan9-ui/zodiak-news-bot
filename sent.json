@@ -6,11 +6,12 @@
   "2026-10-25": 4,
   "2026-10-26": 15,
   "2026-10-27": 15,
-  "2026-10-28": 15
+  "2026-10-28": 16
  },
  "fails": {},
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/": "2026-10-25T23:31:55.491636+00:00",
+  "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
@@ -23,6 +24,7 @@
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/standard-chartered-gold-must-hold-3-886-or-risk-deeper-correction-as-oil-fuels-hike-bets/": "2026-10-27T22:24:41.420539+00:00",
+  "https://investinglive.com/education/australia-cpi-explained-why-2-inflation-readings-land-today-and-which-one-the-rba-watches/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/news/a-light-economic-and-event-calendar-in-asia-tuesday-october-27-2026-japan-services-ppi/": "2026-10-26T22:01:46.598712+00:00",
   "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/": "2026-10-26T22:39:53.864710+00:00",
@@ -860,6 +862,24 @@
     "us"
    ],
    "ts": "2026-10-27T22:24:41.420539+00:00"
+  },
+  {
+   "tok": [
+    "blackrock",
+    "calls",
+    "fed",
+    "hawkish",
+    "hike",
+    "market",
+    "more",
+    "one",
+    "pricing",
+    "sees",
+    "this",
+    "too",
+    "year"
+   ],
+   "ts": "2026-10-28T00:24:44.764970+00:00"
   }
  ]
 }
