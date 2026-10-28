@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 8
+  "2026-10-29": 11
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -18,7 +18,9 @@
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
+  "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
+  "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
@@ -26,6 +28,7 @@
   "https://investinglive.com/central-banks/rba-s-hunter-says-inflation-job-not-done-after-four-hikes-november-rise-in-view/": "2026-10-25T21:13:38.173150+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
+  "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
@@ -75,6 +78,7 @@
   "https://www.fxempire.com/forecasts/article/sp500-and-dow-jones-fed-policy-statement-sets-up-next-move-for-indices-1641078": "2026-10-28T18:53:04.845485+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-gains-ground-as-traders-focus-on-middle-east-tensions-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640470": "2026-10-26T17:09:03.821978+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-moves-higher-as-durable-goods-orders-exceed-expectations-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1640698": "2026-10-27T17:50:11.388092+00:00",
+  "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-ahead-of-fed-decision-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-3-1641070": "2026-10-28T19:35:15.112175+00:00",
   "https://www.fxempire.com/forecasts/article/usd-cad-can-the-bank-of-canada-and-fed-trigger-a-breakout-1640757": "2026-10-27T19:59:12.898136+00:00",
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": "2026-10-28T18:53:04.845485+00:00",
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-wednesdays-interest-rate-decision-could-push-xrp-below-1-26-1640501": "2026-10-26T19:50:23.576773+00:00",
@@ -1081,6 +1085,52 @@
     "up"
    ],
    "ts": "2026-10-28T18:53:04.845485+00:00"
+  },
+  {
+   "tok": [
+    "appropriate",
+    "chairman",
+    "determine",
+    "fed",
+    "help",
+    "information",
+    "kevin",
+    "more",
+    "policy",
+    "steps",
+    "warsh",
+    "will"
+   ],
+   "ts": "2026-10-28T19:35:15.112175+00:00"
+  },
+  {
+   "tok": [
+    "2026",
+    "decision",
+    "fomc",
+    "from",
+    "full",
+    "october",
+    "rate",
+    "statement"
+   ],
+   "ts": "2026-10-28T19:35:15.112175+00:00"
+  },
+  {
+   "tok": [
+    "analysis",
+    "back",
+    "cad",
+    "decision",
+    "dollar",
+    "eur",
+    "fed",
+    "gbp",
+    "jpy",
+    "pulls",
+    "usd"
+   ],
+   "ts": "2026-10-28T19:35:15.112175+00:00"
   }
  ]
 }
