@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 17
+  "2026-10-29": 18
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -62,6 +62,7 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEJINW1FampXM3ZWOTRoeDBnbFEwVWVhME9CVm1PanlJVExGOWNINHhKUWxBWjdhUkx3c0ZwMDVJYTVqUHk5V1ZhSWplWnhxWU5BNTBqNFBmODNGWmt6czVLWVh5TDdFLUYwR0JVcEx0OUh1QjZSRkduZHQ1T21pdWxka3F2ZHBvbUxHSzNqSHB6SXlBNlZDNFBySFRUQURqdWpIV3prYjdraDdlYXRocFdoa21aRUpmUmYw?oc=5": "2026-10-27T19:59:12.898136+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlBDaXlGdEVjYXlSSS1ZRTNJTngxWFlJNklqMGJ3RlgxeEtkMGJKajlHaHZxa3hJX1BaZnIyU0FnVGJMV1dVOXV4bVlUaGJ6WWRCazZvQW95US1rOGQzMndUT1NtUjdIMjgxSGkzQXIwaTZ2MFVVZUd1WVVXUzZzd2hjSmU2TU9UWUZYSmlnNHRHS3RERXB4MjRFbUhLSTZPQUFzQ1hjR01UMjNZTGd1S3EyRFlqdndjMmRGWHFB?oc=5": "2026-10-26T22:01:46.598712+00:00",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0lGazRocTNOQ2dfbDVhVm5HUmxwX3ZqdzNXOXdwNU1nYUt4UHZHWWhVT1hxTno1SlNwN0dfNFE0OTJXaEtUUGhqcV9fQkltYXZ3U3ZfOHNmMGliVXEyeGtHSG5QbWxOSHdtSmNmWEluN0FrdTZBaHRCcE10OG1fWEctTHhDZFFPMi1HNWtFajM1OVh5Mm4wcTR2cjVabS1Mcm1DR2p2MW5tcEhqOEtCUTl3VmVTUlYteVVKdmRn?oc=5": "2026-10-28T22:26:53.880190+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-dollar-strength-threatens-rebound-1640813": "2026-10-28T03:49:14.867726+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
   "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728": "2026-10-27T18:28:41.082099+00:00",
@@ -1223,6 +1224,24 @@
     "yield"
    ],
    "ts": "2026-10-28T21:45:53.886146+00:00"
+  },
+  {
+   "tok": [
+    "decision",
+    "fed",
+    "group",
+    "he",
+    "honored",
+    "kitco",
+    "lead",
+    "no",
+    "played",
+    "politics",
+    "rate",
+    "role",
+    "warsh"
+   ],
+   "ts": "2026-10-28T22:26:53.880190+00:00"
   }
  ]
 }
