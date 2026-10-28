@@ -6,7 +6,7 @@
   "2026-10-25": 4,
   "2026-10-26": 15,
   "2026-10-27": 15,
-  "2026-10-28": 24
+  "2026-10-28": 25
  },
  "fails": {},
  "links": {
@@ -49,6 +49,7 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEJINW1FampXM3ZWOTRoeDBnbFEwVWVhME9CVm1PanlJVExGOWNINHhKUWxBWjdhUkx3c0ZwMDVJYTVqUHk5V1ZhSWplWnhxWU5BNTBqNFBmODNGWmt6czVLWVh5TDdFLUYwR0JVcEx0OUh1QjZSRkduZHQ1T21pdWxka3F2ZHBvbUxHSzNqSHB6SXlBNlZDNFBySFRUQURqdWpIV3prYjdraDdlYXRocFdoa21aRUpmUmYw?oc=5": "2026-10-27T19:59:12.898136+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZmRy11bktvdENUbzdsejI5MXl3aEUyYUpJVTJCd2x2S05lTjdLYUFEbE1RWDljVEJqeDQ5S0NFWGczekJxSnFyWm5fTHdYNndBb1lXTm8tUmJzR0llLVZJd0FiSkhleWRtbkdoSzh6NjBwX0p3TVZTdVlxVklwTVZFTGE4eV9QMDhCSlpDQUJ5VTJrS0s3ZS1yWjg3cTJuQnhvckhHTVY0YU52aURpQmlqNHVSeE1DYUhQMg?oc=5": "2026-10-26T20:20:00.093602+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlBDaXlGdEVjYXlSSS1ZRTNJTngxWFlJNklqMGJ3RlgxeEtkMGJKajlHaHZxa3hJX1BaZnIyU0FnVGJMV1dVOXV4bVlUaGJ6WWRCazZvQW95US1rOGQzMndUT1NtUjdIMjgxSGkzQXIwaTZ2MFVVZUd1WVVXUzZzd2hjSmU2TU9UWUZYSmlnNHRHS3RERXB4MjRFbUhLSTZPQUFzQ1hjR01UMjNZTGd1S3EyRFlqdndjMmRGWHFB?oc=5": "2026-10-26T22:01:46.598712+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-dollar-strength-threatens-rebound-1640813": "2026-10-28T03:49:14.867726+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226": "2026-10-26T02:06:47.432704+00:00",
   "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728": "2026-10-27T18:28:41.082099+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-ahead-of-federal-reserve-decision-1640414": "2026-10-26T17:09:03.821978+00:00",
@@ -1004,6 +1005,19 @@
     "signal"
    ],
    "ts": "2026-10-28T03:07:56.732362+00:00"
+  },
+  {
+   "tok": [
+    "dollar",
+    "forecast",
+    "gold",
+    "price",
+    "rebound",
+    "silver",
+    "strength",
+    "threatens"
+   ],
+   "ts": "2026-10-28T03:49:14.867726+00:00"
   }
  ]
 }
