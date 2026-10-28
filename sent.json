@@ -6,9 +6,11 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 3
+  "2026-10-29": 5
  },
- "fails": {},
+ "fails": {
+  "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
+ },
  "links": {
   "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
@@ -16,6 +18,7 @@
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
+  "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
   "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/preview-rbnz-set-to-lift-ocr-to-3-ahead-of-election-as-oil-and-weak-kiwi-fuel-inflation/": "2026-10-25T22:33:12.098600+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
@@ -58,6 +61,7 @@
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-as-fed-decision-looms-and-real-yields-ease-1640666": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-short-term-strength-faces-major-resistance-1640783": "2026-10-27T21:14:14.828221+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-climbed-back-above-4000-1640483": "2026-10-26T17:43:42.524309+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-traders-prepare-for-fed-decision-2-1641084": "2026-10-28T18:07:13.487356+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-prices-move-away-from-multi-month-highs-1640712": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257": "2026-10-26T07:04:32.333489+00:00",
   "https://www.fxempire.com/forecasts/article/has-oil-replaced-gold-as-2026s-most-compelling-safe-haven-trade-1640550": "2026-10-26T21:29:11.226376+00:00",
@@ -79,6 +83,7 @@
   "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829": "2026-10-26T22:01:46.598712+00:00"
  },
  "reminders": {
+  "USD|FOMC Press Conference|2026-10-28T18:30:00+00:00": "2026-10-28T18:07:13.487356+00:00",
   "USD|FOMC Statement|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00",
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
@@ -999,6 +1004,34 @@
     "waits"
    ],
    "ts": "2026-10-28T17:19:48.856017+00:00"
+  },
+  {
+   "tok": [
+    "back",
+    "decision",
+    "fed",
+    "forecasts",
+    "gold",
+    "platinum",
+    "prepare",
+    "pulls",
+    "silver",
+    "traders",
+    "xauusd"
+   ],
+   "ts": "2026-10-28T18:07:13.487356+00:00"
+  },
+  {
+   "tok": [
+    "28",
+    "decision",
+    "fomc",
+    "left",
+    "oct",
+    "rates",
+    "unchanged"
+   ],
+   "ts": "2026-10-28T18:07:13.487356+00:00"
   }
  ]
 }
