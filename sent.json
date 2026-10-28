@@ -6,15 +6,13 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 18
+  "2026-10-29": 20
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
  },
  "links": {
-  "https://investinglive.com/central-banks/bank-of-canada-preview-81-chance-of-first-hike-in-a-year-to-2-50-economists-split/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
-  "https://investinglive.com/central-banks/boj-preview-daiwa-sees-hold-but-2-inflation-call-could-open-door-to-december-hike/": "2026-10-25T23:31:55.491636+00:00",
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
@@ -26,10 +24,12 @@
   "https://investinglive.com/central-banks/rba-s-bullock-oil-shock-means-inflation-above-august-forecasts-board-meets-next-week/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
+  "https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/": "2026-10-28T23:41:23.961051+00:00",
   "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/": "2026-10-28T20:19:43.040424+00:00",
   "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
+  "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/": "2026-10-28T23:41:23.961051+00:00",
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/saudi-arabia-to-store-crude-in-singapore-caverns-from-2027-as-hormuz-disruption-bites/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/standard-chartered-gold-must-hold-3-886-or-risk-deeper-correction-as-oil-fuels-hike-bets/": "2026-10-27T22:24:41.420539+00:00",
@@ -102,40 +102,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "boj",
-    "but",
-    "call",
-    "could",
-    "daiwa",
-    "december",
-    "door",
-    "hike",
-    "hold",
-    "inflation",
-    "open",
-    "preview",
-    "sees"
-   ],
-   "ts": "2026-10-25T23:31:55.491636+00:00"
-  },
-  {
-   "tok": [
-    "50",
-    "81",
-    "bank",
-    "canada",
-    "chance",
-    "economists",
-    "first",
-    "hike",
-    "preview",
-    "split",
-    "year"
-   ],
-   "ts": "2026-10-25T23:31:55.491636+00:00"
-  },
   {
    "tok": [
     "000",
@@ -1225,6 +1191,41 @@
     "warsh"
    ],
    "ts": "2026-10-28T22:26:53.880190+00:00"
+  },
+  {
+   "tok": [
+    "11",
+    "biggest",
+    "dollar",
+    "drop",
+    "gold",
+    "heads",
+    "iran",
+    "its",
+    "lifts",
+    "war",
+    "yearly",
+    "years",
+    "yields"
+   ],
+   "ts": "2026-10-28T23:41:23.961051+00:00"
+  },
+  {
+   "tok": [
+    "10",
+    "75",
+    "cook",
+    "december",
+    "dissents",
+    "fed",
+    "focus",
+    "hike",
+    "holds",
+    "move",
+    "recap",
+    "vote"
+   ],
+   "ts": "2026-10-28T23:41:23.961051+00:00"
   }
  ]
 }
