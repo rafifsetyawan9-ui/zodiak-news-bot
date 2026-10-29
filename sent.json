@@ -86,7 +86,6 @@
   "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
-  "https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362": "2026-10-26T03:50:16.873298+00:00",
   "https://www.investing.com/news/commodities-news/oil-prices-down-almost-1-in-early-trading-4971306": "2026-10-26T05:03:23.333912+00:00",
   "https://www.investing.com/news/commodities-news/us-consumers-paying-the-most-for-fuel-price-spikes-from-iran-war-study-says-4973618": "2026-10-26T20:59:45.837169+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116": "2026-10-27T21:46:58.135651+00:00",
@@ -99,23 +98,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "elevated",
-    "eyed",
-    "fed",
-    "gold",
-    "low",
-    "meet",
-    "mth",
-    "near",
-    "oil",
-    "prices",
-    "steadies",
-    "weigh"
-   ],
-   "ts": "2026-10-26T03:50:16.873298+00:00"
-  },
   {
    "tok": [
     "asia",
