@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 14
+  "2026-10-30": 15
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -16,6 +16,7 @@
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/": "2026-10-29T18:11:37.063354+00:00",
+  "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/": "2026-10-29T23:07:20.789188+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-all-eyes-on-japan-for-the-boj/": "2026-10-29T21:09:51.364973+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/": "2026-10-28T19:35:15.112175+00:00",
@@ -40,7 +41,6 @@
   "https://investinglive.com/education/australia-cpi-explained-why-2-inflation-readings-land-today-and-which-one-the-rba-watches/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/": "2026-10-28T01:28:55.089727+00:00",
-  "https://investinglive.com/news/goldman-sachs-ai-buildout-to-add-up-to-50bp-to-us-core-pce-but-the-boost-is-temporary/": "2026-10-26T22:39:53.864710+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
@@ -96,24 +96,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "50bp",
-    "add",
-    "ai",
-    "boost",
-    "buildout",
-    "but",
-    "core",
-    "goldman",
-    "pce",
-    "sachs",
-    "temporary",
-    "up",
-    "us"
-   ],
-   "ts": "2026-10-26T22:39:53.864710+00:00"
-  },
   {
    "tok": [
     "000",
@@ -1122,6 +1104,23 @@
     "xau"
    ],
    "ts": "2026-10-29T22:27:51.043701+00:00"
+  },
+  {
+   "tok": [
+    "bank",
+    "conditions",
+    "december",
+    "deutsche",
+    "ecb",
+    "hike",
+    "may",
+    "more",
+    "not",
+    "once",
+    "suffice",
+    "tighter"
+   ],
+   "ts": "2026-10-29T23:07:20.789188+00:00"
   }
  ]
 }
