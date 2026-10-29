@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 21
+  "2026-10-29": 23
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -20,15 +20,17 @@
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
   "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/icymi-fitch-sees-fed-hiking-to-4-25-in-december-says-us-credit-outlook-still-benign/": "2026-10-27T21:14:14.828221+00:00",
+  "https://investinglive.com/central-banks/nz-business-confidence-rises-to-53-as-pricing-intentions-hit-highest-since-may/": "2026-10-29T01:05:06.857809+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-oil-shock-means-inflation-above-august-forecasts-board-meets-next-week/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
+  "https://investinglive.com/central-banks/rbnz-s-breman-says-chances-of-a-december-rate-hike-are-high-after-surprise-hold-at-2-75/": "2026-10-29T01:05:06.857809+00:00",
   "https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/": "2026-10-28T23:41:23.961051+00:00",
   "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/": "2026-10-28T20:19:43.040424+00:00",
   "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/": "2026-10-28T19:35:15.112175+00:00",
+  "https://investinglive.com/central-banks/the-view-from-china-citic-securities-still-sees-a-25bp-fed-hike-in-december/": "2026-10-29T01:05:06.857809+00:00",
   "https://investinglive.com/commodities/gold-dips-below-4-000-as-long-liquidation-swamps-etf-buying-saxo-bank-says/": "2026-10-26T02:40:47.604022+00:00",
-  "https://investinglive.com/commodities/gold-dips-below-4-000-in-worst-week-in-four-months-as-oil-fuels-fed-hike-fears/": "2026-10-26T00:32:57.228636+00:00",
   "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/": "2026-10-28T23:41:23.961051+00:00",
   "https://investinglive.com/commodities/goldman-s-79-tonne-central-bank-gold-estimate-goes-mainstream-as-reserves-shift-to-london/": "2026-10-26T03:14:47.889249+00:00",
   "https://investinglive.com/commodities/oil-the-uae-s-second-hormuz-bypass-pipeline-gets-its-firm-timing-early-2027/": "2026-10-29T00:12:41.769742+00:00",
@@ -103,24 +105,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "000",
-    "below",
-    "dips",
-    "fears",
-    "fed",
-    "four",
-    "fuels",
-    "gold",
-    "hike",
-    "months",
-    "oil",
-    "week",
-    "worst"
-   ],
-   "ts": "2026-10-26T00:32:57.228636+00:00"
-  },
   {
    "tok": [
     "50",
@@ -1244,6 +1228,37 @@
     "uae"
    ],
    "ts": "2026-10-29T00:12:41.769742+00:00"
+  },
+  {
+   "tok": [
+    "25bp",
+    "china",
+    "citic",
+    "december",
+    "fed",
+    "from",
+    "hike",
+    "securities",
+    "sees",
+    "still",
+    "view"
+   ],
+   "ts": "2026-10-29T01:05:06.857809+00:00"
+  },
+  {
+   "tok": [
+    "75",
+    "breman",
+    "chances",
+    "december",
+    "high",
+    "hike",
+    "hold",
+    "rate",
+    "rbnz",
+    "surprise"
+   ],
+   "ts": "2026-10-29T01:05:06.857809+00:00"
   }
  ]
 }
