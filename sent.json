@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 15
+  "2026-10-30": 16
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -26,6 +26,7 @@
   "https://investinglive.com/central-banks/nz-business-confidence-rises-to-53-as-pricing-intentions-hit-highest-since-may/": "2026-10-29T01:05:06.857809+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-oil-shock-means-inflation-above-august-forecasts-board-meets-next-week/": "2026-10-28T02:15:40.403173+00:00",
+  "https://investinglive.com/central-banks/rba-set-for-back-to-back-hike-after-hot-cpi-says-natixis-garcia-herrero/": "2026-10-29T23:42:53.767972+00:00",
   "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
   "https://investinglive.com/central-banks/rbnz-s-breman-says-chances-of-a-december-rate-hike-are-high-after-surprise-hold-at-2-75/": "2026-10-29T01:05:06.857809+00:00",
@@ -1121,6 +1122,20 @@
     "tighter"
    ],
    "ts": "2026-10-29T23:07:20.789188+00:00"
+  },
+  {
+   "tok": [
+    "back",
+    "cpi",
+    "garcia",
+    "herrero",
+    "hike",
+    "hot",
+    "natixis",
+    "rba",
+    "set"
+   ],
+   "ts": "2026-10-29T23:42:53.767972+00:00"
   }
  ]
 }
