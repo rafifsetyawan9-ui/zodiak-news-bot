@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 8
+  "2026-10-30": 10
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -15,6 +15,7 @@
  "links": {
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/": "2026-10-29T18:11:37.063354+00:00",
+  "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-all-eyes-on-japan-for-the-boj/": "2026-10-29T21:09:51.364973+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
@@ -30,6 +31,7 @@
   "https://investinglive.com/central-banks/the-before-and-after-a-look-at-the-changes-in-forex-rates-stocks-through-the-fomc-decision-and-press-conference/": "2026-10-28T20:19:43.040424+00:00",
   "https://investinglive.com/central-banks/the-full-statement-from-the-october-2026-fomc-rate-decision/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/the-view-from-china-citic-securities-still-sees-a-25bp-fed-hike-in-december/": "2026-10-29T01:05:06.857809+00:00",
+  "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-at-2-6-as-boj-weighs-december-hike/": "2026-10-29T21:09:51.364973+00:00",
   "https://investinglive.com/commodities/gold-heads-for-its-biggest-yearly-drop-in-11-years-as-the-iran-war-lifts-yields-and-the-dollar/": "2026-10-28T23:41:23.961051+00:00",
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": "2026-10-29T18:11:37.063354+00:00",
   "https://investinglive.com/commodities/oil-the-uae-s-second-hormuz-bypass-pipeline-gets-its-firm-timing-early-2027/": "2026-10-29T00:12:41.769742+00:00",
@@ -44,7 +46,6 @@
   "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/": "2026-10-26T21:29:11.226376+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
-  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxqZUxkSUgwVngwRkl4cnRTVGd2SUp4bnJxeUt1aElMRlo0d3o4aFpNVk9MSENWWFVTNUxfRTVhRkFkSVRFQWNrQ0lDeEk2am11OWxOV1NyTUwwblBVUmZSem9CdFRFcElqWVRLVjRKaDJuOElYaEwyQ05TN050dEtIaC15clVMbmlVd00zMGN6WXM?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE9VWnpFcGFkaVBMN3MtRXZfR1JCLWtqTkM1RU9IV1pET3BIVmozTlRFcUxmeFpBdUgxVkVsNTJtQnZrQmVxSWt0NHJWSV90bmg1enNycGFqbUhxOUs1aDNuRTVSRWhCN1lBVnJocU1fbVE0R0VXYllDYlNwblY3X2FkNlRDRmd3ZEE1T2VCLVNuUU9s?oc=5": "2026-10-27T17:10:04.111155+00:00",
@@ -84,7 +85,6 @@
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
   "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502": "2026-10-29T19:41:56.074122+00:00",
-  "https://www.investing.com/news/commodities-news/us-consumers-paying-the-most-for-fuel-price-spikes-from-iran-war-study-says-4973618": "2026-10-26T20:59:45.837169+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116": "2026-10-27T21:46:58.135651+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446": "2026-10-29T04:52:57.496898+00:00",
   "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887": "2026-10-28T21:06:54.798654+00:00",
@@ -1127,6 +1127,34 @@
     "will"
    ],
    "ts": "2026-10-29T19:41:56.074122+00:00"
+  },
+  {
+   "tok": [
+    "boj",
+    "core",
+    "cpi",
+    "december",
+    "hike",
+    "inflation",
+    "preview",
+    "seen",
+    "tokyo",
+    "weighs"
+   ],
+   "ts": "2026-10-29T21:09:51.364973+00:00"
+  },
+  {
+   "tok": [
+    "all",
+    "asia",
+    "boj",
+    "calendar",
+    "economic",
+    "event",
+    "eyes",
+    "japan"
+   ],
+   "ts": "2026-10-29T21:09:51.364973+00:00"
   }
  ]
 }
