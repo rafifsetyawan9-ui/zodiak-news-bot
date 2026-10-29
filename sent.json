@@ -6,7 +6,7 @@
   "2026-10-26": 15,
   "2026-10-27": 15,
   "2026-10-28": 25,
-  "2026-10-29": 23
+  "2026-10-29": 24
  },
  "fails": {
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
@@ -14,7 +14,6 @@
  "links": {
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/boj-to-hold-at-1-25-but-ueda-signals-further-hikes-toward-neutral/": "2026-10-26T02:40:47.604022+00:00",
-  "https://investinglive.com/central-banks/ecb-set-to-hold-at-2-50-as-morgan-stanley-sees-december-as-natural-moment-for-next-hike/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
@@ -45,7 +44,6 @@
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-brazil-etf-slumps-on-lula-win/": "2026-10-26T04:24:20.027933+00:00",
   "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/": "2026-10-26T21:29:11.226376+00:00",
-  "https://investinglive.com/stock-market-update/nikkei-slips-bounces-as-iran-oil-fears-weigh-ing-sees-boj-holding-at-1-25-two-hikes-in-2027/": "2026-10-26T01:27:03.793107+00:00",
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-26T20:59:45.837169+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-10-26T17:43:42.524309+00:00",
@@ -90,6 +88,7 @@
   "https://www.fxempire.com/forecasts/article/usd-cad-can-the-bank-of-canada-and-fed-trigger-a-breakout-1640757": "2026-10-27T19:59:12.898136+00:00",
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": "2026-10-28T18:53:04.845485+00:00",
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-wednesdays-interest-rate-decision-could-push-xrp-below-1-26-1640501": "2026-10-26T19:50:23.576773+00:00",
+  "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-near-3mth-low-as-elevated-oil-prices-weigh-fed-meet-eyed-4971362": "2026-10-26T03:50:16.873298+00:00",
@@ -105,43 +104,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "50",
-    "december",
-    "ecb",
-    "hike",
-    "hold",
-    "moment",
-    "morgan",
-    "natural",
-    "next",
-    "sees",
-    "set",
-    "stanley"
-   ],
-   "ts": "2026-10-26T01:27:03.793107+00:00"
-  },
-  {
-   "tok": [
-    "2027",
-    "25",
-    "boj",
-    "bounces",
-    "fears",
-    "hikes",
-    "holding",
-    "ing",
-    "iran",
-    "nikkei",
-    "oil",
-    "sees",
-    "slips",
-    "two",
-    "weigh"
-   ],
-   "ts": "2026-10-26T01:27:03.793107+00:00"
-  },
   {
    "tok": [
     "face",
@@ -1259,6 +1221,20 @@
     "surprise"
    ],
    "ts": "2026-10-29T01:05:06.857809+00:00"
+  },
+  {
+   "tok": [
+    "data",
+    "fed",
+    "focus",
+    "gold",
+    "holds",
+    "inflation",
+    "pce",
+    "rates",
+    "slips"
+   ],
+   "ts": "2026-10-29T01:58:48.174774+00:00"
   }
  ]
 }
