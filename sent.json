@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 19
+  "2026-10-30": 22
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -15,6 +15,8 @@
  "links": {
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/boj-decision-due-shortly-hold-at-1-25-expected-december-signal-in-focu/": "2026-10-30T03:39:01.404031+00:00",
+  "https://investinglive.com/central-banks/boj-declares-underlying-inflation-at-2-target-lifts-fy2027-price-forecast-as-rates-held/": "2026-10-30T04:24:34.730151+00:00",
+  "https://investinglive.com/central-banks/boj-keeps-policy-rate-unchanged-at-1-25-as-expected/": "2026-10-30T04:24:34.730151+00:00",
   "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/": "2026-10-29T18:11:37.063354+00:00",
   "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/": "2026-10-29T23:07:20.789188+00:00",
@@ -68,6 +70,7 @@
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0lGazRocTNOQ2dfbDVhVm5HUmxwX3ZqdzNXOXdwNU1nYUt4UHZHWWhVT1hxTno1SlNwN0dfNFE0OTJXaEtUUGhqcV9fQkltYXZ3U3ZfOHNmMGliVXEyeGtHSG5QbWxOSHdtSmNmWEluN0FrdTZBaHRCcE10OG1fWEctTHhDZFFPMi1HNWtFajM1OVh5Mm4wcTR2cjVabS1Mcm1DR2p2MW5tcEhqOEtCUTl3VmVTUlYteVVKdmRn?oc=5": "2026-10-28T22:26:53.880190+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGduS3IwamQyRnFfbTlpZ09EZlhmb2dHY0NnSVhIaDV5LWozMGhqVFI3Y0NhZW9kd3UyWUt5Mmc2NDQ1QUxnYzgxUEJMODZlMWlMbkFxSm5pRm9RU2NxTVR1eDN0MzRMenVQeVJtTEtHWXJUMEFZVzNPRGVjcm5WRG9GSk1aOG44SEVOLTVZOG04cUtMMnVJYm9hRHp5Xzh4ZWxVOC1lMUFqYlk2Tm40MHZZMkZTZFBldU9xM3R3?oc=5": "2026-10-29T18:57:51.577351+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-dollar-strength-threatens-rebound-1640813": "2026-10-28T03:49:14.867726+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453": "2026-10-30T04:24:34.730151+00:00",
   "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728": "2026-10-27T18:28:41.082099+00:00",
   "https://www.fxempire.com/forecasts/article/gold-sits-on-support-heading-into-fed-meeting-results-1641057": "2026-10-28T17:19:48.856017+00:00",
   "https://www.fxempire.com/forecasts/article/gold-tests-4000-support-as-fed-decision-looms-and-real-yields-ease-1640666": "2026-10-27T17:10:04.111155+00:00",
@@ -1193,6 +1196,48 @@
     "signal"
    ],
    "ts": "2026-10-30T03:39:01.404031+00:00"
+  },
+  {
+   "tok": [
+    "fears",
+    "fed",
+    "forecast",
+    "gold",
+    "grow",
+    "hike",
+    "lags",
+    "price",
+    "silver"
+   ],
+   "ts": "2026-10-30T04:24:34.730151+00:00"
+  },
+  {
+   "tok": [
+    "boj",
+    "declares",
+    "forecast",
+    "fy2027",
+    "held",
+    "inflation",
+    "lifts",
+    "price",
+    "rates",
+    "target",
+    "underlying"
+   ],
+   "ts": "2026-10-30T04:24:34.730151+00:00"
+  },
+  {
+   "tok": [
+    "25",
+    "boj",
+    "expected",
+    "keeps",
+    "policy",
+    "rate",
+    "unchanged"
+   ],
+   "ts": "2026-10-30T04:24:34.730151+00:00"
   }
  ]
 }
