@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 17
+  "2026-10-30": 18
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -45,6 +45,7 @@
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
+  "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/": "2026-10-30T02:14:00.703455+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5": "2026-10-28T20:19:43.040424+00:00",
@@ -82,6 +83,7 @@
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-ahead-of-fed-decision-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-3-1641070": "2026-10-28T19:35:15.112175+00:00",
   "https://www.fxempire.com/forecasts/article/usd-cad-can-the-bank-of-canada-and-fed-trigger-a-breakout-1640757": "2026-10-27T19:59:12.898136+00:00",
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": "2026-10-28T18:53:04.845485+00:00",
+  "https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685": "2026-10-30T02:14:00.703455+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
@@ -1153,6 +1155,27 @@
     "september"
    ],
    "ts": "2026-10-30T01:15:12.092767+00:00"
+  },
+  {
+   "tok": [
+    "10",
+    "ai",
+    "drives",
+    "flight",
+    "good",
+    "low",
+    "month",
+    "news",
+    "one",
+    "rally",
+    "safety",
+    "selloff",
+    "some",
+    "treasuries",
+    "year",
+    "yield"
+   ],
+   "ts": "2026-10-30T02:14:00.703455+00:00"
   }
  ]
 }
