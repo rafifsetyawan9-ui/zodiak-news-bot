@@ -6,7 +6,7 @@
   "2026-10-28": 25,
   "2026-10-29": 25,
   "2026-10-30": 25,
-  "2026-10-31": 16
+  "2026-10-31": 17
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -48,12 +48,14 @@
   "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/": "2026-10-30T05:10:41.219149+00:00",
   "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
   "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/": "2026-10-30T02:14:00.703455+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
   "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/": "2026-10-30T20:45:11.628809+00:00",
+  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-30T23:13:35.359512+00:00",
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRE4wRVdVYWdXbnJsWFhYT0dONlk2ZnZzdlZod3pxSDBzdnkzWjh5eHMySVotTFh1XzU5NzBxcEpZQy0tVmhOa19jdC1aM2FValdpcDU0cDZQb2FuZVB3azdQcVFoNklhSTVBTFpMYTF4bWNnMGM1VE1xUGExYnZWY3FfVmc1RXBuTTE5QWxLZWg0Zw?oc=5": "2026-10-30T18:28:25.949823+00:00",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxqZUxkSUgwVngwRkl4cnRTVGd2SUp4bnJxeUt1aElMRlo0d3o4aFpNVk9MSENWWFVTNUxfRTVhRkFkSVRFQWNrQ0lDeEk2am11OWxOV1NyTUwwblBVUmZSem9CdFRFcElqWVRLVjRKaDJuOElYaEwyQ05TN050dEtIaC15clVMbmlVd00zMGN6WXM?oc=5": "2026-10-28T18:53:04.845485+00:00",
@@ -1306,6 +1308,30 @@
     "yields"
    ],
    "ts": "2026-10-30T21:58:55.838737+00:00"
+  },
+  {
+   "tok": [
+    "30",
+    "ai",
+    "americas",
+    "costs",
+    "fed",
+    "fx",
+    "hikes",
+    "investinglive",
+    "investors",
+    "it",
+    "keep",
+    "nasdaq",
+    "news",
+    "oct",
+    "play",
+    "speakers",
+    "tumbles",
+    "worry",
+    "wrap"
+   ],
+   "ts": "2026-10-30T23:13:35.359512+00:00"
   }
  ]
 }
