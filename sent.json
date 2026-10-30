@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 24
+  "2026-10-30": 25
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -82,6 +82,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-traders-prepare-for-fed-decision-2-1641084": "2026-10-28T18:07:13.487356+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-prices-move-away-from-multi-month-highs-1640712": "2026-10-27T17:10:04.111155+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-u-s-gdp-growth-rate-exceeds-estimates-1641374": "2026-10-29T18:57:51.577351+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-hot-pce-lifts-hike-odds-can-gold-hold-3975-1641469": "2026-10-30T06:30:42.135352+00:00",
   "https://www.fxempire.com/forecasts/article/nasdaq-index-chipmakers-and-lower-oil-fuel-a-second-day-rally-1640718": "2026-10-27T19:59:12.898136+00:00",
   "https://www.fxempire.com/forecasts/article/silver-waits-for-fomc-meeting-results-1641050": "2026-10-28T17:19:48.856017+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-and-dow-jones-fed-policy-statement-sets-up-next-move-for-indices-1641078": "2026-10-28T18:53:04.845485+00:00",
@@ -1273,6 +1274,24 @@
     "won"
    ],
    "ts": "2026-10-30T05:10:41.219149+00:00"
+  },
+  {
+   "tok": [
+    "975",
+    "can",
+    "forecast",
+    "gold",
+    "hike",
+    "hold",
+    "hot",
+    "lifts",
+    "odds",
+    "pce",
+    "price",
+    "silver",
+    "xauusd"
+   ],
+   "ts": "2026-10-30T06:30:42.135352+00:00"
   }
  ]
 }
