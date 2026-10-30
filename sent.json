@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 18
+  "2026-10-30": 19
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -14,6 +14,7 @@
  },
  "links": {
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
+  "https://investinglive.com/central-banks/boj-decision-due-shortly-hold-at-1-25-expected-december-signal-in-focu/": "2026-10-30T03:39:01.404031+00:00",
   "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/": "2026-10-29T21:47:49.466170+00:00",
   "https://investinglive.com/central-banks/ecb-sources-report-policymakers-see-a-december-rate-hike-followed-by-a-pause/": "2026-10-29T18:11:37.063354+00:00",
   "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/": "2026-10-29T23:07:20.789188+00:00",
@@ -89,6 +90,7 @@
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
   "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502": "2026-10-29T19:41:56.074122+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116": "2026-10-27T21:46:58.135651+00:00",
+  "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749": "2026-10-30T03:39:01.404031+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446": "2026-10-29T04:52:57.496898+00:00",
   "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887": "2026-10-28T21:06:54.798654+00:00"
  },
@@ -1176,6 +1178,21 @@
     "yield"
    ],
    "ts": "2026-10-30T02:14:00.703455+00:00"
+  },
+  {
+   "tok": [
+    "25",
+    "boj",
+    "december",
+    "decision",
+    "due",
+    "expected",
+    "focu",
+    "hold",
+    "shortly",
+    "signal"
+   ],
+   "ts": "2026-10-30T03:39:01.404031+00:00"
   }
  ]
 }
