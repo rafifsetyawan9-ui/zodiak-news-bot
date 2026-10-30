@@ -6,7 +6,7 @@
   "2026-10-28": 25,
   "2026-10-29": 25,
   "2026-10-30": 25,
-  "2026-10-31": 10
+  "2026-10-31": 12
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -56,11 +56,13 @@
   "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
   "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/": "2026-10-30T02:14:00.703455+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
+  "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/": "2026-10-30T20:45:11.628809+00:00",
   "https://investinglive.com/stocks/goldman-markets-selling-us-banks-on-higher-rates-but-income-guidance-rises-into-2027/": "2026-10-27T22:24:41.420539+00:00",
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5adUJhY0hwN3RQYWt6S0Z3MmRMQnRReTJvOTJVdEhLMDJFV0xySU9QMThXQlNoYVBiNnNmVlpiMlhBcUtFMDhERzRUQTB1TEU1OFJUR0NEVEQ0TE9OZFh1Y0pJOA?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRE4wRVdVYWdXbnJsWFhYT0dONlk2ZnZzdlZod3pxSDBzdnkzWjh5eHMySVotTFh1XzU5NzBxcEpZQy0tVmhOa19jdC1aM2FValdpcDU0cDZQb2FuZVB3azdQcVFoNklhSTVBTFpMYTF4bWNnMGM1VE1xUGExYnZWY3FfVmc1RXBuTTE5QWxLZWg0Zw?oc=5": "2026-10-30T18:28:25.949823+00:00",
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkxqZUxkSUgwVngwRkl4cnRTVGd2SUp4bnJxeUt1aElMRlo0d3o4aFpNVk9MSENWWFVTNUxfRTVhRkFkSVRFQWNrQ0lDeEk2am11OWxOV1NyTUwwblBVUmZSem9CdFRFcElqWVRLVjRKaDJuOElYaEwyQ05TN050dEtIaC15clVMbmlVd00zMGN6WXM?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFpySVpBc1JBSlUtZ3VOUkUzYnJKalZ1UzY3bnhHV1EzbFYyMG8zZnkwVTRLajJpXy0zam1QSG9MRHlObldJUll4ZnU3Z0thZU1Kb2RBclN0eV9TM1VGUklCQUlNM1EyU0NLcWMwYkJ2SHQ3NVBPRWZDSHA1MUs4SVRqbHByMVhfVG02VWZwSVlsbG1f?oc=5": "2026-10-30T17:47:05.777636+00:00",
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEdIdkV2MnNDNVgxZnR3ZVZGWWgxMHJ4MUtrSklHYmJWTnBhdy1aWVFhMk55blAxU0dhel9fYVUtd1VmUVNRNVlTazE4LWgwY1F1aDBKdkZ2bTBLTDJJV3NfWHFwOFJyUXJfYksxMU9XdjNOMnFvSF9lWHRuSWxQYmQzeVFjejBiSUFacWJRNHNtcDVXLVB5VVI0V3JVQQ?oc=5": "2026-10-30T20:45:11.628809+00:00",
   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXc0WmY1cTBwYXd0OVhjejV6em9BWjc3VzBzQkc2cVVYamJ6MkVxNHN3ZzI5YWJkN2x0MkJocXk4LWtVRUVrdm9UaUJQbi1YWDg4ZjRLdVNiZWF0UFN6SGNrLWl0ZDB3MG1HWjNkbUxkcXFKV2ktUVV0ZXNPOWl3bmRGRlNrTzhrNy1qMFV1RGRwcFJCT0dYMGJoY08tUU0?oc=5": "2026-10-29T18:11:37.063354+00:00",
   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5": "2026-10-28T18:53:04.845485+00:00",
   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDZJVk9jZFJ6TEN2aWhXT2tLYVdBUHZyS0FLRkd6QjQ5N3FVaDN5RDZjX3J2ZmFsSVdGamlzYjJQdFZ0ZzhpcmFoN0NqNHRpcWJDVW5yQ0ZOekt3WFpac3Z0dTkzdW4zZHQ5Zy1TSHV5YVBwR3JhT0RtVFNyb1ZQUGxScTE4djRHd0RQR3Bnekl2VWtHNElvRFZWU0t1cG1LUmllRVhJUQ?oc=5": "2026-10-29T18:57:51.577351+00:00",
@@ -73,6 +75,7 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnF0bG92emZOM0VGZEhBbjRnLXkwTGpvbm9mU3ZHcXBqeVpkUmMxb2cxcVd6UWc1dENEMUtXaGphakxjTmtQY3lBVUFsZDdRY3E0UHBna1BYdl9QajFQLXJndzl5ZUttaWtISTZIbGhORE1kMGJ4UVZfQ19Ya1FHZVkxTU1rRXZiVEdvMUtBdGl5Q0ZMWFZRcEQwTGRkT09VbmQ5MjI0TEs1V0NXZUZ5eldURXBpenpr?oc=5": "2026-10-28T17:19:48.856017+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1JPRTZ3UVlwUWdHM2d4bUxoWjZ3SThZbmhiQUpOZjdWWFl5c0FrTjFVQVQwR091TG9PbFNrQ3djcjgwWFVPcnhvNFJkMUpSNmhoWm9sbktsR1pKZk5fQ0M2bzdjTnlaTnNMT3lHaTlPb0VQajJCQWZHMXoxSy1KaWMxdHl1LV9DbWYwVDJyTk1MQTlwaHlwZzJ3Z3JRc25FWG50WGdKM0tFWkd0VWQ3TjNrTi11bHpY?oc=5": "2026-10-29T19:41:56.074122+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEpMdkMycHVTTHhGWDJHdkczaF9sOXpRdUJ4cDNZUm1ydGI2ZTZBbnV2Z1dPRDlJUU8zdnpCcV9HTzk1LUNxWVJDbmkxOFd1Z2dTR0ZjZ3B6U2VObE00VTBFdU5CYWFXejNpcl9vWF9uTjRiNFpnWU1QNTc1eHp1dnN6cVc2TWVPSHRFR1dLYnhBc0FTREVVTzgxR2Y4Q05WV0RWdlJ1WXBuUDhtVzdsc2FCU1lSalVMcmZB?oc=5": "2026-10-28T21:06:54.798654+00:00",
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1ozWE5aLWZzSlNRYUF6WU9lejA1YWRtSWtmcVBIMlZjbExNNTJqZWE0R1I4UUpHUmZ4dnRkM3lDdEp6b0lQRE9iY09uYmZoS240RmUzTk5kVlZIWjJtZ0R4MndRb3hoNThYT3ZqRlBKa2gydEtRdEFTZGJuZ3ZqMGtGcTdIbmREZFRnenZuZlNrQ1NMOTU4cmxUblBDTHFlZEFiQVlEc1h3MDdNX2ZITnpVXzhRRU5mT1dv?oc=5": "2026-10-30T20:45:11.628809+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2VQWDI4MkNMRVM3WHRwTlJWNDBHV2tmOUdnQXVPb0pvb1NOZjNuaThnNV91bnFaRlNPNnBZdlN5Z1hxRFpoNHplanVYWG5yWUVkcDdtSVdDRVNEYjA4VFdFWndJbFIwdS0tSnlWV1RKUDV0SnVoT1dIUE0zejVKMFY2dzN0LVVsZFlEZThWYmtiR0dxNl9uT2lyMDFLa0Q1Q3VXZXAxV1djWnRuR2x3Nk1SeVdKZVRpakRvVQ?oc=5": "2026-10-29T21:47:49.466170+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzVQNVIyNS1Dd2VVSDcxcVRZM1ZqNl84a0dnQWtrLUZ4RTRadkxnVDBQbS1IZHV2YWxNZDE3UU5NOHUtTHlUSjN2aFBxTHVXd1M1SmZqX0JvN1hKQzB0X3cwM0R6N1Ffc01HUHh3a18zbWFfZ0t2MGNXY3IzcER2LUVHaWQxLWJEcmdlRldVM2ttdnI4MmtscXctbEpvaXUyWXV2NWRTTjAweFdzX2pOTEIyMFFMOGlnY19jT0Z3?oc=5": "2026-10-30T20:03:16.722471+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0lGazRocTNOQ2dfbDVhVm5HUmxwX3ZqdzNXOXdwNU1nYUt4UHZHWWhVT1hxTno1SlNwN0dfNFE0OTJXaEtUUGhqcV9fQkltYXZ3U3ZfOHNmMGliVXEyeGtHSG5QbWxOSHdtSmNmWEluN0FrdTZBaHRCcE10OG1fWEctTHhDZFFPMi1HNWtFajM1OVh5Mm4wcTR2cjVabS1Mcm1DR2p2MW5tcEhqOEtCUTl3VmVTUlYteVVKdmRn?oc=5": "2026-10-28T22:26:53.880190+00:00",
@@ -1311,6 +1314,33 @@
     "wants"
    ],
    "ts": "2026-10-30T20:03:16.722471+00:00"
+  },
+  {
+   "tok": [
+    "center",
+    "decisions",
+    "elections",
+    "jobs",
+    "rate",
+    "stage",
+    "take",
+    "week"
+   ],
+   "ts": "2026-10-30T20:45:11.628809+00:00"
+  },
+  {
+   "tok": [
+    "fed",
+    "hikes",
+    "kitco",
+    "least",
+    "logan",
+    "more",
+    "needs",
+    "rate",
+    "two"
+   ],
+   "ts": "2026-10-30T20:45:11.628809+00:00"
   }
  ]
 }
