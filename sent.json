@@ -6,7 +6,7 @@
   "2026-10-28": 25,
   "2026-10-29": 25,
   "2026-10-30": 25,
-  "2026-10-31": 6
+  "2026-10-31": 9
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -25,6 +25,7 @@
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-october-28-2026-aud-cpi-rba-and-rbnz/": "2026-10-27T21:14:14.828221+00:00",
   "https://investinglive.com/central-banks/fed-chairman-kevin-warsh-more-information-will-help-determine-appropriate-policy-steps/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/": "2026-10-30T17:47:05.777636+00:00",
+  "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
   "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/": "2026-10-28T19:35:15.112175+00:00",
@@ -67,16 +68,17 @@
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRJWXZQR1IzRWpCSzFSS2NleXVtemhkbFhNVEhmTklUdTA1Z1ZaWG1UcWRDSFlDNmVUX05yR0VlMFBDU1BKeUFHaldoOGlxeFBuanl3eU1hSzIteUo0RlgxU2JNdU9uQkFmYS1xdEVxbzZ2czdqcGJzeWpWbElfMlNtSDJ3NkNNSEFiclhRT3A3RHUwZDgtRHNaRmtkTE9scDJuRXQ1cHlyV2ZjajBJ?oc=5": "2026-10-27T21:46:58.135651+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVNPX1gxQ1lXb1Bfd0RwcldkQmI1V01vRzBrRkF6Vk4xaHlGc1R1U2FjSl95SXdQNlh0Y2NySTJzSVdmZGpoWVEyaXN0dXpnbFgzcTdZWExFVkFzX3RZeEVJSk9TcDlQLXhJYmNOMThNVl9ZMDRpYmxWZHlaaEd5RDRRMktCY1RxVExrLW9aOEZNZFFESzk0b29LQkwzby11S24ta3YxRlBwb1JRSmFMSTlxd2ZPNVE?oc=5": "2026-10-28T20:19:43.040424+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjRRaHpiVklRZWs2dGN4Mlk1SGxlVjR0aW81SGZvR3V4dUpRMW9wTi15cFhZcmVtYUszWTAyY3ZFd1pZQU5vRnNIcm1YOVBxbjlIRWdiNDJkQ202OEJWcGtoQm9SY0w3OW5BeU9iejR2UElrVjB1Yk9VQUVaMzVyd2V6c3FEMHRqN1dyMWpiNldUaW5iWGRMSGgtMjl2aXpuOV9GNzVxNU5zYnFLbnNkSlFCSmdNamM?oc=5": "2026-10-27T21:46:58.135651+00:00",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5": "2026-10-30T19:18:15.171615+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnF0bG92emZOM0VGZEhBbjRnLXkwTGpvbm9mU3ZHcXBqeVpkUmMxb2cxcVd6UWc1dENEMUtXaGphakxjTmtQY3lBVUFsZDdRY3E0UHBna1BYdl9QajFQLXJndzl5ZUttaWtISTZIbGhORE1kMGJ4UVZfQ19Ya1FHZVkxTU1rRXZiVEdvMUtBdGl5Q0ZMWFZRcEQwTGRkT09VbmQ5MjI0TEs1V0NXZUZ5eldURXBpenpr?oc=5": "2026-10-28T17:19:48.856017+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1JPRTZ3UVlwUWdHM2d4bUxoWjZ3SThZbmhiQUpOZjdWWFl5c0FrTjFVQVQwR091TG9PbFNrQ3djcjgwWFVPcnhvNFJkMUpSNmhoWm9sbktsR1pKZk5fQ0M2bzdjTnlaTnNMT3lHaTlPb0VQajJCQWZHMXoxSy1KaWMxdHl1LV9DbWYwVDJyTk1MQTlwaHlwZzJ3Z3JRc25FWG50WGdKM0tFWkd0VWQ3TjNrTi11bHpY?oc=5": "2026-10-29T19:41:56.074122+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEpMdkMycHVTTHhGWDJHdkczaF9sOXpRdUJ4cDNZUm1ydGI2ZTZBbnV2Z1dPRDlJUU8zdnpCcV9HTzk1LUNxWVJDbmkxOFd1Z2dTR0ZjZ3B6U2VObE00VTBFdU5CYWFXejNpcl9vWF9uTjRiNFpnWU1QNTc1eHp1dnN6cVc2TWVPSHRFR1dLYnhBc0FTREVVTzgxR2Y4Q05WV0RWdlJ1WXBuUDhtVzdsc2FCU1lSalVMcmZB?oc=5": "2026-10-28T21:06:54.798654+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEJINW1FampXM3ZWOTRoeDBnbFEwVWVhME9CVm1PanlJVExGOWNINHhKUWxBWjdhUkx3c0ZwMDVJYTVqUHk5V1ZhSWplWnhxWU5BNTBqNFBmODNGWmt6czVLWVh5TDdFLUYwR0JVcEx0OUh1QjZSRkduZHQ1T21pdWxka3F2ZHBvbUxHSzNqSHB6SXlBNlZDNFBySFRUQURqdWpIV3prYjdraDdlYXRocFdoa21aRUpmUmYw?oc=5": "2026-10-27T19:59:12.898136+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2VQWDI4MkNMRVM3WHRwTlJWNDBHV2tmOUdnQXVPb0pvb1NOZjNuaThnNV91bnFaRlNPNnBZdlN5Z1hxRFpoNHplanVYWG5yWUVkcDdtSVdDRVNEYjA4VFdFWndJbFIwdS0tSnlWV1RKUDV0SnVoT1dIUE0zejVKMFY2dzN0LVVsZFlEZThWYmtiR0dxNl9uT2lyMDFLa0Q1Q3VXZXAxV1djWnRuR2x3Nk1SeVdKZVRpakRvVQ?oc=5": "2026-10-29T21:47:49.466170+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0lGazRocTNOQ2dfbDVhVm5HUmxwX3ZqdzNXOXdwNU1nYUt4UHZHWWhVT1hxTno1SlNwN0dfNFE0OTJXaEtUUGhqcV9fQkltYXZ3U3ZfOHNmMGliVXEyeGtHSG5QbWxOSHdtSmNmWEluN0FrdTZBaHRCcE10OG1fWEctTHhDZFFPMi1HNWtFajM1OVh5Mm4wcTR2cjVabS1Mcm1DR2p2MW5tcEhqOEtCUTl3VmVTUlYteVVKdmRn?oc=5": "2026-10-28T22:26:53.880190+00:00",
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1ZpdlVZZzVqYWRzV05Fb2RTeXBNNDNGclZmVDhPTk5mSnB6S3VnUS01OGRVc1dYSWRSTkNIcE1tdmoxT3YyTUI1Q0pBSEVVZlEyMVpaLWlESjcwYzFLV2FGVy1XYjB0dkVyaUhNZ1MzcWJpdm00ckdDbHB3OEJGZDV1TmVfQ2lyLXo2MnNsMmNCRy1BYzFiVmxPc2JKQkNVQ0g4OEVOSjVGMUpTOTVOUmFnck1RNm9CVlRDR1FR?oc=5": "2026-10-30T19:18:15.171615+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGduS3IwamQyRnFfbTlpZ09EZlhmb2dHY0NnSVhIaDV5LWozMGhqVFI3Y0NhZW9kd3UyWUt5Mmc2NDQ1QUxnYzgxUEJMODZlMWlMbkFxSm5pRm9RU2NxTVR1eDN0MzRMenVQeVJtTEtHWXJUMEFZVzNPRGVjcm5WRG9GSk1aOG44SEVOLTVZOG04cUtMMnVJYm9hRHp5Xzh4ZWxVOC1lMUFqYlk2Tm40MHZZMkZTZFBldU9xM3R3?oc=5": "2026-10-29T18:57:51.577351+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-dollar-strength-threatens-rebound-1640813": "2026-10-28T03:49:14.867726+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453": "2026-10-30T04:24:34.730151+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-fights-back-silver-breaks-lower-same-dollar-different-stories-1640728": "2026-10-27T18:28:41.082099+00:00",
   "https://www.fxempire.com/forecasts/article/gold-sits-on-support-heading-into-fed-meeting-results-1641057": "2026-10-28T17:19:48.856017+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-reversal-threatens-key-support-1641443": "2026-10-29T22:27:51.043701+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-trend-faces-critical-test-1641153": "2026-10-28T21:06:54.798654+00:00",
@@ -1281,6 +1283,58 @@
     "xauusd"
    ],
    "ts": "2026-10-30T18:28:25.949823+00:00"
+  },
+  {
+   "tok": [
+    "900",
+    "below",
+    "fears",
+    "fuel",
+    "gold",
+    "higher",
+    "kitco",
+    "low",
+    "more",
+    "oil",
+    "one",
+    "pain",
+    "plunge",
+    "prices",
+    "year"
+   ],
+   "ts": "2026-10-30T19:18:15.171615+00:00"
+  },
+  {
+   "tok": [
+    "fed",
+    "hikes",
+    "least",
+    "logan",
+    "more",
+    "needed",
+    "point",
+    "quarter",
+    "rate",
+    "two"
+   ],
+   "ts": "2026-10-30T19:18:15.171615+00:00"
+  },
+  {
+   "tok": [
+    "canadian",
+    "dollar",
+    "extends",
+    "gain",
+    "higher",
+    "inflation",
+    "kitco",
+    "monthly",
+    "oil",
+    "prices",
+    "raise",
+    "risk"
+   ],
+   "ts": "2026-10-30T19:18:15.171615+00:00"
   }
  ]
 }
