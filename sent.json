@@ -6,7 +6,7 @@
   "2026-10-27": 15,
   "2026-10-28": 25,
   "2026-10-29": 25,
-  "2026-10-30": 22
+  "2026-10-30": 24
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -15,6 +15,7 @@
  "links": {
   "https://investinglive.com/central-banks/blackrock-sees-one-more-fed-hike-this-year-calls-market-pricing-for-more-too-hawkish/": "2026-10-28T00:24:44.764970+00:00",
   "https://investinglive.com/central-banks/boj-decision-due-shortly-hold-at-1-25-expected-december-signal-in-focu/": "2026-10-30T03:39:01.404031+00:00",
+  "https://investinglive.com/central-banks/boj-declares-inflation-victory-but-still-won-t-budge-on-rates-so-what-s-the-hold-up/": "2026-10-30T05:10:41.219149+00:00",
   "https://investinglive.com/central-banks/boj-declares-underlying-inflation-at-2-target-lifts-fy2027-price-forecast-as-rates-held/": "2026-10-30T04:24:34.730151+00:00",
   "https://investinglive.com/central-banks/boj-keeps-policy-rate-unchanged-at-1-25-as-expected/": "2026-10-30T04:24:34.730151+00:00",
   "https://investinglive.com/central-banks/boj-preview-hold-at-1-25-expected-with-2-inflation-call-and-dissent-risk-in-focus/": "2026-10-29T21:47:49.466170+00:00",
@@ -47,6 +48,7 @@
   "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/": "2026-10-29T21:47:49.466170+00:00",
+  "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/": "2026-10-30T05:10:41.219149+00:00",
   "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
   "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/": "2026-10-30T02:14:00.703455+00:00",
   "https://investinglive.com/news/trump-iran-war-will-be-over-very-soon/": "2026-10-29T19:41:56.074122+00:00",
@@ -91,6 +93,7 @@
   "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-near-4010-as-traders-await-fed-decision-iran-diplomacy-offers-hope-4974024": "2026-10-27T17:50:11.388092+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
+  "https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735": "2026-10-30T05:10:41.219149+00:00",
   "https://www.investing.com/news/commodities-news/silver-in-freefall-below-all-mas-doji-hints-at-exhaustion-live-93CH-4971502": "2026-10-29T19:41:56.074122+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116": "2026-10-27T21:46:58.135651+00:00",
   "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749": "2026-10-30T03:39:01.404031+00:00",
@@ -1238,6 +1241,38 @@
     "unchanged"
    ],
    "ts": "2026-10-30T04:24:34.730151+00:00"
+  },
+  {
+   "tok": [
+    "asia",
+    "binance",
+    "crypto",
+    "hack",
+    "investinglive",
+    "market",
+    "news",
+    "pacific",
+    "shakes"
+   ],
+   "ts": "2026-10-30T05:10:41.219149+00:00"
+  },
+  {
+   "tok": [
+    "boj",
+    "budge",
+    "but",
+    "declares",
+    "hold",
+    "inflation",
+    "rates",
+    "so",
+    "still",
+    "up",
+    "victory",
+    "what",
+    "won"
+   ],
+   "ts": "2026-10-30T05:10:41.219149+00:00"
   }
  ]
 }
