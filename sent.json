@@ -43,8 +43,6 @@
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": "2026-10-29T18:11:37.063354+00:00",
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/oil-the-uae-s-second-hormuz-bypass-pipeline-gets-its-firm-timing-early-2027/": "2026-10-29T00:12:41.769742+00:00",
-  "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/": "2026-10-28T01:28:55.089727+00:00",
-  "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/": "2026-10-28T01:28:55.089727+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-28-oct-fed-holds-rates-yield-curve-steepens-as-big-tech-earnings-diverge/": "2026-10-28T21:45:53.886146+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-ecb-holds-sources-report-says-december-hike/": "2026-10-29T21:47:49.466170+00:00",
@@ -95,7 +93,6 @@
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": "2026-10-28T18:53:04.845485+00:00",
   "https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685": "2026-10-30T02:14:00.703455+00:00",
   "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
-  "https://www.investing.com/news/commodities-news/gold-steadies-above-4000-as-traders-await-fed-decision-pce-data-4977316": "2026-10-28T01:28:55.089727+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693": "2026-10-30T22:30:19.352344+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735": "2026-10-30T05:10:41.219149+00:00",
   "https://www.investing.com/news/commodities-news/serbias-nis-oil-company-gets-us-sanctions-waiver-until-dec-11--local-tv-93CH-4988442": "2026-10-30T17:47:05.777636+00:00",
@@ -112,49 +109,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "000",
-    "above",
-    "await",
-    "data",
-    "decision",
-    "fed",
-    "gold",
-    "pce",
-    "steadies",
-    "traders"
-   ],
-   "ts": "2026-10-28T01:28:55.089727+00:00"
-  },
-  {
-   "tok": [
-    "above",
-    "australia",
-    "case",
-    "cpi",
-    "firms",
-    "forecasts",
-    "hike",
-    "mean",
-    "rba",
-    "rises",
-    "trimmed"
-   ],
-   "ts": "2026-10-28T01:28:55.089727+00:00"
-  },
-  {
-   "tok": [
-    "australian",
-    "core",
-    "expected",
-    "inflation",
-    "mean",
-    "september",
-    "trimmed"
-   ],
-   "ts": "2026-10-28T01:28:55.089727+00:00"
-  },
   {
    "tok": [
     "above",
