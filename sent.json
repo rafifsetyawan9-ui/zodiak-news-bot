@@ -28,10 +28,7 @@
   "https://investinglive.com/central-banks/fomc-decision-oct-28/": "2026-10-28T18:07:13.487356+00:00",
   "https://investinglive.com/central-banks/for-reference-the-september-16-fomc-statement/": "2026-10-28T19:35:15.112175+00:00",
   "https://investinglive.com/central-banks/nz-business-confidence-rises-to-53-as-pricing-intentions-hit-highest-since-may/": "2026-10-29T01:05:06.857809+00:00",
-  "https://investinglive.com/central-banks/rba-s-bullock-inflation-is-far-too-high/": "2026-10-28T02:15:40.403173+00:00",
-  "https://investinglive.com/central-banks/rba-s-bullock-oil-shock-means-inflation-above-august-forecasts-board-meets-next-week/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rba-set-for-back-to-back-hike-after-hot-cpi-says-natixis-garcia-herrero/": "2026-10-29T23:42:53.767972+00:00",
-  "https://investinglive.com/central-banks/rbnz-holds-ocr-at-2-75-in-surprise-4-3-vote-says-tighter-policy-still-likely/": "2026-10-28T02:15:40.403173+00:00",
   "https://investinglive.com/central-banks/rbnz-leaves-its-cash-rate-unchanged-they-were-expected-to-hike/": "2026-10-28T03:07:56.732362+00:00",
   "https://investinglive.com/central-banks/rbnz-s-breman-says-chances-of-a-december-rate-hike-are-high-after-surprise-hold-at-2-75/": "2026-10-29T01:05:06.857809+00:00",
   "https://investinglive.com/central-banks/recap-fed-holds-at-3-75-4-in-10-2-vote-as-cook-dissents-for-a-hike-december-move-in-focus/": "2026-10-28T23:41:23.961051+00:00",
@@ -109,50 +106,6 @@
   "USD|Federal Funds Rate|2026-10-28T18:00:00+00:00": "2026-10-28T17:19:48.856017+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "above",
-    "august",
-    "board",
-    "bullock",
-    "forecasts",
-    "inflation",
-    "means",
-    "meets",
-    "next",
-    "oil",
-    "rba",
-    "shock",
-    "week"
-   ],
-   "ts": "2026-10-28T02:15:40.403173+00:00"
-  },
-  {
-   "tok": [
-    "bullock",
-    "far",
-    "high",
-    "inflation",
-    "rba",
-    "too"
-   ],
-   "ts": "2026-10-28T02:15:40.403173+00:00"
-  },
-  {
-   "tok": [
-    "75",
-    "holds",
-    "likely",
-    "ocr",
-    "policy",
-    "rbnz",
-    "still",
-    "surprise",
-    "tighter",
-    "vote"
-   ],
-   "ts": "2026-10-28T02:15:40.403173+00:00"
-  },
   {
    "tok": [
     "cash",
