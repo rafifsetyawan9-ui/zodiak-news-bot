@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 3
+  "2026-11-02": 4
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -17,7 +17,6 @@
   "https://investinglive.com/central-banks/boj-declares-inflation-victory-but-still-won-t-budge-on-rates-so-what-s-the-hold-up/": "2026-10-30T05:10:41.219149+00:00",
   "https://investinglive.com/central-banks/boj-declares-underlying-inflation-at-2-target-lifts-fy2027-price-forecast-as-rates-held/": "2026-10-30T04:24:34.730151+00:00",
   "https://investinglive.com/central-banks/boj-keeps-policy-rate-unchanged-at-1-25-as-expected/": "2026-10-30T04:24:34.730151+00:00",
-  "https://investinglive.com/central-banks/ecb-to-hike-once-more-in-december-as-tighter-conditions-may-not-suffice-deutsche-bank/": "2026-10-29T23:07:20.789188+00:00",
   "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/": "2026-10-30T17:47:05.777636+00:00",
   "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
@@ -25,6 +24,7 @@
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
+  "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/": "2026-10-30T05:10:41.219149+00:00",
   "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
@@ -59,23 +59,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "bank",
-    "conditions",
-    "december",
-    "deutsche",
-    "ecb",
-    "hike",
-    "may",
-    "more",
-    "not",
-    "once",
-    "suffice",
-    "tighter"
-   ],
-   "ts": "2026-10-29T23:07:20.789188+00:00"
-  },
   {
    "tok": [
     "back",
@@ -567,6 +550,22 @@
     "us"
    ],
    "ts": "2026-11-01T22:46:35.112090+00:00"
+  },
+  {
+   "tok": [
+    "2024",
+    "49",
+    "australia",
+    "drop",
+    "factory",
+    "fastest",
+    "orders",
+    "pace",
+    "pmi",
+    "since",
+    "stuck"
+   ],
+   "ts": "2026-11-01T23:23:07.307750+00:00"
   }
  ]
 }
