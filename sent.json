@@ -59,7 +59,6 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-hot-pce-lifts-hike-odds-can-gold-hold-3975-1641469": "2026-10-30T06:30:42.135352+00:00",
   "https://www.fxempire.com/forecasts/article/silver-weekly-price-forecast-silver-plunges-for-the-week-6-1641631": "2026-10-30T17:08:18.771362+00:00",
   "https://www.investing.com/news/commodities-news/gold-hovers-near-4000-as-pce-inflation-oil-risks-revive-fed-hike-concerns-4985685": "2026-10-30T02:14:00.703455+00:00",
-  "https://www.investing.com/news/commodities-news/gold-slips-after-fed-holds-rates-pce-inflation-data-in-focus-4981309": "2026-10-29T01:58:48.174774+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693": "2026-10-30T22:30:19.352344+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia-4985735": "2026-10-30T05:10:41.219149+00:00",
   "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332": "2026-10-31T21:27:16.831411+00:00",
@@ -73,20 +72,6 @@
   "USD|Core PCE Price Index m/m|2026-10-29T12:30:00+00:00": "2026-10-29T12:18:55.594224+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "data",
-    "fed",
-    "focus",
-    "gold",
-    "holds",
-    "inflation",
-    "pce",
-    "rates",
-    "slips"
-   ],
-   "ts": "2026-10-29T01:58:48.174774+00:00"
-  },
   {
    "tok": [
     "asian",
