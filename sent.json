@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 13
+  "2026-11-02": 15
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -17,12 +17,14 @@
   "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/": "2026-10-30T17:47:05.777636+00:00",
   "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
+  "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
   "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
+  "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
@@ -554,6 +556,39 @@
     "xauusd"
    ],
    "ts": "2026-11-02T07:59:42.357991+00:00"
+  },
+  {
+   "tok": [
+    "adds",
+    "consumer",
+    "ecb",
+    "germany",
+    "headache",
+    "retail",
+    "sales",
+    "september",
+    "slump",
+    "weakness"
+   ],
+   "ts": "2026-11-02T08:55:38.902744+00:00"
+  },
+  {
+   "tok": [
+    "again",
+    "another",
+    "aud",
+    "can",
+    "give",
+    "market",
+    "markets",
+    "playbook",
+    "rally",
+    "rba",
+    "reason",
+    "surprise",
+    "usd"
+   ],
+   "ts": "2026-11-02T08:55:38.902744+00:00"
   }
  ]
 }
