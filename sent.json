@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 6
+  "2026-11-02": 8
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -22,6 +22,7 @@
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
+  "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
   "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
@@ -42,6 +43,7 @@
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzVQNVIyNS1Dd2VVSDcxcVRZM1ZqNl84a0dnQWtrLUZ4RTRadkxnVDBQbS1IZHV2YWxNZDE3UU5NOHUtTHlUSjN2aFBxTHVXd1M1SmZqX0JvN1hKQzB0X3cwM0R6N1Ffc01HUHh3a18zbWFfZ0t2MGNXY3IzcER2LUVHaWQxLWJEcmdlRldVM2ttdnI4MmtscXctbEpvaXUyWXV2NWRTTjAweFdzX2pOTEIyMFFMOGlnY19jT0Z3?oc=5": "2026-10-30T20:03:16.722471+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1ZpdlVZZzVqYWRzV05Fb2RTeXBNNDNGclZmVDhPTk5mSnB6S3VnUS01OGRVc1dYSWRSTkNIcE1tdmoxT3YyTUI1Q0pBSEVVZlEyMVpaLWlESjcwYzFLV2FGVy1XYjB0dkVyaUhNZ1MzcWJpdm00ckdDbHB3OEJGZDV1TmVfQ2lyLXo2MnNsMmNCRy1BYzFiVmxPc2JKQkNVQ0g4OEVOSjVGMUpTOTVOUmFnck1RNm9CVlRDR1FR?oc=5": "2026-10-30T19:18:15.171615+00:00",
   "https://www.fxempire.com/forecasts/article/boj-interest-rate-forecast-inflation-keeps-another-hike-in-play-1641770": "2026-11-01T11:02:58.583448+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453": "2026-10-30T04:24:34.730151+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakdown-puts-3500-in-focus-1641719": "2026-10-30T21:58:55.838737+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664": "2026-10-30T18:28:25.949823+00:00",
@@ -544,6 +546,37 @@
     "up"
    ],
    "ts": "2026-11-02T01:45:35.982089+00:00"
+  },
+  {
+   "tok": [
+    "faces",
+    "fed",
+    "forecast",
+    "gold",
+    "hike",
+    "pressure",
+    "rebound",
+    "silver"
+   ],
+   "ts": "2026-11-02T03:30:38.146571+00:00"
+  },
+  {
+   "tok": [
+    "10",
+    "coast",
+    "days",
+    "gulf",
+    "hit",
+    "incidents",
+    "off",
+    "projectiles",
+    "reach",
+    "saudi",
+    "tanker",
+    "three",
+    "two"
+   ],
+   "ts": "2026-11-02T03:30:38.146571+00:00"
   }
  ]
 }
