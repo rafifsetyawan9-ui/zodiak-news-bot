@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 17
+  "2026-11-02": 18
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -18,6 +18,7 @@
   "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
+  "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
@@ -626,6 +627,25 @@
     "up"
    ],
    "ts": "2026-11-02T10:45:25.255662+00:00"
+  },
+  {
+   "tok": [
+    "crude",
+    "deal",
+    "extends",
+    "hopes",
+    "iran",
+    "losses",
+    "lower",
+    "next",
+    "oil",
+    "opens",
+    "return",
+    "us",
+    "week",
+    "what"
+   ],
+   "ts": "2026-11-02T11:40:19.520893+00:00"
   }
  ]
 }
