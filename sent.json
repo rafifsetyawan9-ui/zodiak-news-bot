@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 15
+  "2026-11-02": 17
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -24,6 +24,7 @@
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
   "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
+  "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/": "2026-11-02T10:45:25.255662+00:00",
   "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
@@ -48,6 +49,7 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664": "2026-10-30T18:28:25.949823+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-iran-talks-drag-on-and-opec-holds-steady-can-wti-hold-99-61-1641842": "2026-11-02T07:59:42.357991+00:00",
+  "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
   "https://www.fxempire.com/forecasts/article/silver-weekly-price-forecast-silver-plunges-for-the-week-6-1641631": "2026-10-30T17:08:18.771362+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693": "2026-10-30T22:30:19.352344+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
@@ -589,6 +591,41 @@
     "usd"
    ],
    "ts": "2026-11-02T08:55:38.902744+00:00"
+  },
+  {
+   "tok": [
+    "cautious",
+    "crude",
+    "iran",
+    "news",
+    "oil",
+    "outlook",
+    "premium",
+    "talks",
+    "test",
+    "turns",
+    "war"
+   ],
+   "ts": "2026-11-02T10:45:25.255662+00:00"
+  },
+  {
+   "tok": [
+    "another",
+    "but",
+    "ecb",
+    "eurozone",
+    "give",
+    "headache",
+    "holds",
+    "manufacturing",
+    "october",
+    "pmi",
+    "pressures",
+    "price",
+    "rising",
+    "up"
+   ],
+   "ts": "2026-11-02T10:45:25.255662+00:00"
   }
  ]
 }
