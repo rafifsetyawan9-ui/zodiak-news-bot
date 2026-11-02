@@ -6,7 +6,7 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 5
+  "2026-11-02": 6
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -26,7 +26,7 @@
   "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/": "2026-10-30T23:13:35.359512+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/": "2026-10-30T05:10:41.219149+00:00",
-  "https://investinglive.com/news/japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-of-boj/": "2026-10-30T01:15:12.092767+00:00",
+  "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yield-at-one-month-low/": "2026-10-30T02:14:00.703455+00:00",
   "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
   "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/": "2026-10-30T20:45:11.628809+00:00",
@@ -59,22 +59,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "beats",
-    "boj",
-    "but",
-    "disappoint",
-    "factory",
-    "forecasts",
-    "japan",
-    "output",
-    "retail",
-    "sales",
-    "september"
-   ],
-   "ts": "2026-10-30T01:15:12.092767+00:00"
-  },
   {
    "tok": [
     "10",
@@ -566,6 +550,23 @@
     "war"
    ],
    "ts": "2026-11-01T23:55:51.388200+00:00"
+  },
+  {
+   "tok": [
+    "53",
+    "cost",
+    "factory",
+    "japan",
+    "low",
+    "month",
+    "pick",
+    "pmi",
+    "pressures",
+    "seven",
+    "slips",
+    "up"
+   ],
+   "ts": "2026-11-02T01:45:35.982089+00:00"
   }
  ]
 }
