@@ -6,16 +6,18 @@
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
-  "2026-11-02": 8
+  "2026-11-02": 10
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/": "2026-10-30T17:47:05.777636+00:00",
   "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/fed-s-musalem-moving-sooner-with-rate-hikes-lessens-risk-of-hit-to-broader-economy/": "2026-10-30T17:08:18.771362+00:00",
+  "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-tumbles-despite-lower-yields-technicals-show-the-way/": "2026-10-30T17:08:18.771362+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
@@ -41,7 +43,6 @@
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakdown-puts-3500-in-focus-1641719": "2026-10-30T21:58:55.838737+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664": "2026-10-30T18:28:25.949823+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-hot-pce-lifts-hike-odds-can-gold-hold-3975-1641469": "2026-10-30T06:30:42.135352+00:00",
   "https://www.fxempire.com/forecasts/article/silver-weekly-price-forecast-silver-plunges-for-the-week-6-1641631": "2026-10-30T17:08:18.771362+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693": "2026-10-30T22:30:19.352344+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
@@ -51,24 +52,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "975",
-    "can",
-    "forecast",
-    "gold",
-    "hike",
-    "hold",
-    "hot",
-    "lifts",
-    "odds",
-    "pce",
-    "price",
-    "silver",
-    "xauusd"
-   ],
-   "ts": "2026-10-30T06:30:42.135352+00:00"
-  },
   {
    "tok": [
     "despite",
@@ -480,6 +463,42 @@
     "two"
    ],
    "ts": "2026-11-02T03:30:38.146571+00:00"
+  },
+  {
+   "tok": [
+    "another",
+    "boj",
+    "continues",
+    "here",
+    "hike",
+    "inflation",
+    "rate",
+    "reaffirm",
+    "so",
+    "stay",
+    "stopping",
+    "that",
+    "what"
+   ],
+   "ts": "2026-11-02T06:38:34.457104+00:00"
+  },
+  {
+   "tok": [
+    "amplified",
+    "bets",
+    "calls",
+    "driven",
+    "fall",
+    "fed",
+    "gold",
+    "hike",
+    "low",
+    "margin",
+    "one",
+    "slide",
+    "year"
+   ],
+   "ts": "2026-11-02T06:38:34.457104+00:00"
   }
  ]
 }
