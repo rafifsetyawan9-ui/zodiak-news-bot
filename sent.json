@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 1
+  "2026-11-03": 4
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -15,7 +15,6 @@
  },
  "links": {
   "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
-  "https://investinglive.com/central-banks/fed-s-daly-ai-matters-for-near-and-medium-term-policy/": "2026-10-30T17:47:05.777636+00:00",
   "https://investinglive.com/central-banks/fed-s-logan-at-least-two-more-quarter-point-rate-hikes-needed/": "2026-10-30T19:18:15.171615+00:00",
   "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
@@ -32,8 +31,6 @@
   "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/": "2026-10-30T20:45:11.628809+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
   "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WMTNDQnp5YzRzREV0OVpGN3dTcGh3Wi1CVXNlYW5LUzlVMU1vOWV3Tm1vNE8tRXR6UEFvNW5fQVBFRjA?oc=5": "2026-10-30T23:13:35.359512+00:00",
-  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRE4wRVdVYWdXbnJsWFhYT0dONlk2ZnZzdlZod3pxSDBzdnkzWjh5eHMySVotTFh1XzU5NzBxcEpZQy0tVmhOa19jdC1aM2FValdpcDU0cDZQb2FuZVB3azdQcVFoNklhSTVBTFpMYTF4bWNnMGM1VE1xUGExYnZWY3FfVmc1RXBuTTE5QWxLZWg0Zw?oc=5": "2026-10-30T18:28:25.949823+00:00",
-  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFpySVpBc1JBSlUtZ3VOUkUzYnJKalZ1UzY3bnhHV1EzbFYyMG8zZnkwVTRLajJpXy0zam1QSG9MRHlObldJUll4ZnU3Z0thZU1Kb2RBclN0eV9TM1VGUklCQUlNM1EyU0NLcWMwYkJ2SHQ3NVBPRWZDSHA1MUs4SVRqbHByMVhfVG02VWZwSVlsbG1f?oc=5": "2026-10-30T17:47:05.777636+00:00",
   "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEdIdkV2MnNDNVgxZnR3ZVZGWWgxMHJ4MUtrSklHYmJWTnBhdy1aWVFhMk55blAxU0dhel9fYVUtd1VmUVNRNVlTazE4LWgwY1F1aDBKdkZ2bTBLTDJJV3NfWHFwOFJyUXJfYksxMU9XdjNOMnFvSF9lWHRuSWxQYmQzeVFjejBiSUFacWJRNHNtcDVXLVB5VVI0V3JVQQ?oc=5": "2026-10-30T20:45:11.628809+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExXcnlyQUdkOEhPcEJ5ZlJKRC1TN0ZjWkhLRlYzSTQ4d21rNzNLd21mTWtBOWE4YXhWXzFKQmtibU1IaHZrN29fSnFnZXdvbFFYYkVxaGh1N29UcHRmbEcxRFNpcVR4WXZvb0k3XzB6bXBPd2RPYkY0OE1rYmlNQWp4Z3dlNFVSajZNeEhwVlJxRy1oX1lLZ1Z3bkFQOFhCMFloNnc2dG9zc0E?oc=5": "2026-11-02T14:48:14.262606+00:00",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVQ2dVhTWU5IZkxWWGhHRHA5enE3MnhwdW02ZW00S1Q3dDh4aV9MTWh1QkpxT0Vkc2NIY3pOSkZCYkdRYnphTUJLWjhUYUlRTkVmbVlOSHZieDN2QU80VEhiWW1OellEeG1hZnE4bVNqalJJR0otYzRXcVpSdlMyc2tVcWF0bW9jc0djSmRrSEQzQTZ3VmN4VDZpcVhoa3pTemxsMlVhQkdmTkQ4c3ZlZg?oc=5": "2026-10-30T21:24:28.007487+00:00",
@@ -52,63 +49,23 @@
   "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893": "2026-11-02T16:49:57.322826+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakdown-puts-3500-in-focus-1641719": "2026-10-30T21:58:55.838737+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-dives-3-5-as-traders-focus-on-tech-sell-off-1641664": "2026-10-30T18:28:25.949823+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-iran-talks-drag-on-and-opec-holds-steady-can-wti-hold-99-61-1641842": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
   "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-dax-sp-500-eur-usd-usd-jpy-1641947": "2026-11-02T14:48:14.262606+00:00",
   "https://www.fxempire.com/forecasts/article/silver-easier-real-yields-meet-a-modest-industrial-recovery-1641959": "2026-11-02T15:46:28.691117+00:00",
+  "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": "2026-11-02T18:35:44.066038+00:00",
+  "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-on-prospects-of-fresh-us-military-action-against-iran-4985693": "2026-10-30T22:30:19.352344+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
   "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332": "2026-10-31T21:27:16.831411+00:00",
   "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-targets-steady-sources-say-4989496": "2026-11-01T09:49:18.285315+00:00",
-  "https://www.investing.com/news/commodities-news/serbias-nis-oil-company-gets-us-sanctions-waiver-until-dec-11--local-tv-93CH-4988442": "2026-10-30T17:47:05.777636+00:00",
   "https://www.investing.com/news/forex-news/if-gold-breaks-lower-investors-may-look-at-these-safe-haven-currencies-analyst-4991012": "2026-11-02T12:34:02.122013+00:00"
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "fed",
-    "hike",
-    "kitco",
-    "musalem",
-    "needed",
-    "rate",
-    "soon"
-   ],
-   "ts": "2026-10-30T17:47:05.777636+00:00"
-  },
-  {
-   "tok": [
-    "ai",
-    "daly",
-    "fed",
-    "matters",
-    "medium",
-    "near",
-    "policy",
-    "term"
-   ],
-   "ts": "2026-10-30T17:47:05.777636+00:00"
-  },
-  {
-   "tok": [
-    "dives",
-    "focus",
-    "forecasts",
-    "gold",
-    "off",
-    "platinum",
-    "sell",
-    "silver",
-    "tech",
-    "traders",
-    "xauusd"
-   ],
-   "ts": "2026-10-30T18:28:25.949823+00:00"
-  },
   {
    "tok": [
     "900",
@@ -740,6 +697,54 @@
     "up"
    ],
    "ts": "2026-11-02T17:45:03.635176+00:00"
+  },
+  {
+   "tok": [
+    "forecasts",
+    "gold",
+    "oil",
+    "platinum",
+    "rebounds",
+    "silver",
+    "tumbles",
+    "xauusd"
+   ],
+   "ts": "2026-11-02T18:35:44.066038+00:00"
+  },
+  {
+   "tok": [
+    "breakdown",
+    "drop",
+    "fx",
+    "gold",
+    "iran",
+    "market",
+    "oil",
+    "outlook",
+    "pmi",
+    "preview",
+    "strength",
+    "talks",
+    "weekly"
+   ],
+   "ts": "2026-11-02T18:35:44.066038+00:00"
+  },
+  {
+   "tok": [
+    "analysis",
+    "back",
+    "cad",
+    "dive",
+    "dollar",
+    "eur",
+    "gbp",
+    "jpy",
+    "oil",
+    "prices",
+    "pulls",
+    "usd"
+   ],
+   "ts": "2026-11-02T18:35:44.066038+00:00"
   }
  ]
 }
