@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 22
+  "2026-11-03": 23
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -51,6 +51,7 @@
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-mondays-advance-faces-a-fresh-test-from-u-s-labor-data-1642243": "2026-11-03T16:19:11.389938+00:00",
   "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893": "2026-11-02T16:49:57.322826+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136": "2026-11-03T09:44:13.776674+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
@@ -67,6 +68,7 @@
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797": "2026-11-02T23:09:28.720358+00:00",
+  "https://www.investing.com/news/commodities-news/gulf-oil-flows-dip-in-october-from-postiran-war-high-data-shows-4995807": "2026-11-03T16:19:11.389938+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342": "2026-11-03T12:17:14.160208+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
   "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332": "2026-10-31T21:27:16.831411+00:00",
@@ -859,6 +861,20 @@
     "yields"
    ],
    "ts": "2026-11-03T15:24:24.522333+00:00"
+  },
+  {
+   "tok": [
+    "advance",
+    "data",
+    "faces",
+    "fresh",
+    "from",
+    "gold",
+    "labor",
+    "monday",
+    "test"
+   ],
+   "ts": "2026-11-03T16:19:11.389938+00:00"
   }
  ]
 }
