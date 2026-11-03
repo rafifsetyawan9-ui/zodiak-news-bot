@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 10
+  "2026-11-03": 12
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -21,6 +21,7 @@
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
+  "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
@@ -53,6 +54,7 @@
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
+  "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797": "2026-11-02T23:09:28.720358+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
   "https://www.investing.com/news/commodities-news/opec-set-to-hold-december-oil-output-steady-4989332": "2026-10-31T21:27:16.831411+00:00",
@@ -649,6 +651,39 @@
     "war"
    ],
    "ts": "2026-11-03T00:14:51.515201+00:00"
+  },
+  {
+   "tok": [
+    "attack",
+    "confirm",
+    "down",
+    "more",
+    "officials",
+    "plays",
+    "qeshm",
+    "risk",
+    "strikes",
+    "trump",
+    "us",
+    "war"
+   ],
+   "ts": "2026-11-03T02:17:51.878280+00:00"
+  },
+  {
+   "tok": [
+    "950",
+    "ease",
+    "focus",
+    "gold",
+    "holds",
+    "hopes",
+    "iran",
+    "near",
+    "oil",
+    "peace",
+    "vote"
+   ],
+   "ts": "2026-11-03T02:17:51.878280+00:00"
   }
  ]
 }
