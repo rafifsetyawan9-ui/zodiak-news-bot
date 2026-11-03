@@ -1,12 +1,12 @@
 {
  "daily": {
-  "2026-10-28": 25,
   "2026-10-29": 25,
   "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 23
+  "2026-11-03": 23,
+  "2026-11-04": 3
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -14,6 +14,7 @@
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/boc-s-macklem-there-could-be-a-need-to-raise-the-policy-rate-further/": "2026-11-03T17:21:13.183284+00:00",
   "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/": "2026-11-03T04:58:19.980051+00:00",
@@ -39,7 +40,9 @@
   "https://investinglive.com/stocks/apple-bought-back-24-billion-of-stock-in-the-quarter-as-purchase-commitments-jump-33-billion/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/": "2026-11-03T15:24:24.522333+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
+  "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/": "2026-11-03T17:21:13.183284+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExXcnlyQUdkOEhPcEJ5ZlJKRC1TN0ZjWkhLRlYzSTQ4d21rNzNLd21mTWtBOWE4YXhWXzFKQmtibU1IaHZrN29fSnFnZXdvbFFYYkVxaGh1N29UcHRmbEcxRFNpcVR4WXZvb0k3XzB6bXBPd2RPYkY0OE1rYmlNQWp4Z3dlNFVSajZNeEhwVlJxRy1oX1lLZ1Z3bkFQOFhCMFloNnc2dG9zc0E?oc=5": "2026-11-02T14:48:14.262606+00:00",
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTJDUFBDalk3LWJGaDhYdXZ1TldYMlFKdTRhMzUzOC0zc21DSmtVSVhpWl9ZWmNweVVwaDBuUkdocmJtSWhnVkhYUllKUm1zWHFST0V2RG11UXNsczV1SHQyUS1IZm9SWlFELXpxenlyb2l4REdTNDJTOUszN1UxU3U3eEU4OGlfYXAzUDMwUzFkWUJuSExtMFdXU3d0dmlkV0JfckVVemRsUlQ5LXF6enB3?oc=5": "2026-11-03T17:21:13.183284+00:00",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFJrVGlmaVNZVmZJdHlMQ0twaVM2N0VUT3A1OEE1clNzbzd6eGFySzRZUjdHcWx0YXpCSVBveVlrYzVxbUpDYXRWdXZNT3A0a2NjSGsyb3IxMEthZ0ZQclZUUzB6OW1mbC1heXIxRkFWVmcxM1JFdTNUVVh6UlRXSnRSTDJCQ2NNUUNrRk82YUNjLWZRRnE2Q1RoYnlKUjZwX0FPTnV0dDRIWVhpdk9BTk5R?oc=5": "2026-11-02T21:05:52.935173+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFVJNkpwLUREcTZsczFTY1BWRkV3OWRyOHdKM3AtT3kyem92aUhVQzdCaDFSeFhFdlRjdWhLeHNFQkNNSGJIRWhrNkVkd0gxN2NieU1xN1VKaXBON1FyRGRtQ2lRMExBY2FDalg4UlVhd0hfWGEtVDE2WUNYc1BUcWxWRmNCeVhHWFJfZmxndVpqcWc2YUJNdmpmUmRGdUtua2JQSXpnWkpyMDVjNE9TQWxoNlRtSU0?oc=5": "2026-11-02T20:23:41.780180+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yekFiaVlpY0t1QllHd3hxZW5YNk0weU9CU0dqZ01YWHVXV01RWlluZUtFR080TzhLd3AyMFdpSlI0bzBQVFhmMVJuUE1ycUd4X0d1Wk5oaEJVU29kT2dVMUpUNlhNSlA4eHdKNnRSODM3Z3Z3aVAtTmNhUlBXSTBCNHFiR3Eya2dzYnQxM3ZsN3RaenZyb2s2Z18wUUphSWJOSEUwZU1DSEZQejhEZG5PMjFhYXM?oc=5": "2026-11-02T17:45:03.635176+00:00",
@@ -875,6 +878,54 @@
     "test"
    ],
    "ts": "2026-11-03T16:19:11.389938+00:00"
+  },
+  {
+   "tok": [
+    "against",
+    "bank",
+    "canada",
+    "fight",
+    "fiscal",
+    "head",
+    "hitting",
+    "inflation",
+    "kitco",
+    "not",
+    "policy"
+   ],
+   "ts": "2026-11-03T17:21:13.183284+00:00"
+  },
+  {
+   "tok": [
+    "100",
+    "against",
+    "but",
+    "buyers",
+    "cpi",
+    "day",
+    "falls",
+    "firmer",
+    "lean",
+    "ma",
+    "swiss",
+    "usdchf"
+   ],
+   "ts": "2026-11-03T17:21:13.183284+00:00"
+  },
+  {
+   "tok": [
+    "be",
+    "boc",
+    "could",
+    "further",
+    "macklem",
+    "need",
+    "policy",
+    "raise",
+    "rate",
+    "there"
+   ],
+   "ts": "2026-11-03T17:21:13.183284+00:00"
   }
  ]
 }
