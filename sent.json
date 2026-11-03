@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 21
+  "2026-11-03": 22
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -37,6 +37,7 @@
   "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
   "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
   "https://investinglive.com/stocks/apple-bought-back-24-billion-of-stock-in-the-quarter-as-purchase-commitments-jump-33-billion/": "2026-11-03T00:14:51.515201+00:00",
+  "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/": "2026-11-03T15:24:24.522333+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExXcnlyQUdkOEhPcEJ5ZlJKRC1TN0ZjWkhLRlYzSTQ4d21rNzNLd21mTWtBOWE4YXhWXzFKQmtibU1IaHZrN29fSnFnZXdvbFFYYkVxaGh1N29UcHRmbEcxRFNpcVR4WXZvb0k3XzB6bXBPd2RPYkY0OE1rYmlNQWp4Z3dlNFVSajZNeEhwVlJxRy1oX1lLZ1Z3bkFQOFhCMFloNnc2dG9zc0E?oc=5": "2026-11-02T14:48:14.262606+00:00",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFJrVGlmaVNZVmZJdHlMQ0twaVM2N0VUT3A1OEE1clNzbzd6eGFySzRZUjdHcWx0YXpCSVBveVlrYzVxbUpDYXRWdXZNT3A0a2NjSGsyb3IxMEthZ0ZQclZUUzB6OW1mbC1heXIxRkFWVmcxM1JFdTNUVVh6UlRXSnRSTDJCQ2NNUUNrRk82YUNjLWZRRnE2Q1RoYnlKUjZwX0FPTnV0dDRIWVhpdk9BTk5R?oc=5": "2026-11-02T21:05:52.935173+00:00",
@@ -843,6 +844,21 @@
     "unsettle"
    ],
    "ts": "2026-11-03T14:32:35.476174+00:00"
+  },
+  {
+   "tok": [
+    "election",
+    "frame",
+    "iran",
+    "kickstart",
+    "morning",
+    "rising",
+    "session",
+    "tensions",
+    "uncertainty",
+    "yields"
+   ],
+   "ts": "2026-11-03T15:24:24.522333+00:00"
   }
  ]
 }
