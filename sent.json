@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 19
+  "2026-11-03": 20
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -32,6 +32,7 @@
   "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
+  "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
   "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
@@ -804,6 +805,23 @@
     "us"
    ],
    "ts": "2026-11-03T09:44:13.776674+00:00"
+  },
+  {
+   "tok": [
+    "cautious",
+    "elections",
+    "european",
+    "focus",
+    "investinglive",
+    "markets",
+    "midterm",
+    "news",
+    "remain",
+    "shifts",
+    "us",
+    "wrap"
+   ],
+   "ts": "2026-11-03T13:33:51.393816+00:00"
   }
  ]
 }
