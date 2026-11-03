@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 15
+  "2026-11-03": 17
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -43,6 +43,7 @@
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTndKcXZ4VVA3WGVudkdINUVpOVhxSzd5eTFORm9jWXZYWGZ3d2dtN25jbUVpSUFnVWo0cmhITi1jR0pXM0RRYmhuMHUxXzVScEhWTG9GSHhPOUd6V053VUJFMFZJTDMwVUl5Um55TFFxbXlsTi1qQ1ZnQWVCdWlQOEdhUG9jdXNUY2RNZkdacTVTUDF0S3N0bHhsaVdRX0FrRWxianE3TFJrVXJLQ2hzaXI1aWdpTU0?oc=5": "2026-11-02T22:29:14.369092+00:00",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVVDY0NacWhMck8tb1Nwa0x1WUpHSk4xV0NVNjVZMW5KNEg5XzNYTmpEd2wzV3hqQ1F3cnlmREV1SVdsNlBqTTY0cHBBa2JXa0JQTWNnQmJUSGlfMVFmZUl3VWljOEQ0UmlFaHRnbTE3MVlzb0pMRmNMTTdHOUpDeW9DR0t4LUt4TDlTNnpmQmg0VTE5a1FBU0xOSzRoY1dTQ0lsMkNvczBIcE5ENElxMDBQVjR0N1ZoaFE?oc=5": "2026-11-02T14:48:14.262606+00:00",
   "https://www.fxempire.com/forecasts/article/boj-interest-rate-forecast-inflation-keeps-another-hike-in-play-1641770": "2026-11-01T11:02:58.583448+00:00",
+  "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
@@ -56,6 +57,7 @@
   "https://www.fxempire.com/forecasts/article/silver-easier-real-yields-meet-a-modest-industrial-recovery-1641959": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-stocks-rebound-as-oil-drops-ahead-of-apple-earnings-and-tuesdays-midterms-1642020": "2026-11-02T19:33:59.118133+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": "2026-11-02T18:35:44.066038+00:00",
+  "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
@@ -738,6 +740,37 @@
     "xauusd"
    ],
    "ts": "2026-11-03T06:46:17.891931+00:00"
+  },
+  {
+   "tok": [
+    "101",
+    "54",
+    "dollar",
+    "dxy",
+    "eur",
+    "face",
+    "forecast",
+    "gbp",
+    "holds",
+    "midterms",
+    "price",
+    "us",
+    "usd"
+   ],
+   "ts": "2026-11-03T07:59:21.632482+00:00"
+  },
+  {
+   "tok": [
+    "brent",
+    "diplomacy",
+    "drops",
+    "oil",
+    "prices",
+    "reports",
+    "sharply",
+    "weigh"
+   ],
+   "ts": "2026-11-03T07:59:21.632482+00:00"
   }
  ]
 }
