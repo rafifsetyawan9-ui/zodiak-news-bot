@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 14
+  "2026-11-03": 15
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -49,6 +49,7 @@
   "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893": "2026-11-02T16:49:57.322826+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847": "2026-11-02T07:59:42.357991+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120": "2026-11-03T06:46:17.891931+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-iran-talks-drag-on-and-opec-holds-steady-can-wti-hold-99-61-1641842": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
   "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-dax-sp-500-eur-usd-usd-jpy-1641947": "2026-11-02T14:48:14.262606+00:00",
@@ -721,6 +722,22 @@
     "year"
    ],
    "ts": "2026-11-03T05:45:30.823682+00:00"
+  },
+  {
+   "tok": [
+    "975",
+    "can",
+    "focus",
+    "forecast",
+    "gold",
+    "midterms",
+    "price",
+    "reclaim",
+    "silver",
+    "us",
+    "xauusd"
+   ],
+   "ts": "2026-11-03T06:46:17.891931+00:00"
   }
  ]
 }
