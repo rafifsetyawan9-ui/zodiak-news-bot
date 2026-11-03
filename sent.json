@@ -6,7 +6,7 @@
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
-  "2026-11-03": 13
+  "2026-11-03": 14
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -17,6 +17,7 @@
   "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/": "2026-11-03T04:58:19.980051+00:00",
+  "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/commodities/cia-chief-ratcliffe-reportedly-advises-trump-to-keep-no-war-no-deal-pressure-on-iran/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
@@ -30,6 +31,7 @@
   "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/": "2026-11-02T10:45:25.255662+00:00",
   "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
+  "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
   "https://investinglive.com/stocks/apple-bought-back-24-billion-of-stock-in-the-quarter-as-purchase-commitments-jump-33-billion/": "2026-11-03T00:14:51.515201+00:00",
@@ -704,6 +706,21 @@
     "vote"
    ],
    "ts": "2026-11-03T04:58:19.980051+00:00"
+  },
+  {
+   "tok": [
+    "18",
+    "asia",
+    "high",
+    "hikes",
+    "investinglive",
+    "market",
+    "news",
+    "pacific",
+    "rba",
+    "year"
+   ],
+   "ts": "2026-11-03T05:45:30.823682+00:00"
   }
  ]
 }
