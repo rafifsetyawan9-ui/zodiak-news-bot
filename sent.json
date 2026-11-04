@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 13
+  "2026-11-04": 14
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -31,6 +31,7 @@
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
+  "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/": "2026-11-04T02:28:09.267019+00:00",
   "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
   "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/": "2026-11-03T23:13:33.510724+00:00",
   "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/": "2026-11-02T10:45:25.255662+00:00",
@@ -46,6 +47,7 @@
   "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/": "2026-11-03T15:24:24.522333+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
   "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/": "2026-11-03T17:21:13.183284+00:00",
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5": "2026-11-04T02:28:09.267019+00:00",
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QYjY2Q0l0dVl3X2txTTJoMmhhQURWd3BHN185NnpLMF92UkNwcTQwdUFkdkZSR19idzEtZFczbVI0QXRfa2NJY3pBd3RXelZIUmJ3cGhuUmNmZlJtY0hMdnpTOGF3Wnc3TnNSNHZvd09hRDI3UW05N0xFUXJuQQ?oc=5": "2026-11-03T21:55:36.696797+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjNSajh0dnREOE9TYmJxZFlPeXd5S21WS01ocDRYa2o4LTlYVGZzYmMyLWJxcEdFUS16TFlXQk5QVDUyVDVFdnhiX3lrWVBDSHl0cWw2ME45ckI0VWhPcXNPaEo3ZVFibHdzTU0zZ0Y5c1dJSy0wOUxHVzM5X1Z5Uks0Z1kxR0RqSGE5ZUd0UU5YTkFo?oc=5": "2026-11-04T00:30:36.103762+00:00",
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05OSWN1OWE1anVlODZDRHNzMnBYckQ4VlBublZzX1llSkpwNFA0M3BZNmxycHhuZktfbnVwTV9MQU8tbmU4LUE1SV9DSlF2NHdkUG1SaF92c0VzWGh3OTQyMV9ORzNxaG9PdW5mLWh5LW02ZTNDT0NiY3dhTloyS3B6WHJ6LU83NWU3UFFNYlNwdU5sT0E?oc=5": "2026-11-03T22:28:47.689295+00:00",
@@ -1105,6 +1107,22 @@
     "than"
    ],
    "ts": "2026-11-04T00:30:36.103762+00:00"
+  },
+  {
+   "tok": [
+    "blue",
+    "from",
+    "massive",
+    "other",
+    "sell",
+    "signals",
+    "tech",
+    "that",
+    "unfolding",
+    "usd",
+    "wave"
+   ],
+   "ts": "2026-11-04T02:28:09.267019+00:00"
   }
  ]
 }
