@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 15
+  "2026-11-04": 16
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -67,6 +67,7 @@
   "https://www.fxempire.com/forecasts/article/boj-interest-rate-forecast-inflation-keeps-another-hike-in-play-1641770": "2026-11-01T11:02:58.583448+00:00",
   "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/gold-mondays-advance-faces-a-fresh-test-from-u-s-labor-data-1642243": "2026-11-03T16:19:11.389938+00:00",
@@ -1142,6 +1143,18 @@
     "us"
    ],
    "ts": "2026-11-04T03:19:10.991286+00:00"
+  },
+  {
+   "tok": [
+    "continues",
+    "data",
+    "forecast",
+    "gold",
+    "jobs",
+    "pressure",
+    "silver"
+   ],
+   "ts": "2026-11-04T04:21:13.997750+00:00"
   }
  ]
 }
