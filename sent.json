@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 21
+  "2026-11-04": 22
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -31,6 +31,7 @@
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
+  "https://investinglive.com/cryptocurrency/bitcoin-whipsaws-after-democrats-victory-as-lower-treasury-yields-and-us-dollar-provide-support/": "2026-11-04T10:46:49.827350+00:00",
   "https://investinglive.com/education/macro-pulse-what-if-good-news-for-stocks-turns-into-bad-news-for-the-bond-market/": "2026-11-04T09:34:30.929735+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
   "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/": "2026-11-04T02:28:09.267019+00:00",
@@ -66,6 +67,7 @@
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR19GNG5scmJ3NVFKWjN6MkhNU0xvUU45SDFzdUs4X2wzRE5YMk13cHNsODh5NkprUy1GdDd2UllrdzVtSm5ERHNiX0hNejVLdkNrQjhGWk9rUHlwN0Utd283WExhVUxoOTdoTTNSaWtyZTZfNl94QXlpSzdhby11NDBPaklDSTdKQzBPRk0wVDFoTDJnaU50ckRQalVBc0NpTFRJbklUOE5KVV9RTHAtTGF3MVAxZDE5SVFiYg?oc=5": "2026-11-03T23:13:33.510724+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVUtNUJKOGVlQ2J1ZnlCdmROMl9NZzdFc3lNNnJpSm1sVTY4T3ZwTHNPNnNXNm1xWUVpN0owWFFvcEtPUU1NcHBab0Y3cHAxRkJablEybkxISlNMZ2NQU09lS2JhZU4yWEs3NUczRXVOend4X2dGSE5JZ3dsVFkzdWI4c2Z6YnFOMktqclhRaVJhcTNOazd1aDJmUnFBcGNNdk9XQTZHUUplelZDc01oMVdmQXZYdThKQUdiYTVn?oc=5": "2026-11-03T18:09:45.528691+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5": "2026-11-03T14:32:35.476174+00:00",
+  "https://www.fxempire.com/forecasts/article/australias-housing-slump-and-higher-interest-rates-what-does-it-mean-for-the-australian-dollar-1642423": "2026-11-04T10:46:49.827350+00:00",
   "https://www.fxempire.com/forecasts/article/boj-interest-rate-forecast-inflation-keeps-another-hike-in-play-1641770": "2026-11-01T11:02:58.583448+00:00",
   "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
@@ -99,7 +101,6 @@
   "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079": "2026-11-04T07:43:43.685316+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342": "2026-11-03T12:17:14.160208+00:00",
   "https://www.investing.com/news/commodities-news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war-4989784": "2026-11-01T23:55:51.388200+00:00",
-  "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-targets-steady-sources-say-4989496": "2026-11-01T09:49:18.285315+00:00",
   "https://www.investing.com/news/forex-news/german-yields-hover-near-august-lows-on-tech-rout-4993710": "2026-11-03T14:32:35.476174+00:00",
   "https://www.investing.com/news/forex-news/german-yields-steady-as-us-midterm-shifts-and-eurozone-cpi-loom-4997605": "2026-11-04T09:34:30.929735+00:00",
   "https://www.investing.com/news/forex-news/if-gold-breaks-lower-investors-may-look-at-these-safe-haven-currencies-analyst-4991012": "2026-11-02T12:34:02.122013+00:00",
@@ -1240,6 +1241,22 @@
     "what"
    ],
    "ts": "2026-11-04T09:34:30.929735+00:00"
+  },
+  {
+   "tok": [
+    "bitcoin",
+    "democrats",
+    "dollar",
+    "lower",
+    "provide",
+    "support",
+    "treasury",
+    "us",
+    "victory",
+    "whipsaws",
+    "yields"
+   ],
+   "ts": "2026-11-04T10:46:49.827350+00:00"
   }
  ]
 }
