@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 10
+  "2026-11-05": 11
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -25,6 +25,7 @@
   "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/": "2026-11-03T04:58:19.980051+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/commodities/cia-chief-ratcliffe-reportedly-advises-trump-to-keep-no-war-no-deal-pressure-on-iran/": "2026-11-03T00:14:51.515201+00:00",
+  "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/": "2026-11-04T23:30:52.938929+00:00",
   "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
   "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
@@ -37,7 +38,6 @@
   "https://investinglive.com/cryptocurrency/bitcoin-whipsaws-after-democrats-victory-as-lower-treasury-yields-and-us-dollar-provide-support/": "2026-11-04T10:46:49.827350+00:00",
   "https://investinglive.com/education/macro-pulse-what-if-good-news-for-stocks-turns-into-bad-news-for-the-bond-market/": "2026-11-04T09:34:30.929735+00:00",
   "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/": "2026-11-04T02:28:09.267019+00:00",
-  "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/": "2026-11-01T23:23:07.307750+00:00",
   "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/": "2026-11-03T23:13:33.510724+00:00",
   "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/": "2026-11-04T17:31:30.395776+00:00",
   "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/": "2026-11-04T11:44:24.381115+00:00",
@@ -120,22 +120,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "2024",
-    "49",
-    "australia",
-    "drop",
-    "factory",
-    "fastest",
-    "orders",
-    "pace",
-    "pmi",
-    "since",
-    "stuck"
-   ],
-   "ts": "2026-11-01T23:23:07.307750+00:00"
-  },
   {
    "tok": [
     "continue",
@@ -1414,6 +1398,23 @@
     "xau"
    ],
    "ts": "2026-11-04T22:52:35.103452+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "citi",
+    "could",
+    "cuts",
+    "fed",
+    "flip",
+    "from",
+    "gold",
+    "hikes",
+    "hormuz",
+    "reopening",
+    "targets"
+   ],
+   "ts": "2026-11-04T23:30:52.938929+00:00"
   }
  ]
 }
