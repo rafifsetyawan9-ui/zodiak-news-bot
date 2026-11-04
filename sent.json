@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 2
+  "2026-11-05": 5
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -42,6 +42,7 @@
   "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/": "2026-11-02T10:45:25.255662+00:00",
   "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
+  "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
@@ -83,9 +84,11 @@
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355": "2026-11-03T23:13:33.510724+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282": "2026-11-03T18:09:45.528691+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120": "2026-11-03T06:46:17.891931+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-iran-talks-drag-on-and-opec-holds-steady-can-wti-hold-99-61-1641842": "2026-11-02T07:59:42.357991+00:00",
+  "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-dives-10-as-schumer-says-democrats-would-end-the-war-in-iran-1642572": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
   "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
@@ -1305,6 +1308,57 @@
     "weekly"
    ],
    "ts": "2026-11-04T17:31:30.395776+00:00"
+  },
+  {
+   "tok": [
+    "democrats",
+    "elections",
+    "forecasts",
+    "gold",
+    "midterm",
+    "platinum",
+    "silver",
+    "soars",
+    "victory",
+    "xauusd"
+   ],
+   "ts": "2026-11-04T19:39:19.966413+00:00"
+  },
+  {
+   "tok": [
+    "10",
+    "brent",
+    "democrats",
+    "dives",
+    "end",
+    "forecasts",
+    "gas",
+    "iran",
+    "natural",
+    "oil",
+    "schumer",
+    "war",
+    "would",
+    "wti"
+   ],
+   "ts": "2026-11-04T19:39:19.966413+00:00"
+  },
+  {
+   "tok": [
+    "bill",
+    "democratic",
+    "end",
+    "house",
+    "iran",
+    "jeffries",
+    "leader",
+    "pass",
+    "stop",
+    "tariffs",
+    "war",
+    "will"
+   ],
+   "ts": "2026-11-04T19:39:19.966413+00:00"
   }
  ]
 }
