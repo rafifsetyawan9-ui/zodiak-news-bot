@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 9
+  "2026-11-05": 10
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -52,7 +52,6 @@
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/": "2026-11-03T22:28:47.689295+00:00",
   "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
-  "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/": "2026-11-01T22:46:35.112090+00:00",
   "https://investinglive.com/stocks/apple-bought-back-24-billion-of-stock-in-the-quarter-as-purchase-commitments-jump-33-billion/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/": "2026-11-03T15:24:24.522333+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
@@ -85,6 +84,7 @@
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136": "2026-11-03T09:44:13.776674+00:00",
   "https://www.fxempire.com/forecasts/article/gold-rebounds-but-i-remain-wary-ahead-of-fridays-jobs-report-1642534": "2026-11-04T17:31:30.395776+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355": "2026-11-03T23:13:33.510724+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-post-election-rally-tests-critical-resistance-1642618": "2026-11-04T22:52:35.103452+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282": "2026-11-03T18:09:45.528691+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": "2026-11-04T19:39:19.966413+00:00",
@@ -120,21 +120,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "before",
-    "canada",
-    "concept",
-    "days",
-    "deal",
-    "have",
-    "midterms",
-    "trump",
-    "two",
-    "us"
-   ],
-   "ts": "2026-11-01T22:46:35.112090+00:00"
-  },
   {
    "tok": [
     "2024",
@@ -1413,6 +1398,22 @@
     "we"
    ],
    "ts": "2026-11-04T22:10:51.514521+00:00"
+  },
+  {
+   "tok": [
+    "critical",
+    "election",
+    "forecast",
+    "gold",
+    "post",
+    "price",
+    "rally",
+    "resistance",
+    "tests",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-11-04T22:52:35.103452+00:00"
   }
  ]
 }
