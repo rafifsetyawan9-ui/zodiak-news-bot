@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 12
+  "2026-11-04": 13
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -46,6 +46,7 @@
   "https://investinglive.com/technical-analysis/morning-kickstart-oil-tumbles-as-iran-talks-continue-usd-mixed-ahead-of-ism/": "2026-11-02T14:48:14.262606+00:00",
   "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/": "2026-11-03T17:21:13.183284+00:00",
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QYjY2Q0l0dVl3X2txTTJoMmhhQURWd3BHN185NnpLMF92UkNwcTQwdUFkdkZSR19idzEtZFczbVI0QXRfa2NJY3pBd3RXelZIUmJ3cGhuUmNmZlJtY0hMdnpTOGF3Wnc3TnNSNHZvd09hRDI3UW05N0xFUXJuQQ?oc=5": "2026-11-03T21:55:36.696797+00:00",
+  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjNSajh0dnREOE9TYmJxZFlPeXd5S21WS01ocDRYa2o4LTlYVGZzYmMyLWJxcEdFUS16TFlXQk5QVDUyVDVFdnhiX3lrWVBDSHl0cWw2ME45ckI0VWhPcXNPaEo3ZVFibHdzTU0zZ0Y5c1dJSy0wOUxHVzM5X1Z5Uks0Z1kxR0RqSGE5ZUd0UU5YTkFo?oc=5": "2026-11-04T00:30:36.103762+00:00",
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05OSWN1OWE1anVlODZDRHNzMnBYckQ4VlBublZzX1llSkpwNFA0M3BZNmxycHhuZktfbnVwTV9MQU8tbmU4LUE1SV9DSlF2NHdkUG1SaF92c0VzWGh3OTQyMV9ORzNxaG9PdW5mLWh5LW02ZTNDT0NiY3dhTloyS3B6WHJ6LU83NWU3UFFNYlNwdU5sT0E?oc=5": "2026-11-03T22:28:47.689295+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRExXcnlyQUdkOEhPcEJ5ZlJKRC1TN0ZjWkhLRlYzSTQ4d21rNzNLd21mTWtBOWE4YXhWXzFKQmtibU1IaHZrN29fSnFnZXdvbFFYYkVxaGh1N29UcHRmbEcxRFNpcVR4WXZvb0k3XzB6bXBPd2RPYkY0OE1rYmlNQWp4Z3dlNFVSajZNeEhwVlJxRy1oX1lLZ1Z3bkFQOFhCMFloNnc2dG9zc0E?oc=5": "2026-11-02T14:48:14.262606+00:00",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTJDUFBDalk3LWJGaDhYdXZ1TldYMlFKdTRhMzUzOC0zc21DSmtVSVhpWl9ZWmNweVVwaDBuUkdocmJtSWhnVkhYUllKUm1zWHFST0V2RG11UXNsczV1SHQyUS1IZm9SWlFELXpxenlyb2l4REdTNDJTOUszN1UxU3U3eEU4OGlfYXAzUDMwUzFkWUJuSExtMFdXU3d0dmlkV0JfckVVemRsUlQ5LXF6enB3?oc=5": "2026-11-03T17:21:13.183284+00:00",
@@ -1088,6 +1089,21 @@
     "washington"
    ],
    "ts": "2026-11-03T23:13:33.510724+00:00"
+  },
+  {
+   "tok": [
+    "could",
+    "elections",
+    "far",
+    "gold",
+    "kitco",
+    "midterm",
+    "more",
+    "move",
+    "silver",
+    "than"
+   ],
+   "ts": "2026-11-04T00:30:36.103762+00:00"
   }
  ]
 }
