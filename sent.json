@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 14
+  "2026-11-04": 15
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -29,6 +29,7 @@
   "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
+  "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/education/what-protects-japan-s-economy-and-what-does-it-mean-for-the-yen/": "2026-11-01T17:13:51.413164+00:00",
   "https://investinglive.com/forex/sell-tech-sell-usd-and-other-signals-from-the-massive-blue-wave-that-s-unfolding/": "2026-11-04T02:28:09.267019+00:00",
@@ -1123,6 +1124,24 @@
     "wave"
    ],
    "ts": "2026-11-04T02:28:09.267019+00:00"
+  },
+  {
+   "tok": [
+    "deal",
+    "demands",
+    "far",
+    "hormuz",
+    "iran",
+    "met",
+    "off",
+    "remains",
+    "shut",
+    "stays",
+    "until",
+    "update",
+    "us"
+   ],
+   "ts": "2026-11-04T03:19:10.991286+00:00"
   }
  ]
 }
