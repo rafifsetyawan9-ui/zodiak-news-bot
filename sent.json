@@ -6,7 +6,7 @@
   "2026-11-01": 1,
   "2026-11-02": 25,
   "2026-11-03": 23,
-  "2026-11-04": 16
+  "2026-11-04": 17
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -88,6 +88,7 @@
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
+  "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797": "2026-11-02T23:09:28.720358+00:00",
   "https://www.investing.com/news/commodities-news/gulf-oil-flows-dip-in-october-from-postiran-war-high-data-shows-4995807": "2026-11-03T16:19:11.389938+00:00",
@@ -1155,6 +1156,20 @@
     "silver"
    ],
    "ts": "2026-11-04T04:21:13.997750+00:00"
+  },
+  {
+   "tok": [
+    "975",
+    "above",
+    "diplomacy",
+    "dollar",
+    "focus",
+    "gold",
+    "iran",
+    "jumps",
+    "retreats"
+   ],
+   "ts": "2026-11-04T06:22:19.640953+00:00"
   }
  ]
 }
