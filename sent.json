@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 5
+  "2026-11-05": 7
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -25,6 +25,7 @@
   "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/commodities/cia-chief-ratcliffe-reportedly-advises-trump-to-keep-no-war-no-deal-pressure-on-iran/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
+  "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
@@ -73,6 +74,7 @@
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5": "2026-11-03T14:32:35.476174+00:00",
   "https://www.fxempire.com/forecasts/article/australias-housing-slump-and-higher-interest-rates-what-does-it-mean-for-the-australian-dollar-1642423": "2026-11-04T10:46:49.827350+00:00",
   "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
+  "https://www.fxempire.com/forecasts/article/dow-jones-forecast-stocks-surge-on-gridlock-bets-as-oil-prices-retreat-1642601": "2026-11-04T20:28:23.688642+00:00",
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
@@ -1359,6 +1361,40 @@
     "will"
    ],
    "ts": "2026-11-04T19:39:19.966413+00:00"
+  },
+  {
+   "tok": [
+    "also",
+    "buyers",
+    "clue",
+    "from",
+    "giving",
+    "gold",
+    "it",
+    "lower",
+    "moving",
+    "push",
+    "taking",
+    "technicals",
+    "usd",
+    "yields"
+   ],
+   "ts": "2026-11-04T20:28:23.688642+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "dow",
+    "forecast",
+    "gridlock",
+    "jones",
+    "oil",
+    "prices",
+    "retreat",
+    "stocks",
+    "surge"
+   ],
+   "ts": "2026-11-04T20:28:23.688642+00:00"
   }
  ]
 }
