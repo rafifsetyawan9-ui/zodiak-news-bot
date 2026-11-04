@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 8
+  "2026-11-05": 9
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -20,6 +20,7 @@
   "https://investinglive.com/central-banks/boc-s-macklem-there-could-be-a-need-to-raise-the-policy-rate-further/": "2026-11-03T17:21:13.183284+00:00",
   "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/central-banks/ecb-s-nagel-says-a-december-rate-hike-is-very-likely-to-be-necessary/": "2026-11-03T19:41:20.999848+00:00",
+  "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/": "2026-11-04T22:10:51.514521+00:00",
   "https://investinglive.com/central-banks/market-playbook-can-the-rba-surprise-markets-again-and-give-aud-usd-another-reason-to-rally/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/": "2026-11-03T04:58:19.980051+00:00",
   "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/": "2026-11-03T05:45:30.823682+00:00",
@@ -29,7 +30,6 @@
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
-  "https://investinglive.com/commodities/iran-says-two-tankers-hit-mines-in-hormuz-as-tehran-offers-two-day-reopening-plan/": "2026-11-01T21:41:01.164139+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
   "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
@@ -120,22 +120,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "day",
-    "hit",
-    "hormuz",
-    "iran",
-    "mines",
-    "offers",
-    "plan",
-    "reopening",
-    "tankers",
-    "tehran",
-    "two"
-   ],
-   "ts": "2026-11-01T21:41:01.164139+00:00"
-  },
   {
    "tok": [
     "before",
@@ -1412,6 +1396,23 @@
     "wrap"
    ],
    "ts": "2026-11-04T21:16:14.654448+00:00"
+  },
+  {
+   "tok": [
+    "2026",
+    "asia",
+    "bank",
+    "calendar",
+    "economic",
+    "event",
+    "from",
+    "hear",
+    "japan",
+    "november",
+    "thursday",
+    "we"
+   ],
+   "ts": "2026-11-04T22:10:51.514521+00:00"
   }
  ]
 }
