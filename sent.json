@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 7
+  "2026-11-05": 8
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -45,6 +45,7 @@
   "https://investinglive.com/news/germany-retail-sales-slump-in-september-as-consumer-weakness-adds-to-ecb-s-headache/": "2026-11-02T08:55:38.902744+00:00",
   "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
+  "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/": "2026-11-04T21:16:14.654448+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
@@ -1395,6 +1396,22 @@
     "surge"
    ],
    "ts": "2026-11-04T20:28:23.688642+00:00"
+  },
+  {
+   "tok": [
+    "americas",
+    "blame",
+    "crushed",
+    "investinglive",
+    "loss",
+    "market",
+    "news",
+    "oil",
+    "republicans",
+    "war",
+    "wrap"
+   ],
+   "ts": "2026-11-04T21:16:14.654448+00:00"
   }
  ]
 }
