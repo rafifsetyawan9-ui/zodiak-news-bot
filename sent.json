@@ -81,9 +81,7 @@
   "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-stocks-surge-on-gridlock-bets-as-oil-prices-retreat-1642601": "2026-11-04T20:28:23.688642+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/gold-mondays-advance-faces-a-fresh-test-from-u-s-labor-data-1642243": "2026-11-03T16:19:11.389938+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893": "2026-11-02T16:49:57.322826+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136": "2026-11-03T09:44:13.776674+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-us-iran-peace-hopes-fuel-rally-as-oil-plunges-1642652": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/gold-rebounds-but-i-remain-wary-ahead-of-fridays-jobs-report-1642534": "2026-11-04T17:31:30.395776+00:00",
@@ -99,7 +97,6 @@
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
   "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-plunge-after-us-midterm-elections-1642627": "2026-11-05T03:29:13.365169+00:00",
-  "https://www.fxempire.com/forecasts/article/silver-easier-real-yields-meet-a-modest-industrial-recovery-1641959": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/sp-500-and-dow-jones-rally-after-us-midterm-results-nasdaq-100-lags-1642661": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-stocks-rebound-as-oil-drops-ahead-of-apple-earnings-and-tuesdays-midterms-1642020": "2026-11-02T19:33:59.118133+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": "2026-11-02T18:35:44.066038+00:00",
@@ -107,7 +104,6 @@
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-180-as-eur-usd-gbp-usd-rise-on-election-results-1642389": "2026-11-04T07:43:43.685316+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
-  "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
   "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012": "2026-11-05T02:34:05.449439+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
@@ -124,61 +120,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "brent",
-    "draws",
-    "inventory",
-    "meet",
-    "opec",
-    "policy",
-    "unchanged",
-    "wti"
-   ],
-   "ts": "2026-11-02T15:46:28.691117+00:00"
-  },
-  {
-   "tok": [
-    "easier",
-    "industrial",
-    "meet",
-    "modest",
-    "real",
-    "recovery",
-    "silver",
-    "yields"
-   ],
-   "ts": "2026-11-02T15:46:28.691117+00:00"
-  },
-  {
-   "tok": [
-    "before",
-    "employment",
-    "gold",
-    "lower",
-    "offer",
-    "real",
-    "support",
-    "test",
-    "yields"
-   ],
-   "ts": "2026-11-02T15:46:28.691117+00:00"
-  },
-  {
-   "tok": [
-    "expectations",
-    "fed",
-    "gold",
-    "hike",
-    "news",
-    "oil",
-    "plunge",
-    "pressures",
-    "rebounds",
-    "xauusd"
-   ],
-   "ts": "2026-11-02T16:49:57.322826+00:00"
-  },
   {
    "tok": [
     "2027",
