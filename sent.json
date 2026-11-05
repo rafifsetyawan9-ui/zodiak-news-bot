@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 18
+  "2026-11-05": 20
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -38,6 +38,7 @@
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
+  "https://investinglive.com/commodities/oil-prices-plunge-after-us-midterms-as-wti-crude-faces-a-critical-technical-test/": "2026-11-05T06:25:54.056087+00:00",
   "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/cryptocurrency/bitcoin-whipsaws-after-democrats-victory-as-lower-treasury-yields-and-us-dollar-provide-support/": "2026-11-04T10:46:49.827350+00:00",
@@ -51,6 +52,7 @@
   "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/": "2026-11-04T21:16:14.654448+00:00",
+  "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/": "2026-11-05T06:25:54.056087+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
@@ -1473,6 +1475,36 @@
     "wti"
    ],
    "ts": "2026-11-05T03:29:13.365169+00:00"
+  },
+  {
+   "tok": [
+    "asia",
+    "gold",
+    "higher",
+    "investinglive",
+    "market",
+    "news",
+    "pacific",
+    "rocketed",
+    "still"
+   ],
+   "ts": "2026-11-05T06:25:54.056087+00:00"
+  },
+  {
+   "tok": [
+    "critical",
+    "crude",
+    "faces",
+    "midterms",
+    "oil",
+    "plunge",
+    "prices",
+    "technical",
+    "test",
+    "us",
+    "wti"
+   ],
+   "ts": "2026-11-05T06:25:54.056087+00:00"
   }
  ]
 }
