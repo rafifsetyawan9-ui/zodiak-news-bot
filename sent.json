@@ -1,6 +1,5 @@
 {
  "daily": {
-  "2026-10-30": 25,
   "2026-10-31": 17,
   "2026-11-01": 1,
   "2026-11-02": 25,
@@ -11,6 +10,7 @@
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
+  "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/": 1,
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/": 1,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXFKdjcxbE5HRk95QzZvRUVhZmVRaWhCMVV2bG5GNWhWMzZWNFZROENmTnhlOG1IdXNKSE1GNVdPSllLZDFzY1lkblVFTUpsNlVGYVpBb09JQ3BPcDZVY09vempTaW84Zms0b1RpdG9yOXhMeGs2M1pqMV9pV1FhaVU2NEdSUmlWUThYaXkxZW1oNjQ5c0lqdDVVNUNGY19WcGtpOXdXcDR1Zi1EUU5z?oc=5": 1,
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXFiWE5sMHpSWTZBdVpnb0F4X3IyQTlKS2V2bzl5anpxTTJxYjFCeEFlM3hFeldYd3RHNFVfaHJ6WXpUeFFraVdYaklEYVlMajlHWF92WGEtMUpkYWpnYzRqdUJEOWRGRUotdlpkVmhUdGl0eS11MmMwcENSWVN5WTU4U1J5Z3g4WDkydmpuYjBqc2F2eGx1eFlXcHV6WTBWOVdpVGxkQk53a0c1SE13N1EwMUQ3WnRPc20w?oc=5": 3,
@@ -36,7 +36,6 @@
   "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
   "https://investinglive.com/commodities/gold-jumps-as-oil-slumps-on-iran-diplomacy-hopes-an-early-test-of-citi-s-thesis/": "2026-11-05T03:29:13.365169+00:00",
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
-  "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
   "https://investinglive.com/commodities/oil-prices-plunge-after-us-midterms-as-wti-crude-faces-a-critical-technical-test/": "2026-11-05T06:25:54.056087+00:00",
   "https://investinglive.com/commodities/oil-prices-tumble-as-republicans-midterm-loss-sparks-bets-on-iran-war-exit-trump-still-has-the-final-say/": "2026-11-05T11:43:59.233767+00:00",
@@ -67,9 +66,6 @@
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05OSWN1OWE1anVlODZDRHNzMnBYckQ4VlBublZzX1llSkpwNFA0M3BZNmxycHhuZktfbnVwTV9MQU8tbmU4LUE1SV9DSlF2NHdkUG1SaF92c0VzWGh3OTQyMV9ORzNxaG9PdW5mLWh5LW02ZTNDT0NiY3dhTloyS3B6WHJ6LU83NWU3UFFNYlNwdU5sT0E?oc=5": "2026-11-03T22:28:47.689295+00:00",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTVLZkxYVUdZRGVjb0F6dDg1MnpUcWNPdktvWVBiSC1qUFJUMkQ3TTNaWlNCUExESFVaNlVlaDZaN0xRZ3ZPbHBjSnFrd2tDemV5NWc4SWtYaGt3eVJ5N0JZbE9lcTFTS3V5V1J0d0plU2JlTUJqRnoxVWphU2R5SEpxNWlQelE5YWtvV0x3bXZHNGhKRXR2U3YwYzBWYm5saE9EUmZDLUVyX0dkQlVpOQ?oc=5": "2026-11-05T00:20:38.982010+00:00",
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTJDUFBDalk3LWJGaDhYdXZ1TldYMlFKdTRhMzUzOC0zc21DSmtVSVhpWl9ZWmNweVVwaDBuUkdocmJtSWhnVkhYUllKUm1zWHFST0V2RG11UXNsczV1SHQyUS1IZm9SWlFELXpxenlyb2l4REdTNDJTOUszN1UxU3U3eEU4OGlfYXAzUDMwUzFkWUJuSExtMFdXU3d0dmlkV0JfckVVemRsUlQ5LXF6enB3?oc=5": "2026-11-03T17:21:13.183284+00:00",
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFJrVGlmaVNZVmZJdHlMQ0twaVM2N0VUT3A1OEE1clNzbzd6eGFySzRZUjdHcWx0YXpCSVBveVlrYzVxbUpDYXRWdXZNT3A0a2NjSGsyb3IxMEthZ0ZQclZUUzB6OW1mbC1heXIxRkFWVmcxM1JFdTNUVVh6UlRXSnRSTDJCQ2NNUUNrRk82YUNjLWZRRnE2Q1RoYnlKUjZwX0FPTnV0dDRIWVhpdk9BTk5R?oc=5": "2026-11-02T21:05:52.935173+00:00",
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFVJNkpwLUREcTZsczFTY1BWRkV3OWRyOHdKM3AtT3kyem92aUhVQzdCaDFSeFhFdlRjdWhLeHNFQkNNSGJIRWhrNkVkd0gxN2NieU1xN1VKaXBON1FyRGRtQ2lRMExBY2FDalg4UlVhd0hfWGEtVDE2WUNYc1BUcWxWRmNCeVhHWFJfZmxndVpqcWc2YUJNdmpmUmRGdUtua2JQSXpnWkpyMDVjNE9TQWxoNlRtSU0?oc=5": "2026-11-02T20:23:41.780180+00:00",
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yekFiaVlpY0t1QllHd3hxZW5YNk0weU9CU0dqZ01YWHVXV01RWlluZUtFR080TzhLd3AyMFdpSlI0bzBQVFhmMVJuUE1ycUd4X0d1Wk5oaEJVU29kT2dVMUpUNlhNSlA4eHdKNnRSODM3Z3Z3aVAtTmNhUlBXSTBCNHFiR3Eya2dzYnQxM3ZsN3RaenZyb2s2Z18wUUphSWJOSEUwZU1DSEZQejhEZG5PMjFhYXM?oc=5": "2026-11-02T17:45:03.635176+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFBGa1V2dm05Wm1OUE5pYUtvek4wUEx2OUNlTzRWTmExekk3eFQ2aTRoQVZsdDBXaGJBRE5mNGNIVVVjQjNaMHpEVVNnem9qMnc3X3FkelNoVXdtZUxrdzZTRHJaNlNkbi1taWltSnVhek81WFJyeDdtUEdGQzRHc1VZSUhLU2lUNlJXSnJ5c3lGVFZuQU43ZWZUeWJGdGEtRHpHXzFGcVQyWFR0QnVRaVF0dTBvcW8?oc=5": "2026-11-03T20:27:48.385846+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTndKcXZ4VVA3WGVudkdINUVpOVhxSzd5eTFORm9jWXZYWGZ3d2dtN25jbUVpSUFnVWo0cmhITi1jR0pXM0RRYmhuMHUxXzVScEhWTG9GSHhPOUd6V053VUJFMFZJTDMwVUl5Um55TFFxbXlsTi1qQ1ZnQWVCdWlQOEdhUG9jdXNUY2RNZkdacTVTUDF0S3N0bHhsaVdRX0FrRWxianE3TFJrVXJLQ2hzaXI1aWdpTU0?oc=5": "2026-11-02T22:29:14.369092+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5": "2026-11-03T19:41:20.999848+00:00",
@@ -89,7 +85,6 @@
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-post-election-rally-tests-critical-resistance-1642618": "2026-11-04T22:52:35.103452+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-rally-targets-50-day-moving-average-1642606": "2026-11-05T15:45:40.130691+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282": "2026-11-03T18:09:45.528691+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-rebounds-as-oil-tumbles-1642024": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-clear-4146-ahead-of-us-payrolls-1642640": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120": "2026-11-03T06:46:17.891931+00:00",
@@ -98,12 +93,9 @@
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
   "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-plunge-after-us-midterm-elections-1642627": "2026-11-05T03:29:13.365169+00:00",
   "https://www.fxempire.com/forecasts/article/sp-500-and-dow-jones-rally-after-us-midterm-results-nasdaq-100-lags-1642661": "2026-11-05T07:46:50.960845+00:00",
-  "https://www.fxempire.com/forecasts/article/sp500-stocks-rebound-as-oil-drops-ahead-of-apple-earnings-and-tuesdays-midterms-1642020": "2026-11-02T19:33:59.118133+00:00",
-  "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-index-falls-on-democrat-victory-and-political-uncertainty-2-1642450": "2026-11-04T11:44:24.381115+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-180-as-eur-usd-gbp-usd-rise-on-election-results-1642389": "2026-11-04T07:43:43.685316+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
-  "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012": "2026-11-05T02:34:05.449439+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
@@ -120,107 +112,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "2027",
-    "gold",
-    "heraeus",
-    "imports",
-    "india",
-    "into",
-    "kitco",
-    "prices",
-    "ramp",
-    "selloff",
-    "set",
-    "sharp",
-    "silver",
-    "surge",
-    "up"
-   ],
-   "ts": "2026-11-02T17:45:03.635176+00:00"
-  },
-  {
-   "tok": [
-    "forecasts",
-    "gold",
-    "oil",
-    "platinum",
-    "rebounds",
-    "silver",
-    "tumbles",
-    "xauusd"
-   ],
-   "ts": "2026-11-02T18:35:44.066038+00:00"
-  },
-  {
-   "tok": [
-    "breakdown",
-    "drop",
-    "fx",
-    "gold",
-    "iran",
-    "market",
-    "oil",
-    "outlook",
-    "pmi",
-    "preview",
-    "strength",
-    "talks",
-    "weekly"
-   ],
-   "ts": "2026-11-02T18:35:44.066038+00:00"
-  },
-  {
-   "tok": [
-    "analysis",
-    "back",
-    "cad",
-    "dive",
-    "dollar",
-    "eur",
-    "gbp",
-    "jpy",
-    "oil",
-    "prices",
-    "pulls",
-    "usd"
-   ],
-   "ts": "2026-11-02T18:35:44.066038+00:00"
-  },
-  {
-   "tok": [
-    "bounces",
-    "declines",
-    "erasing",
-    "gold",
-    "key",
-    "last",
-    "ma",
-    "off",
-    "sharply",
-    "some",
-    "target",
-    "technicals",
-    "up",
-    "week"
-   ],
-   "ts": "2026-11-02T19:33:59.118133+00:00"
-  },
-  {
-   "tok": [
-    "apple",
-    "drops",
-    "earnings",
-    "midterms",
-    "oil",
-    "p500",
-    "rebound",
-    "stocks",
-    "tuesday"
-   ],
-   "ts": "2026-11-02T19:33:59.118133+00:00"
-  },
   {
    "tok": [
     "bets",
