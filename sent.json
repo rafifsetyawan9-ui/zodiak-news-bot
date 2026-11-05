@@ -37,7 +37,6 @@
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
-  "https://investinglive.com/commodities/tanker-hit-by-two-projectiles-off-saudi-coast-as-gulf-incidents-reach-10-in-three-days/": "2026-11-02T03:30:38.146571+00:00",
   "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/cryptocurrency/bitcoin-whipsaws-after-democrats-victory-as-lower-treasury-yields-and-us-dollar-provide-support/": "2026-11-04T10:46:49.827350+00:00",
@@ -83,7 +82,6 @@
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-stocks-surge-on-gridlock-bets-as-oil-prices-retreat-1642601": "2026-11-04T20:28:23.688642+00:00",
   "https://www.fxempire.com/forecasts/article/first-light-news-payrolls-midterms-the-ai-wobble-1641852": "2026-11-02T07:59:42.357991+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-rebound-faces-fed-hike-pressure-1641825": "2026-11-02T03:30:38.146571+00:00",
   "https://www.fxempire.com/forecasts/article/gold-lower-real-yields-offer-support-before-the-employment-test-1641964": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/gold-mondays-advance-faces-a-fresh-test-from-u-s-labor-data-1642243": "2026-11-03T16:19:11.389938+00:00",
   "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893": "2026-11-02T16:49:57.322826+00:00",
@@ -117,6 +115,7 @@
   "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797": "2026-11-02T23:09:28.720358+00:00",
   "https://www.investing.com/news/commodities-news/gulf-oil-flows-dip-in-october-from-postiran-war-high-data-shows-4995807": "2026-11-03T16:19:11.389938+00:00",
   "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079": "2026-11-04T07:43:43.685316+00:00",
+  "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042": "2026-11-05T04:27:07.944625+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342": "2026-11-03T12:17:14.160208+00:00",
   "https://www.investing.com/news/forex-news/german-yields-hover-near-august-lows-on-tech-rout-4993710": "2026-11-03T14:32:35.476174+00:00",
   "https://www.investing.com/news/forex-news/german-yields-steady-as-us-midterm-shifts-and-eurozone-cpi-loom-4997605": "2026-11-04T09:34:30.929735+00:00",
@@ -127,37 +126,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "faces",
-    "fed",
-    "forecast",
-    "gold",
-    "hike",
-    "pressure",
-    "rebound",
-    "silver"
-   ],
-   "ts": "2026-11-02T03:30:38.146571+00:00"
-  },
-  {
-   "tok": [
-    "10",
-    "coast",
-    "days",
-    "gulf",
-    "hit",
-    "incidents",
-    "off",
-    "projectiles",
-    "reach",
-    "saudi",
-    "tanker",
-    "three",
-    "two"
-   ],
-   "ts": "2026-11-02T03:30:38.146571+00:00"
-  },
   {
    "tok": [
     "another",
