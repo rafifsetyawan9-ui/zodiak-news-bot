@@ -9,7 +9,7 @@
   "2026-11-05": 23
  },
  "fails": {
-  "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 1,
+  "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/": 1,
   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRXFKdjcxbE5HRk95QzZvRUVhZmVRaWhCMVV2bG5GNWhWMzZWNFZROENmTnhlOG1IdXNKSE1GNVdPSllLZDFzY1lkblVFTUpsNlVGYVpBb09JQ3BPcDZVY09vempTaW84Zms0b1RpdG9yOXhMeGs2M1pqMV9pV1FhaVU2NEdSUmlWUThYaXkxZW1oNjQ5c0lqdDVVNUNGY19WcGtpOXdXcDR1Zi1EUU5z?oc=5": 1,
@@ -46,7 +46,6 @@
   "https://investinglive.com/news/carney-says-us-trade-talks-to-intensify-as-washington-asks-less-and-offers-mor/": "2026-11-03T23:13:33.510724+00:00",
   "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/": "2026-11-04T17:31:30.395776+00:00",
   "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/": "2026-11-04T11:44:24.381115+00:00",
-  "https://investinglive.com/news/eurozone-manufacturing-pmi-holds-up-in-october-but-rising-price-pressures-give-the-ecb-another-headache/": "2026-11-02T10:45:25.255662+00:00",
   "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-nov-it-s-a-wrap-ai-selling-overwhelms-oil-s-plunge/": "2026-11-02T22:29:14.369092+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/": "2026-11-04T21:16:14.654448+00:00",
@@ -98,7 +97,6 @@
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-dives-10-as-schumer-says-democrats-would-end-the-war-in-iran-1642572": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
-  "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
   "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-plunge-after-us-midterm-elections-1642627": "2026-11-05T03:29:13.365169+00:00",
   "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-dax-sp-500-eur-usd-usd-jpy-1641947": "2026-11-02T14:48:14.262606+00:00",
   "https://www.fxempire.com/forecasts/article/silver-easier-real-yields-meet-a-modest-industrial-recovery-1641959": "2026-11-02T15:46:28.691117+00:00",
@@ -127,41 +125,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "cautious",
-    "crude",
-    "iran",
-    "news",
-    "oil",
-    "outlook",
-    "premium",
-    "talks",
-    "test",
-    "turns",
-    "war"
-   ],
-   "ts": "2026-11-02T10:45:25.255662+00:00"
-  },
-  {
-   "tok": [
-    "another",
-    "but",
-    "ecb",
-    "eurozone",
-    "give",
-    "headache",
-    "holds",
-    "manufacturing",
-    "october",
-    "pmi",
-    "pressures",
-    "price",
-    "rising",
-    "up"
-   ],
-   "ts": "2026-11-02T10:45:25.255662+00:00"
-  },
   {
    "tok": [
     "crude",
