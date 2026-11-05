@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 14
+  "2026-11-05": 16
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -17,6 +17,7 @@
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/": "2026-11-05T02:34:05.449439+00:00",
   "https://investinglive.com/central-banks/boc-s-macklem-there-could-be-a-need-to-raise-the-policy-rate-further/": "2026-11-03T17:21:13.183284+00:00",
   "https://investinglive.com/central-banks/boj-continues-to-reaffirm-that-inflation-is-here-to-stay-so-what-s-stopping-another-rate-hike/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/central-banks/boj-minutes-board-backed-further-hikes-flagged-50-oil-surge-as-government-urged-caution/": "2026-11-05T00:20:38.982010+00:00",
@@ -51,7 +52,6 @@
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
-  "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
   "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/": "2026-11-05T01:38:22.906210+00:00",
   "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/": "2026-11-03T22:28:47.689295+00:00",
   "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
@@ -108,6 +108,7 @@
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/weekly-market-preview-oil-drop-on-iran-talks-gold-breakdown-pmi-strength-fx-outlook-1642036": "2026-11-02T18:35:44.066038+00:00",
   "https://www.fxempire.com/forecasts/article/wti-and-brent-inventory-draws-meet-an-unchanged-opec-policy-1641979": "2026-11-02T15:46:28.691117+00:00",
+  "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012": "2026-11-05T02:34:05.449439+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3950-as-iran-peace-hopes-ease-oil-us-vote-in-focus-4993318": "2026-11-03T02:17:51.878280+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797": "2026-11-02T23:09:28.720358+00:00",
@@ -123,23 +124,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "53",
-    "cost",
-    "factory",
-    "japan",
-    "low",
-    "month",
-    "pick",
-    "pmi",
-    "pressures",
-    "seven",
-    "slips",
-    "up"
-   ],
-   "ts": "2026-11-02T01:45:35.982089+00:00"
-  },
   {
    "tok": [
     "faces",
@@ -1458,6 +1442,35 @@
     "up"
    ],
    "ts": "2026-11-05T01:38:22.906210+00:00"
+  },
+  {
+   "tok": [
+    "100",
+    "above",
+    "dollar",
+    "extends",
+    "fall",
+    "gold",
+    "rally",
+    "treasury",
+    "vote",
+    "yields"
+   ],
+   "ts": "2026-11-05T02:34:05.449439+00:00"
+  },
+  {
+   "tok": [
+    "bank",
+    "energy",
+    "england",
+    "expected",
+    "first",
+    "hike",
+    "inflation",
+    "preview",
+    "pushes"
+   ],
+   "ts": "2026-11-05T02:34:05.449439+00:00"
   }
  ]
 }
