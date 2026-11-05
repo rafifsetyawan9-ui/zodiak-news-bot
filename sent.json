@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 23
+  "2026-11-05": 24
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -18,7 +18,8 @@
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": 1,
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-10-as-gbp-usd-tests-1-3500-ahead-of-boe-1642648": 1,
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1,
-  "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042": 1
+  "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042": 1,
+  "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/": "2026-11-05T02:34:05.449439+00:00",
@@ -31,13 +32,13 @@
   "https://investinglive.com/central-banks/snb-watches-for-second-round-swiss-inflation-effects-as-december-rate-hike-bets-build/": "2026-11-05T00:20:38.982010+00:00",
   "https://investinglive.com/commodities/cia-chief-ratcliffe-reportedly-advises-trump-to-keep-no-war-no-deal-pressure-on-iran/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/": "2026-11-04T23:30:52.938929+00:00",
-  "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
   "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
   "https://investinglive.com/commodities/gold-jumps-as-oil-slumps-on-iran-diplomacy-hopes-an-early-test-of-citi-s-thesis/": "2026-11-05T03:29:13.365169+00:00",
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
   "https://investinglive.com/commodities/more-on-us-strikes-on-qeshm-officials-confirm-attack-as-trump-plays-down-war-risk/": "2026-11-03T02:17:51.878280+00:00",
   "https://investinglive.com/commodities/oil-prices-plunge-after-us-midterms-as-wti-crude-faces-a-critical-technical-test/": "2026-11-05T06:25:54.056087+00:00",
+  "https://investinglive.com/commodities/oil-prices-tumble-as-republicans-midterm-loss-sparks-bets-on-iran-war-exit-trump-still-has-the-final-say/": "2026-11-05T11:43:59.233767+00:00",
   "https://investinglive.com/commodities/update-iran-says-hormuz-stays-shut-until-demands-met-as-us-deal-remains-far-off/": "2026-11-04T03:19:10.991286+00:00",
   "https://investinglive.com/commodities/us-to-host-second-ukraine-russia-trilateral-talks-in-abu-dhabi-on-november-10-to-11/": "2026-11-03T00:14:51.515201+00:00",
   "https://investinglive.com/cryptocurrency/bitcoin-whipsaws-after-democrats-victory-as-lower-treasury-yields-and-us-dollar-provide-support/": "2026-11-04T10:46:49.827350+00:00",
@@ -125,25 +126,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "crude",
-    "deal",
-    "extends",
-    "hopes",
-    "iran",
-    "losses",
-    "lower",
-    "next",
-    "oil",
-    "opens",
-    "return",
-    "us",
-    "week",
-    "what"
-   ],
-   "ts": "2026-11-02T11:40:19.520893+00:00"
-  },
   {
    "tok": [
     "continue",
@@ -1391,6 +1373,26 @@
     "us"
    ],
    "ts": "2026-11-05T07:46:50.960845+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "exit",
+    "final",
+    "has",
+    "iran",
+    "loss",
+    "midterm",
+    "oil",
+    "prices",
+    "republicans",
+    "sparks",
+    "still",
+    "trump",
+    "tumble",
+    "war"
+   ],
+   "ts": "2026-11-05T11:43:59.233767+00:00"
   }
  ]
 }
