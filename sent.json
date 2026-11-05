@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 16
+  "2026-11-05": 18
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -14,7 +14,8 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": 1,
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": 1,
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": 1,
-  "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1
+  "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1,
+  "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042": 1
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/": "2026-11-05T02:34:05.449439+00:00",
@@ -31,6 +32,7 @@
   "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/": "2026-11-04T23:30:52.938929+00:00",
   "https://investinglive.com/commodities/crude-oil-opens-the-week-lower-and-extends-the-losses-as-us-iran-deal-hopes-return-what-s-next/": "2026-11-02T11:40:19.520893+00:00",
   "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
+  "https://investinglive.com/commodities/gold-jumps-as-oil-slumps-on-iran-diplomacy-hopes-an-early-test-of-citi-s-thesis/": "2026-11-05T03:29:13.365169+00:00",
   "https://investinglive.com/commodities/gold-s-slide-to-one-year-low-margin-calls-amplified-a-fall-driven-by-fed-hike-bets/": "2026-11-02T06:38:34.457104+00:00",
   "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/commodities/gold-technicals-gold-is-up-sharply-erasing-some-of-last-week-s-declines-bounces-off-key-ma-target/": "2026-11-02T19:33:59.118133+00:00",
@@ -99,6 +101,7 @@
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
   "https://www.fxempire.com/forecasts/article/oil-news-crude-oil-outlook-turns-cautious-as-iran-talks-test-war-premium-1641862": "2026-11-02T10:45:25.255662+00:00",
+  "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-plunge-after-us-midterm-elections-1642627": "2026-11-05T03:29:13.365169+00:00",
   "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-dax-sp-500-eur-usd-usd-jpy-1641947": "2026-11-02T14:48:14.262606+00:00",
   "https://www.fxempire.com/forecasts/article/silver-easier-real-yields-meet-a-modest-industrial-recovery-1641959": "2026-11-02T15:46:28.691117+00:00",
   "https://www.fxempire.com/forecasts/article/sp500-stocks-rebound-as-oil-drops-ahead-of-apple-earnings-and-tuesdays-midterms-1642020": "2026-11-02T19:33:59.118133+00:00",
@@ -1471,6 +1474,36 @@
     "pushes"
    ],
    "ts": "2026-11-05T02:34:05.449439+00:00"
+  },
+  {
+   "tok": [
+    "citi",
+    "diplomacy",
+    "early",
+    "gold",
+    "hopes",
+    "iran",
+    "jumps",
+    "oil",
+    "slumps",
+    "test",
+    "thesis"
+   ],
+   "ts": "2026-11-05T03:29:13.365169+00:00"
+  },
+  {
+   "tok": [
+    "brent",
+    "elections",
+    "forecast",
+    "midterm",
+    "oil",
+    "plunge",
+    "price",
+    "us",
+    "wti"
+   ],
+   "ts": "2026-11-05T03:29:13.365169+00:00"
   }
  ]
 }
