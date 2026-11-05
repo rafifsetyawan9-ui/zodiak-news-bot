@@ -6,7 +6,7 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 13
+  "2026-11-05": 14
  },
  "fails": {
   "https://investinglive.com/commodities/gold-slips-below-its-100-hour-ma-as-interest-rate-concerns-weigh-on-the-recovery/": 1,
@@ -52,6 +52,7 @@
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
   "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/": "2026-11-02T01:45:35.982089+00:00",
+  "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/": "2026-11-05T01:38:22.906210+00:00",
   "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/": "2026-11-03T22:28:47.689295+00:00",
   "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
   "https://investinglive.com/stocks/apple-bought-back-24-billion-of-stock-in-the-quarter-as-purchase-commitments-jump-33-billion/": "2026-11-03T00:14:51.515201+00:00",
@@ -1438,6 +1439,25 @@
     "watches"
    ],
    "ts": "2026-11-05T00:20:38.982010+00:00"
+  },
+  {
+   "tok": [
+    "51",
+    "but",
+    "composite",
+    "edges",
+    "five",
+    "hiring",
+    "japan",
+    "low",
+    "month",
+    "pmi",
+    "services",
+    "slips",
+    "slows",
+    "up"
+   ],
+   "ts": "2026-11-05T01:38:22.906210+00:00"
   }
  ]
 }
