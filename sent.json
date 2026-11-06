@@ -5,7 +5,8 @@
   "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
-  "2026-11-05": 25
+  "2026-11-05": 25,
+  "2026-11-06": 2
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -28,8 +29,6 @@
   "https://investinglive.com/central-banks/boj-minutes-board-backed-further-hikes-flagged-50-oil-surge-as-government-urged-caution/": "2026-11-05T00:20:38.982010+00:00",
   "https://investinglive.com/central-banks/ecb-s-nagel-says-a-december-rate-hike-is-very-likely-to-be-necessary/": "2026-11-03T19:41:20.999848+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/": "2026-11-04T22:10:51.514521+00:00",
-  "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/": "2026-11-03T04:58:19.980051+00:00",
-  "https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/central-banks/snb-watches-for-second-round-swiss-inflation-effects-as-december-rate-hike-bets-build/": "2026-11-05T00:20:38.982010+00:00",
   "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/": "2026-11-04T23:30:52.938929+00:00",
   "https://investinglive.com/commodities/gold-is-taking-it-clue-from-the-usd-and-yields-moving-lower-technicals-are-also-giving-the-buyers-a-push/": "2026-11-04T20:28:23.688642+00:00",
@@ -47,12 +46,10 @@
   "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/": "2026-11-04T21:16:14.654448+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/": "2026-11-05T06:25:54.056087+00:00",
-  "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-hikes-to-18-year-high/": "2026-11-03T05:45:30.823682+00:00",
   "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-cautious-as-focus-shifts-to-us-midterm-elections/": "2026-11-03T13:33:51.393816+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
   "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/": "2026-11-05T01:38:22.906210+00:00",
   "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/": "2026-11-03T22:28:47.689295+00:00",
-  "https://investinglive.com/news/swiss-inflation-surprises-higher-in-october-but-core-prices-offer-some-relief/": "2026-11-03T08:52:48.351615+00:00",
   "https://investinglive.com/technical-analysis/morning-kickstart-election-uncertainty-iran-tensions-and-rising-yields-frame-the-session/": "2026-11-03T15:24:24.522333+00:00",
   "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/": "2026-11-03T17:21:13.183284+00:00",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5": "2026-11-04T02:28:09.267019+00:00",
@@ -68,11 +65,9 @@
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVUtNUJKOGVlQ2J1ZnlCdmROMl9NZzdFc3lNNnJpSm1sVTY4T3ZwTHNPNnNXNm1xWUVpN0owWFFvcEtPUU1NcHBab0Y3cHAxRkJablEybkxISlNMZ2NQU09lS2JhZU4yWEs3NUczRXVOend4X2dGSE5JZ3dsVFkzdWI4c2Z6YnFOMktqclhRaVJhcTNOazd1aDJmUnFBcGNNdk9XQTZHUUplelZDc01oMVdmQXZYdThKQUdiYTVn?oc=5": "2026-11-03T18:09:45.528691+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5": "2026-11-03T14:32:35.476174+00:00",
   "https://www.fxempire.com/forecasts/article/australias-housing-slump-and-higher-interest-rates-what-does-it-mean-for-the-australian-dollar-1642423": "2026-11-04T10:46:49.827350+00:00",
-  "https://www.fxempire.com/forecasts/article/brent-oil-drops-sharply-as-diplomacy-reports-weigh-on-prices-1642127": "2026-11-03T07:59:21.632482+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-stocks-surge-on-gridlock-bets-as-oil-prices-retreat-1642601": "2026-11-04T20:28:23.688642+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
   "https://www.fxempire.com/forecasts/article/gold-mondays-advance-faces-a-fresh-test-from-u-s-labor-data-1642243": "2026-11-03T16:19:11.389938+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136": "2026-11-03T09:44:13.776674+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-us-iran-peace-hopes-fuel-rally-as-oil-plunges-1642652": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/gold-rebounds-but-i-remain-wary-ahead-of-fridays-jobs-report-1642534": "2026-11-04T17:31:30.395776+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355": "2026-11-03T23:13:33.510724+00:00",
@@ -81,7 +76,6 @@
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282": "2026-11-03T18:09:45.528691+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-clear-4146-ahead-of-us-payrolls-1642640": "2026-11-05T07:46:50.960845+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120": "2026-11-03T06:46:17.891931+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-dives-10-as-schumer-says-democrats-would-end-the-war-in-iran-1642572": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
@@ -89,13 +83,15 @@
   "https://www.fxempire.com/forecasts/article/sp-500-and-dow-jones-rally-after-us-midterm-results-nasdaq-100-lags-1642661": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-index-falls-on-democrat-victory-and-political-uncertainty-2-1642450": "2026-11-04T11:44:24.381115+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-180-as-eur-usd-gbp-usd-rise-on-election-results-1642389": "2026-11-04T07:43:43.685316+00:00",
-  "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-holds-101-54-as-eur-usd-and-gbp-usd-face-us-midterms-1642125": "2026-11-03T07:59:21.632482+00:00",
+  "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-102-08-as-eur-usd-gbp-usd-await-us-nfp-1642900": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012": "2026-11-05T02:34:05.449439+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
+  "https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/commodities-news/gulf-oil-flows-dip-in-october-from-postiran-war-high-data-shows-4995807": "2026-11-03T16:19:11.389938+00:00",
   "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079": "2026-11-04T07:43:43.685316+00:00",
   "https://www.investing.com/news/commodities-news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation-5002042": "2026-11-05T04:27:07.944625+00:00",
   "https://www.investing.com/news/commodities-news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island-4993342": "2026-11-03T12:17:14.160208+00:00",
+  "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/forex-news/german-yields-hover-near-august-lows-on-tech-rout-4993710": "2026-11-03T14:32:35.476174+00:00",
   "https://www.investing.com/news/forex-news/german-yields-steady-as-us-midterm-shifts-and-eurozone-cpi-loom-4997605": "2026-11-04T09:34:30.929735+00:00",
   "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-eases-boe-hike-in-view-4994180": "2026-11-03T10:38:14.458002+00:00"
@@ -104,116 +100,6 @@
   "USD|Congressional Elections|2026-11-03T15:16:00+00:00": "2026-11-03T14:32:35.476174+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "2027",
-    "85",
-    "above",
-    "cash",
-    "inflation",
-    "late",
-    "lifts",
-    "more",
-    "rate",
-    "rba",
-    "sees",
-    "split",
-    "until",
-    "vote"
-   ],
-   "ts": "2026-11-03T04:58:19.980051+00:00"
-  },
-  {
-   "tok": [
-    "18",
-    "asia",
-    "high",
-    "hikes",
-    "investinglive",
-    "market",
-    "news",
-    "pacific",
-    "rba",
-    "year"
-   ],
-   "ts": "2026-11-03T05:45:30.823682+00:00"
-  },
-  {
-   "tok": [
-    "975",
-    "can",
-    "focus",
-    "forecast",
-    "gold",
-    "midterms",
-    "price",
-    "reclaim",
-    "silver",
-    "us",
-    "xauusd"
-   ],
-   "ts": "2026-11-03T06:46:17.891931+00:00"
-  },
-  {
-   "tok": [
-    "101",
-    "54",
-    "dollar",
-    "dxy",
-    "eur",
-    "face",
-    "forecast",
-    "gbp",
-    "holds",
-    "midterms",
-    "price",
-    "us",
-    "usd"
-   ],
-   "ts": "2026-11-03T07:59:21.632482+00:00"
-  },
-  {
-   "tok": [
-    "brent",
-    "diplomacy",
-    "drops",
-    "oil",
-    "prices",
-    "reports",
-    "sharply",
-    "weigh"
-   ],
-   "ts": "2026-11-03T07:59:21.632482+00:00"
-  },
-  {
-   "tok": [
-    "but",
-    "core",
-    "higher",
-    "inflation",
-    "october",
-    "offer",
-    "prices",
-    "relief",
-    "some",
-    "surprises",
-    "swiss"
-   ],
-   "ts": "2026-11-03T08:52:48.351615+00:00"
-  },
-  {
-   "tok": [
-    "elections",
-    "forecast",
-    "gold",
-    "midterm",
-    "price",
-    "prices",
-    "slip",
-    "us"
-   ],
-   "ts": "2026-11-03T09:44:13.776674+00:00"
-  },
   {
    "tok": [
     "cautious",
@@ -1075,6 +961,41 @@
     "xauusd"
    ],
    "ts": "2026-11-05T15:45:40.130691+00:00"
+  },
+  {
+   "tok": [
+    "08",
+    "102",
+    "await",
+    "dollar",
+    "dxy",
+    "eur",
+    "eyes",
+    "forecast",
+    "gbp",
+    "nfp",
+    "price",
+    "us",
+    "usd"
+   ],
+   "ts": "2026-11-06T09:54:35.055318+00:00"
+  },
+  {
+   "tok": [
+    "18",
+    "asian",
+    "aussie",
+    "fx",
+    "gains",
+    "hits",
+    "low",
+    "mixed",
+    "pares",
+    "payrolls",
+    "week",
+    "yen"
+   ],
+   "ts": "2026-11-06T09:54:35.055318+00:00"
   }
  ]
 }
