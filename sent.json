@@ -6,7 +6,7 @@
   "2026-11-04": 25,
   "2026-11-05": 25,
   "2026-11-06": 2,
-  "2026-11-07": 3
+  "2026-11-07": 6
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -25,10 +25,8 @@
  },
  "links": {
   "https://investinglive.com/central-banks/bank-of-england-preview-first-hike-to-4-expected-as-energy-pushes-inflation-to-3-5/": "2026-11-05T02:34:05.449439+00:00",
-  "https://investinglive.com/central-banks/boc-s-macklem-there-could-be-a-need-to-raise-the-policy-rate-further/": "2026-11-03T17:21:13.183284+00:00",
   "https://investinglive.com/central-banks/boj-minutes-board-backed-further-hikes-flagged-50-oil-surge-as-government-urged-caution/": "2026-11-05T00:20:38.982010+00:00",
   "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/": "2026-11-06T17:03:17.521509+00:00",
-  "https://investinglive.com/central-banks/ecb-s-nagel-says-a-december-rate-hike-is-very-likely-to-be-necessary/": "2026-11-03T19:41:20.999848+00:00",
   "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/": "2026-11-04T22:10:51.514521+00:00",
   "https://investinglive.com/central-banks/snb-watches-for-second-round-swiss-inflation-effects-as-december-rate-hike-bets-build/": "2026-11-05T00:20:38.982010+00:00",
   "https://investinglive.com/commodities/citi-targets-5-000-gold-as-a-hormuz-reopening-could-flip-the-fed-from-hikes-to-cuts/": "2026-11-04T23:30:52.938929+00:00",
@@ -45,24 +43,20 @@
   "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/": "2026-11-04T17:31:30.395776+00:00",
   "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/": "2026-11-04T11:44:24.381115+00:00",
   "https://investinglive.com/news/house-democratic-leader-jeffries-says-will-pass-bill-to-stop-tariffs-and-to-end-the-iran-war/": "2026-11-04T19:39:19.966413+00:00",
+  "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/": "2026-11-06T22:05:39.937015+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-oil-crushed-as-republicans-blame-war-for-loss/": "2026-11-04T21:16:14.654448+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-rocketed-higher-still/": "2026-11-05T06:25:54.056087+00:00",
   "https://investinglive.com/news/italy-october-services-pmi-52-0-vs-51-5-expected/": "2026-11-04T09:34:30.929735+00:00",
   "https://investinglive.com/news/japan-services-pmi-edges-up-to-51-7-but-composite-slips-to-five-month-low-as-hiring-slows/": "2026-11-05T01:38:22.906210+00:00",
   "https://investinglive.com/news/nz-q3-unemployment-rate-5-7-expected-5-5-prior-5-6/": "2026-11-03T22:28:47.689295+00:00",
   "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/": "2026-11-06T17:03:17.521509+00:00",
-  "https://investinglive.com/technical-analysis/usdchf-falls-on-firmer-swiss-cpi-but-buyers-lean-against-the-100-day-ma/": "2026-11-03T17:21:13.183284+00:00",
   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UZW9OY3B0aUpxd0RPZEJjSHhJXzZzd1lZSTZyOHgtMU96OU1fVlpCcENYQ0R4Ylp3OTc5YzdtMzZsdVVJOWNHOEYzVEdZbkdrTHp5VGRR?oc=5": "2026-11-04T02:28:09.267019+00:00",
-  "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QYjY2Q0l0dVl3X2txTTJoMmhhQURWd3BHN185NnpLMF92UkNwcTQwdUFkdkZSR19idzEtZFczbVI0QXRfa2NJY3pBd3RXelZIUmJ3cGhuUmNmZlJtY0hMdnpTOGF3Wnc3TnNSNHZvd09hRDI3UW05N0xFUXJuQQ?oc=5": "2026-11-03T21:55:36.696797+00:00",
   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjNSajh0dnREOE9TYmJxZFlPeXd5S21WS01ocDRYa2o4LTlYVGZzYmMyLWJxcEdFUS16TFlXQk5QVDUyVDVFdnhiX3lrWVBDSHl0cWw2ME45ckI0VWhPcXNPaEo3ZVFibHdzTU0zZ0Y5c1dJSy0wOUxHVzM5X1Z5Uks0Z1kxR0RqSGE5ZUd0UU5YTkFo?oc=5": "2026-11-04T00:30:36.103762+00:00",
   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa05OSWN1OWE1anVlODZDRHNzMnBYckQ4VlBublZzX1llSkpwNFA0M3BZNmxycHhuZktfbnVwTV9MQU8tbmU4LUE1SV9DSlF2NHdkUG1SaF92c0VzWGh3OTQyMV9ORzNxaG9PdW5mLWh5LW02ZTNDT0NiY3dhTloyS3B6WHJ6LU83NWU3UFFNYlNwdU5sT0E?oc=5": "2026-11-03T22:28:47.689295+00:00",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVTVLZkxYVUdZRGVjb0F6dDg1MnpUcWNPdktvWVBiSC1qUFJUMkQ3TTNaWlNCUExESFVaNlVlaDZaN0xRZ3ZPbHBjSnFrd2tDemV5NWc4SWtYaGt3eVJ5N0JZbE9lcTFTS3V5V1J0d0plU2JlTUJqRnoxVWphU2R5SEpxNWlQelE5YWtvV0x3bXZHNGhKRXR2U3YwYzBWYm5saE9EUmZDLUVyX0dkQlVpOQ?oc=5": "2026-11-05T00:20:38.982010+00:00",
-  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVTJDUFBDalk3LWJGaDhYdXZ1TldYMlFKdTRhMzUzOC0zc21DSmtVSVhpWl9ZWmNweVVwaDBuUkdocmJtSWhnVkhYUllKUm1zWHFST0V2RG11UXNsczV1SHQyUS1IZm9SWlFELXpxenlyb2l4REdTNDJTOUszN1UxU3U3eEU4OGlfYXAzUDMwUzFkWUJuSExtMFdXU3d0dmlkV0JfckVVemRsUlQ5LXF6enB3?oc=5": "2026-11-03T17:21:13.183284+00:00",
-  "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFBGa1V2dm05Wm1OUE5pYUtvek4wUEx2OUNlTzRWTmExekk3eFQ2aTRoQVZsdDBXaGJBRE5mNGNIVVVjQjNaMHpEVVNnem9qMnc3X3FkelNoVXdtZUxrdzZTRHJaNlNkbi1taWltSnVhek81WFJyeDdtUEdGQzRHc1VZSUhLU2lUNlJXSnJ5c3lGVFZuQU43ZWZUeWJGdGEtRHpHXzFGcVQyWFR0QnVRaVF0dTBvcW8?oc=5": "2026-11-03T20:27:48.385846+00:00",
-  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXMzWmhCTThSSlhBcHFsbjY2VEdWdUN3WjRxQmE3YnpENklGckNZeXhUakpielZ0MUVnOV9CZlM3dHdTdXZ4OWMwdkVXTkY0Vk9PbDhKNnBybTJuMFlxQTk1dGE1MDZTUTFYX2x1NXZlYzkyUFYxV0NHNW5oNFJHWGhyTW1mdTFfTEtqdDNPMzQ5RmNpSWJ1eTJnZGNvWFRmNDk2YU41OG5VYmhSTUpUVHlRNVFKQ1NS?oc=5": "2026-11-03T19:41:20.999848+00:00",
+  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5": "2026-11-06T22:05:39.937015+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXFiWE5sMHpSWTZBdVpnb0F4X3IyQTlKS2V2bzl5anpxTTJxYjFCeEFlM3hFeldYd3RHNFVfaHJ6WXpUeFFraVdYaklEYVlMajlHWF92WGEtMUpkYWpnYzRqdUJEOWRGRUotdlpkVmhUdGl0eS11MmMwcENSWVN5WTU4U1J5Z3g4WDkydmpuYjBqc2F2eGx1eFlXcHV6WTBWOVdpVGxkQk53a0c1SE13N1EwMUQ3WnRPc20w?oc=5": "2026-11-05T14:46:59.776916+00:00",
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR19GNG5scmJ3NVFKWjN6MkhNU0xvUU45SDFzdUs4X2wzRE5YMk13cHNsODh5NkprUy1GdDd2UllrdzVtSm5ERHNiX0hNejVLdkNrQjhGWk9rUHlwN0Utd283WExhVUxoOTdoTTNSaWtyZTZfNl94QXlpSzdhby11NDBPaklDSTdKQzBPRk0wVDFoTDJnaU50ckRQalVBc0NpTFRJbklUOE5KVV9RTHAtTGF3MVAxZDE5SVFiYg?oc=5": "2026-11-03T23:13:33.510724+00:00",
-  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVUtNUJKOGVlQ2J1ZnlCdmROMl9NZzdFc3lNNnJpSm1sVTY4T3ZwTHNPNnNXNm1xWUVpN0owWFFvcEtPUU1NcHBab0Y3cHAxRkJablEybkxISlNMZ2NQU09lS2JhZU4yWEs3NUczRXVOend4X2dGSE5JZ3dsVFkzdWI4c2Z6YnFOMktqclhRaVJhcTNOazd1aDJmUnFBcGNNdk9XQTZHUUplelZDc01oMVdmQXZYdThKQUdiYTVn?oc=5": "2026-11-03T18:09:45.528691+00:00",
   "https://www.fxempire.com/forecasts/article/australias-housing-slump-and-higher-interest-rates-what-does-it-mean-for-the-australian-dollar-1642423": "2026-11-04T10:46:49.827350+00:00",
   "https://www.fxempire.com/forecasts/article/dow-jones-forecast-stocks-surge-on-gridlock-bets-as-oil-prices-retreat-1642601": "2026-11-04T20:28:23.688642+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-pressure-continues-ahead-of-jobs-data-1642363": "2026-11-04T04:21:13.997750+00:00",
@@ -72,11 +66,9 @@
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-critical-support-holds-amid-growing-downside-risk-1642355": "2026-11-03T23:13:33.510724+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-post-election-rally-tests-critical-resistance-1642618": "2026-11-04T22:52:35.103452+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-rally-targets-50-day-moving-average-1642606": "2026-11-05T15:45:40.130691+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-pulls-back-as-selling-resumes-1642282": "2026-11-03T18:09:45.528691+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-soars-3-5-after-democrats-victory-in-midterm-elections-1642566": "2026-11-04T19:39:19.966413+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-clear-4146-ahead-of-us-payrolls-1642640": "2026-11-05T07:46:50.960845+00:00",
   "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-dives-10-as-schumer-says-democrats-would-end-the-war-in-iran-1642572": "2026-11-04T19:39:19.966413+00:00",
-  "https://www.fxempire.com/forecasts/article/natural-gas-wti-oil-brent-oil-forecasts-oil-rebounds-from-session-lows-amid-diplomatic-efforts-to-stop-middle-east-war-1642288": "2026-11-03T19:41:20.999848+00:00",
   "https://www.fxempire.com/forecasts/article/nikkei-225-and-nasdaq-100-fall-as-democratic-wins-weigh-on-ai-trade-1642403": "2026-11-04T08:38:40.262030+00:00",
   "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-plunge-after-us-midterm-elections-1642627": "2026-11-05T03:29:13.365169+00:00",
   "https://www.fxempire.com/forecasts/article/sp-500-and-dow-jones-rally-after-us-midterm-results-nasdaq-100-lags-1642661": "2026-11-05T07:46:50.960845+00:00",
@@ -84,6 +76,7 @@
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-180-as-eur-usd-gbp-usd-rise-on-election-results-1642389": "2026-11-04T07:43:43.685316+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-102-08-as-eur-usd-gbp-usd-await-us-nfp-1642900": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/commodities-news/gold-extends-rally-above-4100-as-dollar-treasury-yields-fall-after-us-vote-5002012": "2026-11-05T02:34:05.449439+00:00",
+  "https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271": "2026-11-06T22:05:39.937015+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059": "2026-11-04T06:22:19.640953+00:00",
   "https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079": "2026-11-04T07:43:43.685316+00:00",
@@ -93,155 +86,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "against",
-    "bank",
-    "canada",
-    "fight",
-    "fiscal",
-    "head",
-    "hitting",
-    "inflation",
-    "kitco",
-    "not",
-    "policy"
-   ],
-   "ts": "2026-11-03T17:21:13.183284+00:00"
-  },
-  {
-   "tok": [
-    "100",
-    "against",
-    "but",
-    "buyers",
-    "cpi",
-    "day",
-    "falls",
-    "firmer",
-    "lean",
-    "ma",
-    "swiss",
-    "usdchf"
-   ],
-   "ts": "2026-11-03T17:21:13.183284+00:00"
-  },
-  {
-   "tok": [
-    "be",
-    "boc",
-    "could",
-    "further",
-    "macklem",
-    "need",
-    "policy",
-    "raise",
-    "rate",
-    "there"
-   ],
-   "ts": "2026-11-03T17:21:13.183284+00:00"
-  },
-  {
-   "tok": [
-    "back",
-    "forecasts",
-    "gold",
-    "platinum",
-    "pulls",
-    "resumes",
-    "selling",
-    "silver",
-    "xauusd"
-   ],
-   "ts": "2026-11-03T18:09:45.528691+00:00"
-  },
-  {
-   "tok": [
-    "billion",
-    "end",
-    "erase",
-    "funding",
-    "israel",
-    "kitco",
-    "losses",
-    "oil",
-    "stocks",
-    "trump",
-    "tumbles",
-    "us",
-    "will"
-   ],
-   "ts": "2026-11-03T18:09:45.528691+00:00"
-  },
-  {
-   "tok": [
-    "brent",
-    "diplomatic",
-    "east",
-    "efforts",
-    "forecasts",
-    "from",
-    "gas",
-    "lows",
-    "middle",
-    "natural",
-    "oil",
-    "rebounds",
-    "session",
-    "stop",
-    "war",
-    "wti"
-   ],
-   "ts": "2026-11-03T19:41:20.999848+00:00"
-  },
-  {
-   "tok": [
-    "be",
-    "december",
-    "ecb",
-    "hike",
-    "likely",
-    "nagel",
-    "necessary",
-    "rate",
-    "very"
-   ],
-   "ts": "2026-11-03T19:41:20.999848+00:00"
-  },
-  {
-   "tok": [
-    "42",
-    "bank",
-    "buying",
-    "central",
-    "demand",
-    "gold",
-    "highs",
-    "kitco",
-    "near",
-    "record",
-    "remains",
-    "surges",
-    "wgc"
-   ],
-   "ts": "2026-11-03T19:41:20.999848+00:00"
-  },
-  {
-   "tok": [
-    "again",
-    "dollar",
-    "edges",
-    "focus",
-    "gold",
-    "kitco",
-    "lower",
-    "midterms",
-    "strengthen",
-    "us",
-    "yields"
-   ],
-   "ts": "2026-11-03T20:27:48.385846+00:00"
-  },
   {
    "tok": [
     "critical",
@@ -973,6 +817,57 @@
     "year"
    ],
    "ts": "2026-11-06T17:03:17.521509+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "blowout",
+    "boosts",
+    "fall",
+    "fed",
+    "gold",
+    "hike",
+    "jobs",
+    "prices",
+    "rate",
+    "report"
+   ],
+   "ts": "2026-11-06T22:05:39.937015+00:00"
+  },
+  {
+   "tok": [
+    "americas",
+    "beat",
+    "estimates",
+    "farm",
+    "investinglive",
+    "market",
+    "news",
+    "non",
+    "payrolls",
+    "wrap"
+   ],
+   "ts": "2026-11-06T22:05:39.937015+00:00"
+  },
+  {
+   "tok": [
+    "000",
+    "but",
+    "critical",
+    "data",
+    "gold",
+    "holds",
+    "inflation",
+    "jobs",
+    "kitco",
+    "price",
+    "recovery",
+    "risks",
+    "strong",
+    "support",
+    "threaten"
+   ],
+   "ts": "2026-11-06T22:05:39.937015+00:00"
   }
  ]
 }
