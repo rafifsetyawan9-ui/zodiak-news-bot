@@ -5,7 +5,7 @@
   "2026-11-05": 25,
   "2026-11-06": 2,
   "2026-11-07": 6,
-  "2026-11-09": 2
+  "2026-11-09": 4
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -24,6 +24,9 @@
  },
  "links": {
   "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/": "2026-11-06T17:03:17.521509+00:00",
+  "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/": "2026-11-08T23:24:51.885096+00:00",
+  "https://investinglive.com/commodities/rubio-says-iran-talks-not-productive-as-tehran-s-demands-are-unacceptable/": "2026-11-08T23:24:51.885096+00:00",
+  "https://investinglive.com/commodities/weekend-trump-says-new-iran-strikes-highly-unlikely-five-times-but-three-carriers-stay-ready/": "2026-11-08T23:24:51.885096+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/": "2026-11-06T22:05:39.937015+00:00",
   "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/": "2026-11-06T17:03:17.521509+00:00",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5": "2026-11-06T22:05:39.937015+00:00",
@@ -200,6 +203,37 @@
     "us"
    ],
    "ts": "2026-11-08T19:57:06.466715+00:00"
+  },
+  {
+   "tok": [
+    "but",
+    "carriers",
+    "five",
+    "highly",
+    "iran",
+    "ready",
+    "stay",
+    "strikes",
+    "three",
+    "times",
+    "trump",
+    "unlikely",
+    "weekend"
+   ],
+   "ts": "2026-11-08T23:24:51.885096+00:00"
+  },
+  {
+   "tok": [
+    "demands",
+    "iran",
+    "not",
+    "productive",
+    "rubio",
+    "talks",
+    "tehran",
+    "unacceptable"
+   ],
+   "ts": "2026-11-08T23:24:51.885096+00:00"
   }
  ]
 }
