@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-02": 25,
   "2026-11-03": 23,
   "2026-11-04": 25,
   "2026-11-05": 25,
   "2026-11-06": 2,
-  "2026-11-07": 6
+  "2026-11-07": 6,
+  "2026-11-09": 2
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -28,7 +28,8 @@
   "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/": "2026-11-06T17:03:17.521509+00:00",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5": "2026-11-06T22:05:39.937015+00:00",
   "https://www.fxempire.com/forecasts/article/gold-faces-risk-to-4000-support-after-strong-us-payrolls-report-1642989": "2026-11-06T17:03:17.521509+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-rally-targets-50-day-moving-average-1642606": "2026-11-05T15:45:40.130691+00:00",
+  "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193": "2026-11-08T19:57:06.466715+00:00",
+  "https://www.fxempire.com/forecasts/article/silver-price-forecast-rally-faces-us-cpi-test-after-dollar-jump-1643197": "2026-11-08T19:57:06.466715+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-102-08-as-eur-usd-gbp-usd-await-us-nfp-1642900": "2026-11-06T09:54:35.055318+00:00",
   "https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271": "2026-11-06T22:05:39.937015+00:00",
   "https://www.investing.com/news/commodities-news/goldman-lowers-yearend-gold-price-forecast-on-hawkish-fed-shift-5006662": "2026-11-06T09:54:35.055318+00:00",
@@ -36,21 +37,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "50",
-    "average",
-    "day",
-    "forecast",
-    "gold",
-    "moving",
-    "price",
-    "rally",
-    "targets",
-    "xauusd"
-   ],
-   "ts": "2026-11-05T15:45:40.130691+00:00"
-  },
   {
    "tok": [
     "08",
@@ -183,6 +169,37 @@
     "threaten"
    ],
    "ts": "2026-11-06T22:05:39.937015+00:00"
+  },
+  {
+   "tok": [
+    "05",
+    "35",
+    "51",
+    "55",
+    "could",
+    "forecast",
+    "holding",
+    "price",
+    "put",
+    "radar",
+    "silver"
+   ],
+   "ts": "2026-11-08T19:57:06.466715+00:00"
+  },
+  {
+   "tok": [
+    "cpi",
+    "dollar",
+    "faces",
+    "forecast",
+    "jump",
+    "price",
+    "rally",
+    "silver",
+    "test",
+    "us"
+   ],
+   "ts": "2026-11-08T19:57:06.466715+00:00"
   }
  ]
 }
