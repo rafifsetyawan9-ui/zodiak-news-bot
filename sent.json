@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-03": 23,
   "2026-11-04": 25,
   "2026-11-05": 25,
   "2026-11-06": 2,
   "2026-11-07": 6,
-  "2026-11-09": 10
+  "2026-11-09": 10,
+  "2026-11-10": 3
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -23,7 +23,6 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
-  "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/": "2026-11-06T17:03:17.521509+00:00",
   "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/": "2026-11-08T23:24:51.885096+00:00",
   "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/": "2026-11-09T02:50:10.859772+00:00",
   "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/": "2026-11-09T02:50:10.859772+00:00",
@@ -32,10 +31,11 @@
   "https://investinglive.com/forex/market-outlook-for-the-week-of-9th-13th-november/": "2026-11-09T10:40:54.259445+00:00",
   "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/": "2026-11-09T02:50:10.859772+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/": "2026-11-06T22:05:39.937015+00:00",
-  "https://investinglive.com/technical-analysis/usd-moves-higher-after-the-us-jobs-report-what-levels-are-in-play-now/": "2026-11-06T17:03:17.521509+00:00",
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGdqQUJqT3hVR200bUdiTXBNdzdXNTBKbVJDMzl6STdYVUFTZy1ZNUhoQVBWMlZBMmZPQlgtXzZsVjFiU2RmN3otTTB4MnE4SHRRdlFvdlhKVWV4QTRzNmhac3JldXRwenpSUlRXcnc0ak05M2YxTjJ5Zi1vMjk2RWJNd0J5dy1oeHVmVUNMVDlBbVVPVmtDR2dUaHRDd1MxdTByWU9xYlRZRmU5WlE?oc=5": "2026-11-09T21:05:20.298916+00:00",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1lfYUt5N3VwUVBwQlpZSG5Id1l2Nnl5RHpBQWFIcVNKUWl6R2tlOF9yZEU3LTMyUEhaNWRwNVMzd1BaUU44c0lNTjI3T2hGM01qUzZvTFpYcnNkX0ZSVC03aUtJYnZKZ1NJYlVBSWxkdWJPSlg3elV3SUhCeXV0Y0xzaEt3N3gyYkRFZk95aUstZHVNRmc1dTkyMFoxVmxXMTctUDZ5YWRXaXFFcWMtU0hzMTNNZHFo?oc=5": "2026-11-09T21:05:20.298916+00:00",
   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5": "2026-11-06T22:05:39.937015+00:00",
   "https://www.fxempire.com/forecasts/article/copper-price-forecast-chinas-tight-supply-lifts-prices-before-us-cpi-1643263": "2026-11-09T10:40:54.259445+00:00",
-  "https://www.fxempire.com/forecasts/article/gold-faces-risk-to-4000-support-after-strong-us-payrolls-report-1642989": "2026-11-06T17:03:17.521509+00:00",
+  "https://www.fxempire.com/forecasts/article/global-markets-outlook-oil-retreat-fuels-pre-cpi-recovery-1643409": "2026-11-09T21:05:20.298916+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193": "2026-11-08T19:57:06.466715+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-rally-faces-us-cpi-test-after-dollar-jump-1643197": "2026-11-08T19:57:06.466715+00:00",
   "https://www.investing.com/news/commodities-news/gold-heads-for-best-week-since-august-as-us-political-shift-lifts-bonds-5006271": "2026-11-06T22:05:39.937015+00:00",
@@ -44,53 +44,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "higher",
-    "jobs",
-    "levels",
-    "moves",
-    "now",
-    "play",
-    "report",
-    "us",
-    "usd",
-    "what"
-   ],
-   "ts": "2026-11-06T17:03:17.521509+00:00"
-  },
-  {
-   "tok": [
-    "000",
-    "faces",
-    "gold",
-    "payrolls",
-    "report",
-    "risk",
-    "strong",
-    "support",
-    "us"
-   ],
-   "ts": "2026-11-06T17:03:17.521509+00:00"
-  },
-  {
-   "tok": [
-    "around",
-    "boj",
-    "consumer",
-    "early",
-    "expected",
-    "further",
-    "into",
-    "next",
-    "now",
-    "prices",
-    "rise",
-    "ueda",
-    "year"
-   ],
-   "ts": "2026-11-06T17:03:17.521509+00:00"
-  },
   {
    "tok": [
     "bets",
@@ -291,6 +244,53 @@
     "week"
    ],
    "ts": "2026-11-09T10:40:54.259445+00:00"
+  },
+  {
+   "tok": [
+    "back",
+    "eases",
+    "inflation",
+    "jumps",
+    "kitco",
+    "nvidia",
+    "oil",
+    "slide",
+    "slumps",
+    "st",
+    "wall",
+    "worries"
+   ],
+   "ts": "2026-11-09T21:05:20.298916+00:00"
+  },
+  {
+   "tok": [
+    "climbs",
+    "crude",
+    "ease",
+    "fears",
+    "gold",
+    "inflation",
+    "kitco",
+    "lower",
+    "more",
+    "prices",
+    "than"
+   ],
+   "ts": "2026-11-09T21:05:20.298916+00:00"
+  },
+  {
+   "tok": [
+    "cpi",
+    "fuels",
+    "global",
+    "markets",
+    "oil",
+    "outlook",
+    "pre",
+    "recovery",
+    "retreat"
+   ],
+   "ts": "2026-11-09T21:05:20.298916+00:00"
   }
  ]
 }
