@@ -5,7 +5,7 @@
   "2026-11-06": 2,
   "2026-11-07": 6,
   "2026-11-09": 10,
-  "2026-11-10": 3
+  "2026-11-10": 6
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -24,6 +24,7 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/fed-s-waller-says-a-half-point-rate-hike-in-december-may-be-needed-if-core-cpi-comes-in-hot/": "2026-11-10T11:46:08.630381+00:00",
   "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/": "2026-11-08T23:24:51.885096+00:00",
   "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/": "2026-11-09T02:50:10.859772+00:00",
   "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/": "2026-11-09T02:50:10.859772+00:00",
@@ -35,10 +36,13 @@
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1lfYUt5N3VwUVBwQlpZSG5Id1l2Nnl5RHpBQWFIcVNKUWl6R2tlOF9yZEU3LTMyUEhaNWRwNVMzd1BaUU44c0lNTjI3T2hGM01qUzZvTFpYcnNkX0ZSVC03aUtJYnZKZ1NJYlVBSWxkdWJPSlg3elV3SUhCeXV0Y0xzaEt3N3gyYkRFZk95aUstZHVNRmc1dTkyMFoxVmxXMTctUDZ5YWRXaXFFcWMtU0hzMTNNZHFo?oc=5": "2026-11-09T21:05:20.298916+00:00",
   "https://www.fxempire.com/forecasts/article/copper-price-forecast-chinas-tight-supply-lifts-prices-before-us-cpi-1643263": "2026-11-09T10:40:54.259445+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-outlook-oil-retreat-fuels-pre-cpi-recovery-1643409": "2026-11-09T21:05:20.298916+00:00",
+  "https://www.fxempire.com/forecasts/article/oil-news-trumps-iran-comments-cut-war-premium-as-opec-output-rises-1643480": "2026-11-10T11:46:08.630381+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-holding-51-05-could-put-55-35-on-the-radar-1643193": "2026-11-08T19:57:06.466715+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-rally-faces-us-cpi-test-after-dollar-jump-1643197": "2026-11-08T19:57:06.466715+00:00",
+  "https://www.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5013846": "2026-11-10T11:46:08.630381+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-above-4100-as-traders-await-us-inflation-data-after-jobs-beat-5010397": "2026-11-09T10:40:54.259445+00:00",
-  "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449": "2026-11-09T10:40:54.259445+00:00"
+  "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449": "2026-11-09T10:40:54.259445+00:00",
+  "https://www.investing.com/news/forex-news/euro-yields-linger--at-1month-lows-as-sinking-oil-calms-inflation-jitters-5014393": "2026-11-10T11:46:08.630381+00:00"
  },
  "reminders": {},
  "titles": [
@@ -238,6 +242,57 @@
     "retreat"
    ],
    "ts": "2026-11-09T21:05:20.298916+00:00"
+  },
+  {
+   "tok": [
+    "assess",
+    "await",
+    "comments",
+    "data",
+    "fed",
+    "gold",
+    "hawkish",
+    "inflation",
+    "investors",
+    "slips"
+   ],
+   "ts": "2026-11-10T11:46:08.630381+00:00"
+  },
+  {
+   "tok": [
+    "comments",
+    "cut",
+    "iran",
+    "news",
+    "oil",
+    "opec",
+    "output",
+    "premium",
+    "rises",
+    "trump",
+    "war"
+   ],
+   "ts": "2026-11-10T11:46:08.630381+00:00"
+  },
+  {
+   "tok": [
+    "be",
+    "comes",
+    "core",
+    "cpi",
+    "december",
+    "fed",
+    "half",
+    "hike",
+    "hot",
+    "if",
+    "may",
+    "needed",
+    "point",
+    "rate",
+    "waller"
+   ],
+   "ts": "2026-11-10T11:46:08.630381+00:00"
   }
  ]
 }
