@@ -5,7 +5,7 @@
   "2026-11-09": 10,
   "2026-11-10": 6,
   "2026-11-11": 6,
-  "2026-11-12": 6
+  "2026-11-12": 9
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -30,12 +30,10 @@
   "https://investinglive.com/central-banks/japan-wholesale-inflation-speeds-up-to-7-1-beating-forecasts-and-firming-boj-hike-bets/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/central-banks/more-from-fed-s-bowman-shifts-focus-to-inflation-wants-ai-and-middle-east-risks-to-ease-first/": "2026-11-11T00:00:26.804493+00:00",
   "https://investinglive.com/central-banks/three-reasons-goldman-has-added-another-fed-rate-hike-to-its-forecast-higher-and-higher/": "2026-11-11T06:06:17.170669+00:00",
-  "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/": "2026-11-09T02:50:10.859772+00:00",
-  "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/": "2026-11-09T02:50:10.859772+00:00",
+  "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/": "2026-11-12T09:59:55.897870+00:00",
   "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/forex/market-outlook-for-the-week-of-9th-13th-november/": "2026-11-09T10:40:54.259445+00:00",
-  "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/": "2026-11-09T02:50:10.859772+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/": "2026-11-11T21:25:08.559156+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/": "2026-11-11T06:06:17.170669+00:00",
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5": "2026-11-11T21:25:08.559156+00:00",
@@ -47,7 +45,9 @@
   "https://www.fxempire.com/forecasts/article/copper-price-forecast-chinas-tight-supply-lifts-prices-before-us-cpi-1643263": "2026-11-09T10:40:54.259445+00:00",
   "https://www.fxempire.com/forecasts/article/global-markets-outlook-oil-retreat-fuels-pre-cpi-recovery-1643409": "2026-11-09T21:05:20.298916+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-tests-support-as-dollar-climbs-1643980": "2026-11-11T21:25:08.559156+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-fed-hike-bets-harden-can-gold-hold-3944-1644067": "2026-11-12T09:59:55.897870+00:00",
   "https://www.fxempire.com/forecasts/article/oil-news-trumps-iran-comments-cut-war-premium-as-opec-output-rises-1643480": "2026-11-10T11:46:08.630381+00:00",
+  "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-hits-19-month-high-can-it-break-103-15-1644082": "2026-11-12T09:59:55.897870+00:00",
   "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139": "2026-11-12T02:21:16.141758+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5013846": "2026-11-10T11:46:08.630381+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-above-4100-as-traders-await-us-inflation-data-after-jobs-beat-5010397": "2026-11-09T10:40:54.259445+00:00",
@@ -57,52 +57,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "80",
-    "but",
-    "cap",
-    "december",
-    "fed",
-    "gain",
-    "gold",
-    "higher",
-    "hike",
-    "odds",
-    "oil",
-    "softer",
-    "ticks"
-   ],
-   "ts": "2026-11-09T02:50:10.859772+00:00"
-  },
-  {
-   "tok": [
-    "150",
-    "2026",
-    "2027",
-    "800",
-    "bites",
-    "cuts",
-    "fed",
-    "forecasts",
-    "gold",
-    "goldman",
-    "hawkish",
-    "icymi"
-   ],
-   "ts": "2026-11-09T02:50:10.859772+00:00"
-  },
-  {
-   "tok": [
-    "2026",
-    "china",
-    "cpi",
-    "expected",
-    "october",
-    "prior"
-   ],
-   "ts": "2026-11-09T02:50:10.859772+00:00"
-  },
   {
    "tok": [
     "brace",
@@ -443,6 +397,61 @@
     "wholesale"
    ],
    "ts": "2026-11-12T02:21:16.141758+00:00"
+  },
+  {
+   "tok": [
+    "dollar",
+    "erases",
+    "gains",
+    "gold",
+    "higher",
+    "hurt",
+    "midterms",
+    "next",
+    "post",
+    "real",
+    "us",
+    "what",
+    "yields"
+   ],
+   "ts": "2026-11-12T09:59:55.897870+00:00"
+  },
+  {
+   "tok": [
+    "944",
+    "bets",
+    "can",
+    "fed",
+    "forecast",
+    "gold",
+    "harden",
+    "hike",
+    "hold",
+    "price",
+    "silver",
+    "xauusd"
+   ],
+   "ts": "2026-11-12T09:59:55.897870+00:00"
+  },
+  {
+   "tok": [
+    "103",
+    "15",
+    "19",
+    "dollar",
+    "dxy",
+    "eur",
+    "eyes",
+    "forecast",
+    "gbp",
+    "high",
+    "month",
+    "price",
+    "slide",
+    "us",
+    "usd"
+   ],
+   "ts": "2026-11-12T09:59:55.897870+00:00"
   }
  ]
 }
