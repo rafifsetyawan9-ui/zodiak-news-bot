@@ -5,7 +5,7 @@
   "2026-11-11": 6,
   "2026-11-12": 9,
   "2026-11-13": 4,
-  "2026-11-14": 1
+  "2026-11-14": 4
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -38,14 +38,17 @@
   "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-nov-it-s-a-wrap-dollar-climbs-as-stocks-rise-and-oil-fades/": "2026-11-11T21:25:08.559156+00:00",
+  "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/": "2026-11-13T23:54:29.869346+00:00",
   "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/": "2026-11-11T06:06:17.170669+00:00",
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45OFJTWDZuVGExekwwWWU5VzJXemxodkI1WlFBSVNmVkRrWkxrNlJjV2ZPTVk4Y281ZFd5d08yMVdxMGZGOENSQ0EtVGVkUXhrNUdNcF9DVkZhQQ?oc=5": "2026-11-11T21:25:08.559156+00:00",
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVVjNnJtemEwVDg5SXNTenlIalhZNXhxWHZxTmV3TUhwQ3E4RzdEU1ZHQ2xabFo1ZWZJOVFHUVZmSzc1bTgtck5qekcwalBDRVpDNEZxWnJzZ1Z6S0UtYjEtLW8wa3dSSWVGNkhyaFN1ZUd0VHM3TTlkaE44NzlUU2FTYXp1S0JIblEzdkoxdm9BZkVlclJHdUlB?oc=5": "2026-11-12T23:33:26.879916+00:00",
   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3BRcUI5M1VFSDI4TWgzaFd2aEFTT3FPYzVNc3pydktJS3NzS0lGUzh6a1FGNm1EU1JTa0RxbFY2a3ZDZEFXd2VnS3VXWnc2UWFtb19hM1AyQTM3QkxnWW4yYjB4ZGUtaEQyVGktQWR4SjhEMHdFRUdramF2U183dG4tOWtfeElFTWllZTRuNzU1VXhveEFZT3Iwb3Vha0xULVJZ?oc=5": "2026-11-11T21:25:08.559156+00:00",
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5": "2026-11-13T23:54:29.869346+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHN3TW5TaFNkdC1jbFVBMHVOY3FSV0lsSnBQSGtCNzBLZFRITk5tbU9LVnhsdlZ0azRULXhKYjNCWUNvaGY4MGtBTVhlR18zYTZUd0pHemdpVmtNQ3RDQ0RIWUxMRlM3MlF4OElDdVp3RHItZDI3em9abld5Y1VUUnVFTXViZUpJQW1acmdpMTI2WHpQdVB1M00tV1dudGdHVkRETXNRNTNwc3k2dVRIdE1lMmVQTEU?oc=5": "2026-11-11T00:00:26.804493+00:00",
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGhvbHBVekx2Sm1QRGxIbnVzMWJZMThnNEVJNTJab2N5c0MtZkxzbDNGellpU2MzcHRBQlV1cWtZMVJoVWh1aVNERTJKV3N1R1NVUnl4QXVYZUdWc2VYbjJROWd6RXhsem1ZZ3V2SVR0TkZDbDF0bExDSHV0b3c5YTV3V01Mcl9JTlp0ZmZ6MXlCTk0zOHdTQjVVX3ZtQktJd2dIVUhGN3IxSUVoZGpVMmlOVndyQUwxa1BV?oc=5": "2026-11-12T23:33:26.879916+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjFnYTZXd19NRGpCTENYaVNGRFJjYkkyOWM3ZVZycC1NeV9MTVBvVDBsVE10UGhvZFlzRWg1UkJXTDduSVZ2S25QOXBtTGdyZzB3d1VQc3lUc000d2hQUnU2SFBVbG1vU0pTeW5oTlFEdVJRODBKanAwbWpOeC0xOS1UTEhYUzh3WVRYajY4aU1OTlNmSFpkM3VyZEMxcnBqQXVyU2VNMFdOR3R6RXNITEdPbkJpcWZkNy1Bcjln?oc=5": "2026-11-11T00:00:26.804493+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-tests-support-as-dollar-climbs-1643980": "2026-11-11T21:25:08.559156+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-dollar-strength-extends-downside-targets-2-1644653": "2026-11-13T23:54:29.869346+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-fed-hike-bets-harden-can-gold-hold-3944-1644067": "2026-11-12T09:59:55.897870+00:00",
   "https://www.fxempire.com/forecasts/article/golds-3850-weekly-support-matters-as-real-yields-climb-to-2-86-1644571": "2026-11-13T18:44:50.996663+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-hits-19-month-high-can-it-break-103-15-1644082": "2026-11-12T09:59:55.897870+00:00",
@@ -392,6 +395,56 @@
     "yields"
    ],
    "ts": "2026-11-13T18:44:50.996663+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "fed",
+    "gold",
+    "kitco",
+    "loss",
+    "persist",
+    "pm",
+    "posts",
+    "report",
+    "rise",
+    "steep",
+    "tightening",
+    "treasury",
+    "weekly",
+    "yields"
+   ],
+   "ts": "2026-11-13T23:54:29.869346+00:00"
+  },
+  {
+   "tok": [
+    "americas",
+    "ebb",
+    "fed",
+    "hawkish",
+    "investinglive",
+    "market",
+    "news",
+    "ppi",
+    "worries",
+    "wrap"
+   ],
+   "ts": "2026-11-13T23:54:29.869346+00:00"
+  },
+  {
+   "tok": [
+    "dollar",
+    "downside",
+    "extends",
+    "forecast",
+    "gold",
+    "price",
+    "strength",
+    "targets",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-11-13T23:54:29.869346+00:00"
   }
  ]
 }
