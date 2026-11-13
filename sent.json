@@ -5,7 +5,7 @@
   "2026-11-10": 6,
   "2026-11-11": 6,
   "2026-11-12": 9,
-  "2026-11-13": 3
+  "2026-11-13": 4
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -32,6 +32,7 @@
   "https://investinglive.com/central-banks/more-from-fed-s-bowman-shifts-focus-to-inflation-wants-ai-and-middle-east-risks-to-ease-first/": "2026-11-11T00:00:26.804493+00:00",
   "https://investinglive.com/central-banks/three-reasons-goldman-has-added-another-fed-rate-hike-to-its-forecast-higher-and-higher/": "2026-11-11T06:06:17.170669+00:00",
   "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/": "2026-11-12T23:33:26.879916+00:00",
+  "https://investinglive.com/commodities/airlines-face-higher-fuel-bills-as-pre-war-hedges-expire-and-jet-fuel-holds-near-150/": "2026-11-13T03:35:07.880623+00:00",
   "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/": "2026-11-12T09:59:55.897870+00:00",
   "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/": "2026-11-12T02:21:16.141758+00:00",
@@ -49,6 +50,7 @@
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-hits-19-month-high-can-it-break-103-15-1644082": "2026-11-12T09:59:55.897870+00:00",
   "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139": "2026-11-12T02:21:16.141758+00:00",
   "https://www.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5013846": "2026-11-10T11:46:08.630381+00:00",
+  "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860": "2026-11-13T03:35:07.880623+00:00",
   "https://www.investing.com/news/commodities-news/gold-steadies-near-4035-after-sharp-selloff-as-december-fed-hike-bets-firm-5017433": "2026-11-11T06:06:17.170669+00:00",
   "https://www.investing.com/news/forex-news/euro-yields-linger--at-1month-lows-as-sinking-oil-calms-inflation-jitters-5014393": "2026-11-10T11:46:08.630381+00:00"
  },
@@ -410,6 +412,24 @@
     "until"
    ],
    "ts": "2026-11-12T23:33:26.879916+00:00"
+  },
+  {
+   "tok": [
+    "150",
+    "airlines",
+    "bills",
+    "expire",
+    "face",
+    "fuel",
+    "hedges",
+    "higher",
+    "holds",
+    "jet",
+    "near",
+    "pre",
+    "war"
+   ],
+   "ts": "2026-11-13T03:35:07.880623+00:00"
   }
  ]
 }
