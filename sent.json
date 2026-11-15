@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-09": 10,
   "2026-11-10": 6,
   "2026-11-11": 6,
   "2026-11-12": 9,
   "2026-11-13": 4,
-  "2026-11-14": 5
+  "2026-11-14": 5,
+  "2026-11-16": 1
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -37,6 +37,7 @@
   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGhvbHBVekx2Sm1QRGxIbnVzMWJZMThnNEVJNTJab2N5c0MtZkxzbDNGellpU2MzcHRBQlV1cWtZMVJoVWh1aVNERTJKV3N1R1NVUnl4QXVYZUdWc2VYbjJROWd6RXhsem1ZZ3V2SVR0TkZDbDF0bExDSHV0b3c5YTV3V01Mcl9JTlp0ZmZ6MXlCTk0zOHdTQjVVX3ZtQktJd2dIVUhGN3IxSUVoZGpVMmlOVndyQUwxa1BV?oc=5": "2026-11-12T23:33:26.879916+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-dollar-strength-extends-downside-targets-2-1644653": "2026-11-13T23:54:29.869346+00:00",
   "https://www.fxempire.com/forecasts/article/golds-3850-weekly-support-matters-as-real-yields-climb-to-2-86-1644571": "2026-11-13T18:44:50.996663+00:00",
+  "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724": "2026-11-15T20:33:54.694325+00:00",
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-long-term-support-levels-in-focus-as-rate-hike-fears-grow-1644672": "2026-11-14T11:30:08.301891+00:00",
   "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860": "2026-11-13T03:35:07.880623+00:00"
  },
@@ -190,6 +191,20 @@
     "xag"
    ],
    "ts": "2026-11-14T11:30:08.301891+00:00"
+  },
+  {
+   "tok": [
+    "50",
+    "below",
+    "forecast",
+    "jump",
+    "price",
+    "silver",
+    "slides",
+    "treasury",
+    "yields"
+   ],
+   "ts": "2026-11-15T20:33:54.694325+00:00"
   }
  ]
 }
