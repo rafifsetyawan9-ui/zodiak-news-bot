@@ -29,12 +29,9 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
-  "https://investinglive.com/central-banks/japan-wholesale-inflation-speeds-up-to-7-1-beating-forecasts-and-firming-boj-hike-bets/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/": "2026-11-12T23:33:26.879916+00:00",
   "https://investinglive.com/commodities/airlines-face-higher-fuel-bills-as-pre-war-hedges-expire-and-jet-fuel-holds-near-150/": "2026-11-13T03:35:07.880623+00:00",
   "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/": "2026-11-12T09:59:55.897870+00:00",
-  "https://investinglive.com/commodities/td-securities-sees-gold-retesting-3-900-as-fed-hike-bets-and-a-firm-dollar-bite/": "2026-11-12T02:21:16.141758+00:00",
-  "https://investinglive.com/forex/japan-s-mimura-warns-yen-moves-are-too-rapid-as-usd-jpy-pushes-back-toward-160/": "2026-11-12T02:21:16.141758+00:00",
   "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/": "2026-11-13T23:54:29.869346+00:00",
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVVjNnJtemEwVDg5SXNTenlIalhZNXhxWHZxTmV3TUhwQ3E4RzdEU1ZHQ2xabFo1ZWZJOVFHUVZmSzc1bTgtck5qekcwalBDRVpDNEZxWnJzZ1Z6S0UtYjEtLW8wa3dSSWVGNkhyaFN1ZUd0VHM3TTlkaE44NzlUU2FTYXp1S0JIblEzdkoxdm9BZkVlclJHdUlB?oc=5": "2026-11-12T23:33:26.879916+00:00",
   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5": "2026-11-13T23:54:29.869346+00:00",
@@ -44,62 +41,10 @@
   "https://www.fxempire.com/forecasts/article/golds-3850-weekly-support-matters-as-real-yields-climb-to-2-86-1644571": "2026-11-13T18:44:50.996663+00:00",
   "https://www.fxempire.com/forecasts/article/silver-xag-forecast-long-term-support-levels-in-focus-as-rate-hike-fears-grow-1644672": "2026-11-14T11:30:08.301891+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-hits-19-month-high-can-it-break-103-15-1644082": "2026-11-12T09:59:55.897870+00:00",
-  "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139": "2026-11-12T02:21:16.141758+00:00",
   "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860": "2026-11-13T03:35:07.880623+00:00"
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "900",
-    "bets",
-    "bite",
-    "dollar",
-    "fed",
-    "firm",
-    "gold",
-    "hike",
-    "retesting",
-    "securities",
-    "sees",
-    "td"
-   ],
-   "ts": "2026-11-12T02:21:16.141758+00:00"
-  },
-  {
-   "tok": [
-    "160",
-    "back",
-    "japan",
-    "jpy",
-    "mimura",
-    "moves",
-    "pushes",
-    "rapid",
-    "too",
-    "toward",
-    "usd",
-    "warns",
-    "yen"
-   ],
-   "ts": "2026-11-12T02:21:16.141758+00:00"
-  },
-  {
-   "tok": [
-    "beating",
-    "bets",
-    "boj",
-    "firming",
-    "forecasts",
-    "hike",
-    "inflation",
-    "japan",
-    "speeds",
-    "up",
-    "wholesale"
-   ],
-   "ts": "2026-11-12T02:21:16.141758+00:00"
-  },
   {
    "tok": [
     "dollar",
