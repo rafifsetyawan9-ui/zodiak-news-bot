@@ -5,7 +5,7 @@
   "2026-11-14": 5,
   "2026-11-16": 5,
   "2026-11-17": 2,
-  "2026-11-18": 3
+  "2026-11-18": 5
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -39,7 +39,9 @@
   "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/": "2026-11-16T00:21:40.419067+00:00",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2RhMzU5VGtPVEZOYXFvUTZHT0pnelh5ZnBHTHBZMUJIaXdiTm9Jb0hVcEctN1BMdU1FbWcwU3o5anY5Z0w1Y1JnTFpidzg4SFNUWDVZRTRCQ3BLeE1oUzY3RUZ4Nll6Wm1JekItQWRxcUFkRlFHMXk2WWc4WTBZTjFDWmdoQlQyNzJabTFYdWwzeHBHY2VWa0xkdzdkYU92ZVhVemE4Wkw4S0lYaUwxdw?oc=5": "2026-11-17T17:46:43.380117+00:00",
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5": "2026-11-17T17:46:43.380117+00:00",
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1BJTVFELVMzTzdSNWZydElEbzRtUDFsQ2RET0dab0lTM3VNZDVSVHgxeVdDbDhENmktSk5IbVlXVHkwSjZaOURlTUkza0dVSXBISTV4eTFUbmZyR3JwcU9aTE9jbDFKdnphSkdLbkdndjg0eUctNUI4MGczTEJEV1I4ZUduWWVIY1FZeEpfMVB2SzJILXJqcGFvazVLY29ZU2JSLWJKWWdCRGp1OUZ0QlBGSHhQSlM5?oc=5": "2026-11-18T00:15:43.176710+00:00",
   "https://www.fxempire.com/forecasts/article/gold-weekly-forecast-strong-dollar-and-rate-hike-bets-add-pressure-1645228": "2026-11-17T17:46:43.380117+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-pressure-builds-below-key-resistance-2-1645319": "2026-11-18T00:15:43.176710+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-near-one-year-low-can-it-hold-3852-1644760": "2026-11-16T06:57:02.653357+00:00",
   "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724": "2026-11-15T20:33:54.694325+00:00",
   "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358": "2026-11-17T00:30:21.375162+00:00",
@@ -212,6 +214,44 @@
     "yields"
    ],
    "ts": "2026-11-17T17:46:43.380117+00:00"
+  },
+  {
+   "tok": [
+    "bets",
+    "fed",
+    "gold",
+    "hike",
+    "kitco",
+    "lows",
+    "near",
+    "one",
+    "persist",
+    "pm",
+    "rebounds",
+    "report",
+    "silver",
+    "slide",
+    "stocks",
+    "struggles",
+    "year"
+   ],
+   "ts": "2026-11-18T00:15:43.176710+00:00"
+  },
+  {
+   "tok": [
+    "bearish",
+    "below",
+    "builds",
+    "forecast",
+    "gold",
+    "key",
+    "pressure",
+    "price",
+    "resistance",
+    "usd",
+    "xau"
+   ],
+   "ts": "2026-11-18T00:15:43.176710+00:00"
   }
  ]
 }
