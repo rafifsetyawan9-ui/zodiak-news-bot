@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-12": 9,
   "2026-11-13": 4,
   "2026-11-14": 5,
   "2026-11-16": 5,
   "2026-11-17": 2,
-  "2026-11-18": 11
+  "2026-11-18": 11,
+  "2026-11-19": 3
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -32,7 +32,9 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/boj-tipped-to-hike-to-1-50-in-december-its-first-three-hike-year-in-37-years/": "2026-11-18T23:13:39.707616+00:00",
   "https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/": "2026-11-16T00:21:40.419067+00:00",
+  "https://investinglive.com/central-banks/kashkari-says-markets-see-more-fed-hikes-than-officials-do-as-four-fed-voices-turn-hawkish/": "2026-11-18T23:13:39.707616+00:00",
   "https://investinglive.com/central-banks/new-zealand-food-prices-fall-0-4-in-october-as-rbnz-flags-3-rising-global-risks/": "2026-11-17T00:30:21.375162+00:00",
   "https://investinglive.com/central-banks/weekend-fed-speak-collins-backs-steady-gradual-rate-hikes-cool-on-a-bigger-december-move/": "2026-11-16T00:21:40.419067+00:00",
   "https://investinglive.com/education/gold-holds-firm-as-us-indices-gain-ground-in-q3-easymarkets-reports/": "2026-11-17T08:28:36.171965+00:00",
@@ -41,12 +43,12 @@
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5": "2026-11-17T17:46:43.380117+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnhpbVdvWWtnejVRYTByR19fRnBxcHFGTmN5WUdmUTJ4cHJIRTlzZTR1N3pIOW16MVkxd2dzZjlSVjNXR2FSUUlvYV9qdUlwYUdWR0xqTjdjSy1mNURRTHNwZXdoMnM4anduZTVTLThjUlNUd1NDVHptUS1ZWkl5Wm1Xd2J1anVMbDJtTkxEcFdwUmJ4Z3BJSVN2aWFjVUlnOU5FZnlyWHhLYVJVaTJabEpKeS1XdDg?oc=5": "2026-11-18T16:50:50.376536+00:00",
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1BJTVFELVMzTzdSNWZydElEbzRtUDFsQ2RET0dab0lTM3VNZDVSVHgxeVdDbDhENmktSk5IbVlXVHkwSjZaOURlTUkza0dVSXBISTV4eTFUbmZyR3JwcU9aTE9jbDFKdnphSkdLbkdndjg0eUctNUI4MGczTEJEV1I4ZUduWWVIY1FZeEpfMVB2SzJILXJqcGFvazVLY29ZU2JSLWJKWWdCRGp1OUZ0QlBGSHhQSlM5?oc=5": "2026-11-18T00:15:43.176710+00:00",
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclJNeHVDcHRDMkU5SHdkUXJNNnFHZnZkb2dwS1dDeDN2UW5fOHhjeWxNbUh1M25uOVNLZFBrakVwVWgtUXdJcU9uV1VyVUhfYzNDek5zUTZCeWVLQ254SS10TjUyNmpyWFdydk5JNnlvUXJ5SWJSY1FSd3cxMkJ4WEYwYW9RUU5JcmlFMEFjZENFSXhMbWdKS0pkQkpuanJzeDQ2T1hlXzNXcDhMdzY3bVE5b3pQSUJaU3VvTg?oc=5": "2026-11-18T23:13:39.707616+00:00",
   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1lPTzhpcGxNNEc1UnNNUl95N0tVaWhyM21jaHlsY1BkWFlKM25DclBGZXBoaDFZaWJNbzNubU9FZTV4UzgzMW52Tm1TUkVkRVRfbjlrekhKVmxzcWdHT19zTXJpbjdiaGNDTU5XenB2bWo2aXd1cHh4emdfR0xmaVU2MmtZdjB0akt3MHhnSXNUeGNVemRCZHVWN3lmS0h4Mm9QbGVBdHlUUndrSVpDVDV0VDl6RmFyYjJENkRB?oc=5": "2026-11-18T16:50:50.376536+00:00",
   "https://www.fxempire.com/forecasts/article/gold-weekly-forecast-strong-dollar-and-rate-hike-bets-add-pressure-1645228": "2026-11-17T17:46:43.380117+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bearish-pressure-builds-below-key-resistance-2-1645319": "2026-11-18T00:15:43.176710+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-breaks-to-a-14-month-low-ahead-of-fed-minutes-can-3781-hold-1645349": "2026-11-18T07:47:30.761884+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-near-one-year-low-can-it-hold-3852-1644760": "2026-11-16T06:57:02.653357+00:00",
-  "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724": "2026-11-15T20:33:54.694325+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-tests-yearly-highs-as-rally-continues-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-3-1645498": "2026-11-18T16:50:50.376536+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-tests-103-74-near-19-month-high-as-eur-usd-gbp-usd-slip-1645355": "2026-11-18T07:47:30.761884+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463": "2026-11-18T07:47:30.761884+00:00",
@@ -58,20 +60,6 @@
   "USD|Fed Chairman Warsh Speaks|2026-11-16T17:00:00+00:00": "2026-11-16T16:43:53.969223+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "50",
-    "below",
-    "forecast",
-    "jump",
-    "price",
-    "silver",
-    "slides",
-    "treasury",
-    "yields"
-   ],
-   "ts": "2026-11-15T20:33:54.694325+00:00"
-  },
   {
    "tok": [
     "annualised",
@@ -365,6 +353,59 @@
     "waller"
    ],
    "ts": "2026-11-18T16:50:50.376536+00:00"
+  },
+  {
+   "tok": [
+    "750",
+    "below",
+    "fed",
+    "gold",
+    "hawkish",
+    "kitco",
+    "metals",
+    "minutes",
+    "plunges",
+    "pm",
+    "pressure",
+    "report",
+    "silver",
+    "tumbles"
+   ],
+   "ts": "2026-11-18T23:13:39.707616+00:00"
+  },
+  {
+   "tok": [
+    "37",
+    "50",
+    "boj",
+    "december",
+    "first",
+    "hike",
+    "its",
+    "three",
+    "tipped",
+    "year",
+    "years"
+   ],
+   "ts": "2026-11-18T23:13:39.707616+00:00"
+  },
+  {
+   "tok": [
+    "do",
+    "fed",
+    "four",
+    "hawkish",
+    "hikes",
+    "kashkari",
+    "markets",
+    "more",
+    "officials",
+    "see",
+    "than",
+    "turn",
+    "voices"
+   ],
+   "ts": "2026-11-18T23:13:39.707616+00:00"
   }
  ]
 }
