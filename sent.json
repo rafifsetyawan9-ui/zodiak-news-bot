@@ -5,7 +5,7 @@
   "2026-11-16": 5,
   "2026-11-17": 2,
   "2026-11-18": 11,
-  "2026-11-19": 3
+  "2026-11-19": 6
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -32,13 +32,12 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
+  "https://investinglive.com/central-banks/boj-s-ueda-expects-to-keep-raising-rates-warning-inflation-could-overshoot-2-target/": "2026-11-19T04:12:16.425117+00:00",
   "https://investinglive.com/central-banks/boj-tipped-to-hike-to-1-50-in-december-its-first-three-hike-year-in-37-years/": "2026-11-18T23:13:39.707616+00:00",
-  "https://investinglive.com/central-banks/ecb-s-nagel-says-another-rate-hike-highly-probable-as-energy-prices-push-inflation/": "2026-11-16T00:21:40.419067+00:00",
   "https://investinglive.com/central-banks/kashkari-says-markets-see-more-fed-hikes-than-officials-do-as-four-fed-voices-turn-hawkish/": "2026-11-18T23:13:39.707616+00:00",
   "https://investinglive.com/central-banks/new-zealand-food-prices-fall-0-4-in-october-as-rbnz-flags-3-rising-global-risks/": "2026-11-17T00:30:21.375162+00:00",
-  "https://investinglive.com/central-banks/weekend-fed-speak-collins-backs-steady-gradual-rate-hikes-cool-on-a-bigger-december-move/": "2026-11-16T00:21:40.419067+00:00",
   "https://investinglive.com/education/gold-holds-firm-as-us-indices-gain-ground-in-q3-easymarkets-reports/": "2026-11-17T08:28:36.171965+00:00",
-  "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/": "2026-11-16T00:21:40.419067+00:00",
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0J3ZUduVkptNUFSMVI3VzFGR2RvZVlBWElpMjVNdXNFVHVNcWlDVzROVE5Xc1lHYnhkWFpUWjJDOHpMNGF4a3EwSHUyY1BDNWc1RVpFS2F3aGliMUZMNDd1UDhQdW9PQ0FCaTRSMzQ3cTVNbDhyV0FCWXZkajBnbVBwOWRhY0xoTW8zYndORk1yR0ZFWFMtc3RmVzN5R00?oc=5": "2026-11-19T04:12:16.425117+00:00",
   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2RhMzU5VGtPVEZOYXFvUTZHT0pnelh5ZnBHTHBZMUJIaXdiTm9Jb0hVcEctN1BMdU1FbWcwU3o5anY5Z0w1Y1JnTFpidzg4SFNUWDVZRTRCQ3BLeE1oUzY3RUZ4Nll6Wm1JekItQWRxcUFkRlFHMXk2WWc4WTBZTjFDWmdoQlQyNzJabTFYdWwzeHBHY2VWa0xkdzdkYU92ZVhVemE4Wkw4S0lYaUwxdw?oc=5": "2026-11-17T17:46:43.380117+00:00",
   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5": "2026-11-17T17:46:43.380117+00:00",
   "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnhpbVdvWWtnejVRYTByR19fRnBxcHFGTmN5WUdmUTJ4cHJIRTlzZTR1N3pIOW16MVkxd2dzZjlSVjNXR2FSUUlvYV9qdUlwYUdWR0xqTjdjSy1mNURRTHNwZXdoMnM4anduZTVTLThjUlNUd1NDVHptUS1ZWkl5Wm1Xd2J1anVMbDJtTkxEcFdwUmJ4Z3BJSVN2aWFjVUlnOU5FZnlyWHhLYVJVaTJabEpKeS1XdDg?oc=5": "2026-11-18T16:50:50.376536+00:00",
@@ -52,6 +51,7 @@
   "https://www.fxempire.com/forecasts/article/u-s-dollar-tests-yearly-highs-as-rally-continues-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-3-1645498": "2026-11-18T16:50:50.376536+00:00",
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-tests-103-74-near-19-month-high-as-eur-usd-gbp-usd-slip-1645355": "2026-11-18T07:47:30.761884+00:00",
   "https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463": "2026-11-18T07:47:30.761884+00:00",
+  "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506": "2026-11-19T04:12:16.425117+00:00",
   "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358": "2026-11-17T00:30:21.375162+00:00",
   "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600": "2026-11-17T08:28:36.171965+00:00",
   "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711": "2026-11-18T07:47:30.761884+00:00"
@@ -60,55 +60,6 @@
   "USD|Fed Chairman Warsh Speaks|2026-11-16T17:00:00+00:00": "2026-11-16T16:43:53.969223+00:00"
  },
  "titles": [
-  {
-   "tok": [
-    "annualised",
-    "consumers",
-    "expected",
-    "exports",
-    "gdp",
-    "japan",
-    "q3",
-    "shrinks",
-    "vs",
-    "weigh"
-   ],
-   "ts": "2026-11-16T00:21:40.419067+00:00"
-  },
-  {
-   "tok": [
-    "another",
-    "ecb",
-    "energy",
-    "highly",
-    "hike",
-    "inflation",
-    "nagel",
-    "prices",
-    "probable",
-    "push",
-    "rate"
-   ],
-   "ts": "2026-11-16T00:21:40.419067+00:00"
-  },
-  {
-   "tok": [
-    "backs",
-    "bigger",
-    "collins",
-    "cool",
-    "december",
-    "fed",
-    "gradual",
-    "hikes",
-    "move",
-    "rate",
-    "speak",
-    "steady",
-    "weekend"
-   ],
-   "ts": "2026-11-16T00:21:40.419067+00:00"
-  },
   {
    "tok": [
     "852",
@@ -406,6 +357,57 @@
     "voices"
    ],
    "ts": "2026-11-18T23:13:39.707616+00:00"
+  },
+  {
+   "tok": [
+    "boj",
+    "could",
+    "expects",
+    "inflation",
+    "keep",
+    "overshoot",
+    "raising",
+    "rates",
+    "target",
+    "ueda",
+    "warning"
+   ],
+   "ts": "2026-11-19T04:12:16.425117+00:00"
+  },
+  {
+   "tok": [
+    "14",
+    "bargain",
+    "despite",
+    "emerge",
+    "fed",
+    "from",
+    "gold",
+    "hike",
+    "hunters",
+    "low",
+    "month",
+    "rebounds",
+    "risks"
+   ],
+   "ts": "2026-11-19T04:12:16.425117+00:00"
+  },
+  {
+   "tok": [
+    "10",
+    "dollar",
+    "down",
+    "gold",
+    "kitco",
+    "last",
+    "over",
+    "period",
+    "same",
+    "sessions",
+    "up",
+    "us"
+   ],
+   "ts": "2026-11-19T04:12:16.425117+00:00"
   }
  ]
 }
