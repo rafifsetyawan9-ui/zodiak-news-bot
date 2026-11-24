@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-18": 11,
   "2026-11-19": 6,
   "2026-11-20": 8,
   "2026-11-21": 6,
   "2026-11-23": 3,
-  "2026-11-24": 3
+  "2026-11-24": 3,
+  "2026-11-25": 2
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -27,6 +27,7 @@
   "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337": 1,
   "https://www.fxempire.com/forecasts/article/u-s-dollar-pulls-back-as-oil-prices-dive-6-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1642006": 1,
   "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dxy-eyes-101-10-as-gbp-usd-tests-1-3500-ahead-of-boe-1642648": 1,
+  "https://www.fxempire.com/forecasts/article/what-i-am-watching-today-eur-usd-usd-cad-usd-chf-and-aud-usd-1646923": 1,
   "https://www.fxempire.com/forecasts/article/why-the-ecb-rate-hike-cycle-is-not-over-1641097": 1,
   "https://www.investing.com/news/commodities-news/gold-falls-below-3900-as-december-fed-hike-bets-build-warsh-in-focus-5028296": 1,
   "https://www.investing.com/news/commodities-news/gold-holds-near-4130-as-oil-retreat-eases-inflation-concerns-5013846": 1,
@@ -38,11 +39,12 @@
   "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/": "2026-11-23T01:52:37.262427+00:00",
   "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/": "2026-11-23T01:52:37.262427+00:00",
   "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/": "2026-11-24T05:58:08.179008+00:00",
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-11-21T07:10:14.999558+00:00",
   "https://www.fxempire.com/forecasts/article/eur-usd-weekly-forecast-euro-stays-down-bad-as-fed-hike-bets-put-1-0955-support-in-focus-1646479": "2026-11-23T10:01:28.207208+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-price-forecast-etf-outflows-threaten-golds-sharp-recovery-1646912": "2026-11-24T17:01:51.319626+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bullish-reversal-targets-3900-resistance-1646727": "2026-11-23T22:01:05.343815+00:00",
   "https://www.fxempire.com/forecasts/article/nasdaq-100-and-sp-500-futures-rebound-after-steep-weekly-losses-1646469": "2026-11-23T10:01:28.207208+00:00",
   "https://www.fxempire.com/forecasts/article/nasdaq-and-sp-500-rebound-as-ai-selloff-tests-markets-1646699": "2026-11-23T22:01:05.343815+00:00",
+  "https://www.fxempire.com/forecasts/article/u-s-dollar-retreats-on-tariff-hike-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1646946": "2026-11-24T17:01:51.319626+00:00",
   "https://www.fxempire.com/forecasts/article/xrp-price-prediction-inflation-data-could-push-xrp-to-lower-lows-this-week-1646674": "2026-11-23T22:01:05.343815+00:00",
   "https://www.investing.com/news/commodities-news/gold-extends-rebound-as-nvidia-ceo-news-lifts-equities-dipbuying-lifts-bullion-5046835": "2026-11-24T05:58:08.179008+00:00",
   "https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271": "2026-11-23T10:01:28.207208+00:00"
@@ -145,6 +147,34 @@
     "yet"
    ],
    "ts": "2026-11-24T05:58:08.179008+00:00"
+  },
+  {
+   "tok": [
+    "analysis",
+    "cad",
+    "dollar",
+    "eur",
+    "gbp",
+    "hike",
+    "jpy",
+    "retreats",
+    "tariff",
+    "usd"
+   ],
+   "ts": "2026-11-24T17:01:51.319626+00:00"
+  },
+  {
+   "tok": [
+    "etf",
+    "forecast",
+    "gold",
+    "outflows",
+    "price",
+    "recovery",
+    "sharp",
+    "threaten"
+   ],
+   "ts": "2026-11-24T17:01:51.319626+00:00"
   }
  ]
 }
