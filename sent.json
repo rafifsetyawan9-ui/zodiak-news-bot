@@ -5,7 +5,7 @@
   "2026-11-21": 6,
   "2026-11-23": 3,
   "2026-11-24": 3,
-  "2026-11-25": 5
+  "2026-11-25": 8
  },
  "fails": {
   "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/": 2,
@@ -39,10 +39,13 @@
   "https://investinglive.com/central-banks/australia-trimmed-mean-cpi-jumps-to-3-8-in-october-keeping-further-rba-hike-risk-alive/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/": "2026-11-23T01:52:37.262427+00:00",
   "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/": "2026-11-25T01:24:51.714007+00:00",
+  "https://investinglive.com/commodities/gold-erases-gains-as-nvidia-optimism-fades-and-us-moves-to-restore-tariffs-to-2025-levels/": "2026-11-25T10:01:40.286528+00:00",
   "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/": "2026-11-23T01:52:37.262427+00:00",
   "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/": "2026-11-24T05:58:08.179008+00:00",
   "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/": "2026-11-25T01:24:51.714007+00:00",
+  "https://investinglive.com/news/what-are-the-main-events-for-today-93/": "2026-11-25T10:01:40.286528+00:00",
   "https://www.fxempire.com/forecasts/article/eur-usd-weekly-forecast-euro-stays-down-bad-as-fed-hike-bets-put-1-0955-support-in-focus-1646479": "2026-11-23T10:01:28.207208+00:00",
+  "https://www.fxempire.com/forecasts/article/gold-and-silver-retreat-as-bearish-momentum-returns-amid-cooling-ai-trade-1647088": "2026-11-25T10:01:40.286528+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-etf-outflows-threaten-golds-sharp-recovery-1646912": "2026-11-24T17:01:51.319626+00:00",
   "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bullish-reversal-targets-3900-resistance-1646727": "2026-11-23T22:01:05.343815+00:00",
   "https://www.fxempire.com/forecasts/article/nasdaq-100-and-sp-500-futures-rebound-after-steep-weekly-losses-1646469": "2026-11-23T10:01:28.207208+00:00",
@@ -227,6 +230,46 @@
     "services"
    ],
    "ts": "2026-11-25T01:24:51.714007+00:00"
+  },
+  {
+   "tok": [
+    "ai",
+    "bearish",
+    "cooling",
+    "gold",
+    "momentum",
+    "retreat",
+    "returns",
+    "silver",
+    "trade"
+   ],
+   "ts": "2026-11-25T10:01:40.286528+00:00"
+  },
+  {
+   "tok": [
+    "2025",
+    "erases",
+    "fades",
+    "gains",
+    "gold",
+    "levels",
+    "moves",
+    "nvidia",
+    "optimism",
+    "restore",
+    "tariffs",
+    "us"
+   ],
+   "ts": "2026-11-25T10:01:40.286528+00:00"
+  },
+  {
+   "tok": [
+    "events",
+    "main",
+    "today",
+    "what"
+   ],
+   "ts": "2026-11-25T10:01:40.286528+00:00"
   }
  ]
 }
