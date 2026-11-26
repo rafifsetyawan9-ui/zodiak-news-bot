@@ -1,11 +1,11 @@
 {
  "daily": {
-  "2026-11-20": 8,
   "2026-11-21": 6,
   "2026-11-23": 3,
   "2026-11-24": 3,
   "2026-11-25": 8,
-  "2026-11-26": 1
+  "2026-11-26": 1,
+  "2026-11-27": 1
  },
  "fails": {
   "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/": 1,
@@ -46,6 +46,8 @@
   "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/": "2026-11-26T11:28:47.210776+00:00",
   "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/news/what-are-the-main-events-for-today-93/": "2026-11-25T10:01:40.286528+00:00",
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-11-26T20:25:40.226263+00:00",
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RwNHA5bkQ4LVZGYjM5TDc1T2FhZW95S3AzT05sMUpXNXluT3Z6a29Kdk00ckMzV0J2alp0NXpzVklsZFZMOTBGY25XTUtqMElJQWlVcnNHd3JFeDdpSzVVeHdXbXFOLVlCZ0dsd2JHdjU3WlF2VmgzQmhlb2hBNkRmN2RRU3B3eE1qYjJTRGx1Y2JpUUw1aEhnYndoV2ZSTnFaNG53WEM1VFU?oc=5": "2026-11-26T20:25:40.226263+00:00",
   "https://www.fxempire.com/forecasts/article/gold-and-silver-retreat-as-bearish-momentum-returns-amid-cooling-ai-trade-1647088": "2026-11-25T10:01:40.286528+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-etf-outflows-threaten-golds-sharp-recovery-1646912": "2026-11-24T17:01:51.319626+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-lower-yields-fuel-rebound-despite-fed-hike-bets-1647449": "2026-11-26T11:28:47.210776+00:00",
@@ -234,6 +236,21 @@
     "yields"
    ],
    "ts": "2026-11-26T11:28:47.210776+00:00"
+  },
+  {
+   "tok": [
+    "await",
+    "canadian",
+    "data",
+    "dollar",
+    "edges",
+    "gdp",
+    "investors",
+    "key",
+    "kitco",
+    "lower"
+   ],
+   "ts": "2026-11-26T20:25:40.226263+00:00"
   }
  ]
 }
