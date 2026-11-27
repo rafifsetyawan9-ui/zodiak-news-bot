@@ -5,7 +5,7 @@
   "2026-11-24": 3,
   "2026-11-25": 8,
   "2026-11-26": 1,
-  "2026-11-27": 2
+  "2026-11-27": 3
  },
  "fails": {
   "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/": 1,
@@ -42,9 +42,9 @@
  "links": {
   "https://investinglive.com/central-banks/australia-trimmed-mean-cpi-jumps-to-3-8-in-october-keeping-further-rba-hike-risk-alive/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/": "2026-11-25T01:24:51.714007+00:00",
+  "https://investinglive.com/commodities/crude-oil-extends-the-rebound-as-growth-concerns-ease-and-us-iran-tensions-provide-support/": "2026-11-27T11:56:06.065938+00:00",
   "https://investinglive.com/commodities/gold-erases-gains-as-nvidia-optimism-fades-and-us-moves-to-restore-tariffs-to-2025-levels/": "2026-11-25T10:01:40.286528+00:00",
   "https://investinglive.com/commodities/gold-s-downside-looks-limited-because-the-dollar-has-already-done-most-of-its-work-cba-says/": "2026-11-27T03:00:09.293841+00:00",
-  "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/": "2026-11-24T05:58:08.179008+00:00",
   "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/": "2026-11-26T11:28:47.210776+00:00",
   "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/news/what-are-the-main-events-for-today-93/": "2026-11-25T10:01:40.286528+00:00",
@@ -54,43 +54,10 @@
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-etf-outflows-threaten-golds-sharp-recovery-1646912": "2026-11-24T17:01:51.319626+00:00",
   "https://www.fxempire.com/forecasts/article/gold-price-forecast-lower-yields-fuel-rebound-despite-fed-hike-bets-1647449": "2026-11-26T11:28:47.210776+00:00",
   "https://www.fxempire.com/forecasts/article/u-s-dollar-retreats-on-tariff-hike-analysis-for-eur-usd-gbp-usd-usd-cad-usd-jpy-1646946": "2026-11-24T17:01:51.319626+00:00",
-  "https://www.investing.com/news/commodities-news/gold-extends-rebound-as-nvidia-ceo-news-lifts-equities-dipbuying-lifts-bullion-5046835": "2026-11-24T05:58:08.179008+00:00"
+  "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-risk-rebound-offsets-fed-repricing-5053272": "2026-11-27T11:56:06.065938+00:00"
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "bets",
-    "bullion",
-    "fed",
-    "gold",
-    "keep",
-    "pressure",
-    "rate",
-    "rebound",
-    "sharp",
-    "slips"
-   ],
-   "ts": "2026-11-24T05:58:08.179008+00:00"
-  },
-  {
-   "tok": [
-    "hit",
-    "iran",
-    "low",
-    "mines",
-    "month",
-    "near",
-    "oil",
-    "sits",
-    "supply",
-    "tankers",
-    "three",
-    "wins",
-    "yet"
-   ],
-   "ts": "2026-11-24T05:58:08.179008+00:00"
-  },
   {
    "tok": [
     "analysis",
@@ -256,6 +223,23 @@
     "work"
    ],
    "ts": "2026-11-27T03:00:09.293841+00:00"
+  },
+  {
+   "tok": [
+    "concerns",
+    "crude",
+    "ease",
+    "extends",
+    "growth",
+    "iran",
+    "oil",
+    "provide",
+    "rebound",
+    "support",
+    "tensions",
+    "us"
+   ],
+   "ts": "2026-11-27T11:56:06.065938+00:00"
   }
  ]
 }
