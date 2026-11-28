@@ -40,13 +40,10 @@
   "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115": 1
  },
  "links": {
-  "https://investinglive.com/central-banks/australia-trimmed-mean-cpi-jumps-to-3-8-in-october-keeping-further-rba-hike-risk-alive/": "2026-11-25T01:24:51.714007+00:00",
-  "https://investinglive.com/central-banks/us-pce-preview-inflation-seen-near-3-8-in-the-fed-s-last-read-before-a-december-hike/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/commodities/crude-oil-extends-the-rebound-as-growth-concerns-ease-and-us-iran-tensions-provide-support/": "2026-11-27T11:56:06.065938+00:00",
   "https://investinglive.com/commodities/gold-erases-gains-as-nvidia-optimism-fades-and-us-moves-to-restore-tariffs-to-2025-levels/": "2026-11-25T10:01:40.286528+00:00",
   "https://investinglive.com/commodities/gold-s-downside-looks-limited-because-the-dollar-has-already-done-most-of-its-work-cba-says/": "2026-11-27T03:00:09.293841+00:00",
   "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/": "2026-11-26T11:28:47.210776+00:00",
-  "https://investinglive.com/news/japan-services-producer-prices-jump-4-2-in-october-firming-the-case-for-a-boj-hike/": "2026-11-25T01:24:51.714007+00:00",
   "https://investinglive.com/news/what-are-the-main-events-for-today-93/": "2026-11-25T10:01:40.286528+00:00",
   "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqalFQMEJZcTRGQUUtck45dzl5MEtzYmFhZURNVVU1NnFwcXZuNG9MQnhoenNBc28yV2RHU18wM3BuT3RpRnJPQ0FKbkNzMmlLbWxUUmduQjdPUFpGSkt3?oc=5": "2026-11-26T20:25:40.226263+00:00",
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1RwNHA5bkQ4LVZGYjM5TDc1T2FhZW95S3AzT05sMUpXNXluT3Z6a29Kdk00ckMzV0J2alp0NXpzVklsZFZMOTBGY25XTUtqMElJQWlVcnNHd3JFeDdpSzVVeHdXbXFOLVlCZ0dsd2JHdjU3WlF2VmgzQmhlb2hBNkRmN2RRU3B3eE1qYjJTRGx1Y2JpUUw1aEhnYndoV2ZSTnFaNG53WEM1VFU?oc=5": "2026-11-26T20:25:40.226263+00:00",
@@ -59,55 +56,6 @@
  },
  "reminders": {},
  "titles": [
-  {
-   "tok": [
-    "before",
-    "december",
-    "fed",
-    "hike",
-    "inflation",
-    "last",
-    "near",
-    "pce",
-    "preview",
-    "read",
-    "seen",
-    "us"
-   ],
-   "ts": "2026-11-25T01:24:51.714007+00:00"
-  },
-  {
-   "tok": [
-    "alive",
-    "australia",
-    "cpi",
-    "further",
-    "hike",
-    "jumps",
-    "keeping",
-    "mean",
-    "october",
-    "rba",
-    "risk",
-    "trimmed"
-   ],
-   "ts": "2026-11-25T01:24:51.714007+00:00"
-  },
-  {
-   "tok": [
-    "boj",
-    "case",
-    "firming",
-    "hike",
-    "japan",
-    "jump",
-    "october",
-    "prices",
-    "producer",
-    "services"
-   ],
-   "ts": "2026-11-25T01:24:51.714007+00:00"
-  },
   {
    "tok": [
     "ai",
